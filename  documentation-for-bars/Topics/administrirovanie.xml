@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="ilya.gladkov" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Администрирование</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Администрирование</text></para>
+    </header>
+    <para styleclass="Heading3"><text styleclass="Heading3" translate="true">Администрирование</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Раздел «Администрирование» используется для стратегического управления настройками доступа и оптимизации работы в системе, позволяет добавлять или изменять учетные записи пользователей (назначать </text><link displaytype="text" defaultstyle="true" type="topiclink" href="administrirovanie_nastroika_polzovatelei_roli" styleclass="Normal" translate="true">роли<title translate="true">Настройка ролей</title></link><text styleclass="Normal" translate="true"> и </text><link displaytype="text" defaultstyle="true" type="topiclink" href="administrirovanie_nastroiki_statusov_statusi" styleclass="Normal" translate="true">статусы<title translate="true">Настройка статусов</title></link><text styleclass="Normal" translate="true">), настраивать права их доступа к различным разделам системы. А также позволяет осуществлять мониторинг текущего состояния системы, изменяющегося в реальном времени, управлять данными, вести мониторинг активных (удаленных) пользователей с помощью периодического опроса компьютеров.</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Механизм мониторинга позволяет получать своевременные оповещения о различных событиях в системе.</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Цель администрирования - приведение системы в соответствие с целями и задачами, для которых она предназначена. Достигается эта цель путём управления сетью, позволяющего минимизировать затраты времени и ресурсов, направляемых на управление системой, и в тоже время максимизировать доступность, производительность и продуктивность системы.</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><table styleclass="Warning" rowcount="1" colcount="1" style="width:100%; cell-padding:4px; cell-spacing:1px; page-break-inside:avoid;">
+      <tr style="vertical-align:middle">
+        <td style="height:23px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Внимание: рекомендуется предоставлять доступ к данному разделу ограниченному кругу лиц, которые осуществляют настройку или поддержку Системы.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="ilya.gladkov" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Карточка лицевого счета</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><link displaytype="text" defaultstyle="false" type="topiclink" href="regionalnii_operator" styleclass="Heading1" translate="true">Региональный оператор<title translate="true">Региональный оператор</title></link><text styleclass="Heading1" translate="true"> / </text><link displaytype="text" defaultstyle="false" type="topiclink" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov" styleclass="Heading1" translate="true">Обслуживание лицевых счетов абонентов<title translate="true">Обслуживание лицевых счетов абонентов</title></link><text styleclass="Heading1" translate="true"> / </text><link displaytype="text" defaultstyle="false" type="topiclink" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov" styleclass="Heading1" translate="true">Реестр лицевых счетов<title translate="true">Реестр лицевых счетов</title></link><text styleclass="Heading1" translate="true"> / Карточка лицевого счета</text></para>
+    </header>
+    <para styleclass="Heading3"><text styleclass="Heading3" translate="true">Карточка лицевого счета</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Реестр лицевых счетов позволяет вести учет сведений о лицевых счетах абонентов, а также операций по ним, в виде карточек лицевого счета.</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Карточка лицевого счета содержит сведения об абоненте, а также закрепленном за ним лицевом счете, с указанием начисленных взносов и задолженности. Помимо этого карточка лицевого счета служит для контроля операций по лицевому счету (просмотра истории операций и изменений).</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для работы с карточкой лицевого счета необходимо в разделе «Реестр лицевых счетов» выбрать необходимое наименование лицевого счета и нажать кнопку «Редактировать». После этого откроется новая вкладка с разделом «Лицевой счет».</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="reginalnii_operator_reestr_licevih_schetov_edit_licevoi_schet_main.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Раздел лицевой счет</title></image></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Кнопки используемые в разделе «Лицевой счет»:</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><table styleclass="Warning" rowcount="5" colcount="2" style="width:100%; cell-padding:0px; page-break-inside:avoid; border-width:1px; border-spacing:0px; cell-border-width:0px; border-color:#e2e2e2; border-style:solid; background-color:#f5f5f5; head-row-background-color:#f5f5f5; alt-row-background-color:none;">
+      <thead style="vertical-align:top">
+        <td style="vertical-align:bottom; width:2%;">
+          <para styleclass="Normal"><image src="baton_search_small.png" scale="100.00%" styleclass="Normal"><title translate="true">Выбрать элемент</title></image></para>
+        </td>
+        <td style="vertical-align:middle;">
+          <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Нажать, если нужно выбрать элемент из списка</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:bottom; width:2%;">
+          <para styleclass="Normal"><image src="baton_delete_small.png" scale="100.00%" styleclass="Normal"><title translate="true">Очистить поле</title></image></para>
+        </td>
+        <td style="vertical-align:middle;">
+          <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Нажать, если нужно очистить поле</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:bottom; width:2%;">
+          <para styleclass="Normal"><image src="baton_edit_orahge_small.png" scale="100.00%" styleclass="Normal"><title translate="true">Сменить значение</title></image></para>
+        </td>
+        <td style="vertical-align:middle;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Нажать, если нужно сменить значения в поле</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:bottom; width:2%;">
+          <para styleclass="Normal"><image src="baton_edit_small.png" scale="100.00%" styleclass="Normal"><title translate="true">Редактировать запись</title></image></para>
+        </td>
+        <td style="vertical-align:middle;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Нажать, если нужно отредактировать существующую запись</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:bottom; width:2%;">
+          <para styleclass="Normal"><image src="baton_protokol.png" scale="100.00%" styleclass="Normal"><title translate="true">Просмотреть протокол</title></image></para>
+        </td>
+        <td style="vertical-align:middle;">
+          <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Нажать, если нужно открыть в новом окне протокол счета</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">В карточке лицевого счета отображается основная информация об абоненте – владельце спецсчета, сведения о лицевом счете с указанием результатов операций по нему, а также результат операций по счету с детализацией по входящему и исходящему сальдо.</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><table styleclass="Warning" rowcount="1" colcount="1" style="width:100%; cell-padding:6px; cell-spacing:1px; page-break-inside:avoid;">
+      <tr style="vertical-align:middle">
+        <td style="height:23px;">
+          <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Внимание: д</text><text styleclass=" " style="font-family:Tahoma; font-size:10pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">ля просмотра истории проведения операций по лицевому счету, а также истории изменений - следует использовать навигацию по вкладкам раздела.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для просмотра документов по операциям лицевого счета следует перейти в окно «Операции», расположенное в нижней части окна формы «Лицевой счет» и выбрать соответствующую запись периода, и нажать кнопку «Редактировать». В результате выполнения операции на экране появится окно формы «Операции за период».</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="reginalnii_operator_reestr_licevih_schetov_edit_licevoi_schet_edit_operacii.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Просмотр операций за период</title></image></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Кнопки используемые в окне «Операции за период»:</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><table styleclass="Warning" rowcount="1" colcount="2" style="width:100%; cell-padding:0px; page-break-inside:avoid; border-width:1px; border-spacing:0px; cell-border-width:0px; border-color:#e2e2e2; border-style:solid; background-color:#f5f5f5; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:2%;">
+          <para styleclass="Normal"><image src="baton_close_small.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Закрыть окно</title></image></para>
+        </td>
+        <td style="vertical-align:middle;">
+          <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Нажать, если нужно закрыть окно без изменений</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">В открывшемся окне следует выбрать необходимое наименование операции и нажать кнопку </text><image src="baton_document.png" scale="100.00%" styleclass="Image Caption"></image><text styleclass="Normal" translate="true"> - в столбце «Документ». В результате выполнения операции, на экране откроется окно «Документ операции».</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="reginalnii_operator_reestr_licevih_schetov_edit_licevoi_schet_edit_operacii_doc_operacii.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Окно документ операции</title></image></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Кнопки используемые в окне «Документ операции»:</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><table styleclass="Warning" rowcount="1" colcount="2" style="width:100%; cell-padding:0px; page-break-inside:avoid; border-width:1px; border-spacing:0px; cell-border-width:0px; border-color:#e2e2e2; border-style:solid; background-color:#f5f5f5; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:2%;">
+          <para styleclass="Normal"><image src="baton_close_small.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Закрыть окно</title></image></para>
+        </td>
+        <td style="vertical-align:middle;">
+          <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Нажать, если нужно закрыть окно без изменений</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">В случае если данные об абоненте подлежат редактированию, можно осуществить мгновенный переход к карточке абонента.</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для этого следует в разделе «Лицевой счет» нажать кнопку «Перейти к абоненту», расположенную на панели инструментов вкладки «Общие сведения». После этого откроется окно </text><link displaytype="text" defaultstyle="true" type="topiclink" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_sozdanie_licevogo_scheta_abonenta" styleclass="Normal" translate="true">«Карточка абонента»<title translate="true">Раздел «Создание лицевого счета абонента»</title></link><text styleclass="Normal" translate="true">.</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="reginalnii_operator_reestr_licevih_schetov_edit_licevoi_schet_go_kartochka_abonenta.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Переход к карточке абонента</title></image></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Кнопки используемые в окне «Карточка абонента»:</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><table styleclass="Warning" rowcount="6" colcount="2" style="width:100%; cell-padding:0px; page-break-inside:avoid; border-width:1px; border-spacing:0px; cell-border-width:0px; border-color:#e2e2e2; border-style:solid; background-color:#f5f5f5; head-row-background-color:#f5f5f5; alt-row-background-color:none;">
+      <thead style="vertical-align:top">
+        <td style="vertical-align:bottom; width:2%;">
+          <para styleclass="Normal"><image src="buton_save_small.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Сохранить запись</title></image></para>
+        </td>
+        <td style="vertical-align:middle;">
+          <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Нажать, если нужно сохранить все изменения</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:bottom; width:2%;">
+          <para styleclass="Normal"><image src="baton_close_small.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Закрыть окно</title></image></para>
+        </td>
+        <td style="vertical-align:middle;">
+          <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Нажать, если нужно закрыть форму без изменений</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:bottom; width:2%;">
+          <para styleclass="Normal"><image src="baton_search_small.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Выбрать элемент</title></image></para>
+        </td>
+        <td style="vertical-align:middle;">
+          <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Нажать, если нужно выбрать элемент из списка</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:bottom; width:2%;">
+          <para styleclass="Normal"><image src="baton_strelka_small.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Выбрать из списка</title></image></para>
+        </td>
+        <td style="vertical-align:middle;">
+          <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Нажать, если нужно выбрать запись из списка</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:bottom; width:2%;">
+          <para styleclass="Normal"><image src="baton_delete_small.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Очистить поле</title></image></para>
+        </td>
+        <td style="vertical-align:middle;">
+          <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Нажать, если нужно очистить поле</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:bottom; width:2%;">
+          <para styleclass="Normal"><image src="baton_data_small.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Выбрать дату</title></image></para>
+        </td>
+        <td style="vertical-align:middle;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Нажать, если нужно настроить фильтр по дате</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для формирования отчета по лицевому счету следует в окне формы «Лицевой счет» нажать кнопку «Отчет по ЛС», расположенную на панели инструментов вкладки «Общие сведения». В результате выполнения операции на экране откроется диалоговое окно сохранения файла.</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+  </body>
+</topic>

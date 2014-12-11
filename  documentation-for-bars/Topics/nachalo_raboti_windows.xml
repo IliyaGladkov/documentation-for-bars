@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="ilya.gladkov" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Окна</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><link displaytype="text" defaultstyle="false" type="topiclink" href="nachalo_raboti" styleclass="Heading1" translate="true">Начало работы<title translate="true">Начало работы</title></link><text styleclass="Heading1" translate="true"> / Окна</text></para>
+    </header>
+    <para styleclass="Heading3"><text styleclass="Heading3" translate="true">Работа с окнами</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">В системе работа с некоторыми функциями происходит в отдельных окнах. Сюда могут быть отнесены окна создания/редактирования данных, создания/добавления/редактирования документов, а также окна отображающие информационные сообщения.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Каждое из этих окон содержит несколько кнопок для работы с ними:</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="nachalo_raboti_windows.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Окна в системе</title></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Кнопку управления, которые встречаются в окнах:</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.70; white-space:normal; page-break-inside:auto; page-break-after:auto; tabstops:none;"><image src="baton_add_small.png" align="left" scale="100.00%" styleclass="Image Caption"><title translate="true">Добавить запись</title></image></para>
+    <para styleclass="Normal" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.70; white-space:normal; page-break-inside:auto; page-break-after:auto; tabstops:none;"><text styleclass="Normal" translate="true"> &#160;Добавить запись. Кнопка добавляет новые записи в разделы.</text></para>
+    <para styleclass="Normal" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.70; white-space:normal; page-break-inside:auto; page-break-after:auto; tabstops:none;"><image src="buton_save_small.png" align="left" scale="100.00%" styleclass="Normal"><title translate="true">Сохранить запись</title></image></para>
+    <para styleclass="Normal" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.70; white-space:normal; page-break-inside:auto; page-break-after:auto; tabstops:none;"><text styleclass="Normal" translate="true"> &#160;Сохранить запись. Кнопка сохраняет все добавленные или измененные данные.</text></para>
+    <para styleclass="Normal" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.70; white-space:normal; page-break-inside:auto; page-break-after:auto; tabstops:none;"><image src="baton_close_small.png" align="left" scale="100.00%" styleclass="Normal"><title translate="true">Закрыть окно</title></image></para>
+    <para styleclass="Normal" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.70; white-space:normal; page-break-inside:auto; page-break-after:auto; tabstops:none;"><text styleclass="Normal" translate="true"> &#160;Закрыть окно без изменений. С помощью данной кнопки можно закрыть окно.</text></para>
+    <para styleclass="Normal" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.70; white-space:normal; page-break-inside:auto; page-break-after:auto; tabstops:none;"><image src="baton_update_small.png" align="left" scale="100.00%" styleclass="Image Caption"><title translate="true">Обновить</title></image></para>
+    <para styleclass="Normal" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.70; white-space:normal; page-break-inside:auto; page-break-after:auto; tabstops:none;"><text styleclass="Normal" translate="true"> &#160;Обновить. Кнопка позволяет обновить таблицу с данными.</text></para>
+    <para styleclass="Normal" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.70; white-space:normal; page-break-inside:auto; page-break-after:auto; tabstops:none;"><image src="baton_ocherednost_small.png" align="left" scale="100.00%" styleclass="Image Caption"><title translate="true">Импорт</title></image></para>
+    <para styleclass="Normal" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.70; white-space:normal; page-break-inside:auto; page-break-after:auto; tabstops:none;"><text styleclass="Normal" translate="true"> &#160;Импорт. С помощью данной кнопки осуществляется импорт разных данных в систему.</text></para>
+    <para styleclass="Normal" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.70; white-space:normal; page-break-inside:auto; page-break-after:auto; tabstops:none;"><image src="baton_pechat.png" align="left" scale="100.00%" styleclass="Image Caption"><title translate="true">Печать</title></image></para>
+    <para styleclass="Normal" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.70; white-space:normal; page-break-inside:auto; page-break-after:auto; tabstops:none;"><text styleclass="Normal" translate="true"> &#160;Печать. Кнопка позволяет распечатать документ, который находится в настоящем разделе.</text></para>
+    <para styleclass="Normal" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.70; white-space:normal; page-break-inside:auto; page-break-after:auto; tabstops:none;"><image src="baton_cloze_window.png" align="left" scale="100.00%" styleclass="Image Caption"><title translate="true">Закрыть окно</title></image></para>
+    <para styleclass="Normal" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.70; white-space:normal; page-break-inside:auto; page-break-after:auto; tabstops:none;"><text styleclass="Normal" translate="true"> &#160;Закрыть окно. С помощью данной кнопки можно закрыть окно.</text></para>
+    <para styleclass="Normal" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.70; white-space:normal; page-break-inside:auto; page-break-after:auto; tabstops:none;"><image src="baton_open_window.png" align="left" scale="100.00%" styleclass="Image Caption"><title translate="true">Развернуть окно</title></image></para>
+    <para styleclass="Normal" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.70; white-space:normal; page-break-inside:auto; page-break-after:auto; tabstops:none;"><text styleclass="Normal" translate="true"> &#160;Развернуть окно. При нажатии данной кнопки размер окна будет максимизирован на весь экран. Для возвращения к исходному размеру, необходимо повторное нажатие на кнопку.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><table styleclass="Warning" rowcount="1" colcount="1" style="width:100%; cell-padding:4px; cell-spacing:1px; page-break-inside:avoid;">
+      <tr style="vertical-align:middle">
+        <td style="height:23px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Внимание: при закрытии или обновлении страницы системы все свернутые окна сохранены не будут. Следует сохранить все необходимые изменения и только после этого перезагружать страницу.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Также можно перемещать некоторые окна. Для этого необходимо нажать левой кнопкой мыши на его заголовке и, удерживая, перенести в необходимое место (Drag&apos;n&apos;Drop). Чтобы изменить размер окна, необходимо потянуть его за любой край.</text></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="ilya.gladkov" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Закрытие</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><link displaytype="text" defaultstyle="false" type="topiclink" href="regionalnii_operator" styleclass="Heading1" translate="true">Региональный оператор<title translate="true">Региональный оператор</title></link><text styleclass="Heading1" translate="true"> / </text><link displaytype="text" defaultstyle="false" type="topiclink" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov" styleclass="Heading1" translate="true">Обслуживание лицевых счетов абонентов<title translate="true">Обслуживание лицевых счетов абонентов</title></link><text styleclass="Heading1" translate="true"> / </text><link displaytype="text" defaultstyle="false" type="topiclink" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov" styleclass="Heading1" translate="true">Реестр лицевых счетов<title translate="true">Реестр лицевых счетов</title></link><text styleclass="Heading1" translate="true"> / </text><link displaytype="text" defaultstyle="false" type="topiclink" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov_operacii_po_licevim_schetam" styleclass="Heading1" translate="true">Операции по лицевым счетам<title translate="true">Операции по лицевым счетам</title></link><text styleclass="Heading1" translate="true"> / </text><link displaytype="text" defaultstyle="false" type="topiclink" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov_operacii_po_licevim_schetam_operacii" styleclass="Heading1" translate="true">Другие операции<title translate="true">Другие операции</title></link><text styleclass="Heading1" translate="true"> / Закрытие</text></para>
+    </header>
+    <para styleclass="Heading3"><text styleclass="Heading3" translate="true">Закрытие</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Операция закрытия лицевого счета (на примере счета юридического лица) производится в случае:</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#565656;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Реорганизации (ликвидации) клиента;</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Отмены бюджетных полномочий клиента для отражения операций, по выполнению которых открывался лицевой счет;</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Изменения типа учреждения;</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">В иных случаях, предусмотренных бюджетным законодательством Российской Федерации.</text></li>
+    </list>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><table styleclass="Warning" rowcount="1" colcount="1" style="width:100%; cell-padding:6px; cell-spacing:1px; page-break-inside:avoid;">
+      <tr style="vertical-align:middle">
+        <td style="height:23px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Внимание: операция закрытия лицевого счета может проводиться только для одного ЛС. При выборе нескольких ЛС, на экране появится сообщение об ошибке &quot;Необходимо выбрать один лицевой счет!&quot;.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">В результате закрытия лицевого счета, ЛС будет присвоен статус «Закрыт».</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><table styleclass="Warning" rowcount="1" colcount="1" style="width:100%; cell-padding:6px; cell-spacing:1px; page-break-inside:avoid;">
+      <tr style="vertical-align:middle">
+        <td style="height:23px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Внимание: при закрытии ЛС, необходимо наличие записи лицевого счета с нулевой долей собственности. Значение исходящего сальдо должно быть равно нулю.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Если оба условия выполняются, то ЛС принимает статус «Закрыт». В противном случае на экране появится сообщение: «Лицевой счет невозможно закрыть, пока доля собственности и исходящее сальдо не будут равны 0».</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для выполнения операции закрытия лицевого счета следует в реестре лицевых счетов выбрать соответствующее наименование записи, установив « флажок» в поле выбора параметра. Далее нажать кнопку «Другие операции» и в контекстном меню второго уровня выбрать тип операции «Закрытие».</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="reginalnii_operator_reestr_licevih_schetov_close.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Закрытие лицевого счета</title></image></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">После этого на экране появится окно формы «Закрытие счета», где в поле «Дата закрытия» выбрать значение, соответствующую дате закрытия лицевого счета абонента. Для выполнения операции нажать кнопку «Подтвердить».</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="reginalnii_operator_reestr_licevih_schetov_close_window.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Окно закрытия счета</title></image></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">В результате выполнения операции лицевому счету абонента будет присвоен статус «Закрыт».</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+  </body>
+</topic>

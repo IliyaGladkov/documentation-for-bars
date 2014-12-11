@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="ilya.gladkov" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Критерии формирования очередности по баллам</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><link displaytype="text" defaultstyle="false" type="topiclink" href="capitalnii_remont_dolgosrochnaya_programma_formirovanie_dpkr_formirovanie_ocheredi_gilih_domov_parametri_ocherednosti" styleclass="Heading1" translate="true">Справочник Параметры очередности<title translate="true">Справочник Параметры очередности</title></link><text styleclass="Heading1" translate="true"> / Критерии формирования очередности по баллам</text></para>
+    </header>
+    <para styleclass="Heading3"><text styleclass="Heading3" translate="true">Критерии формирования очередности по баллам</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <list id="2" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Tahoma; font-size:10pt; color:#565656;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Год ввода в эксплуатацию МКД</text></li>
+    </list>
+    <para styleclass="Normal" style="text-indent:0px; margin-right:0px; margin-left:13px; tabstops:none;"><text styleclass="Normal" translate="true">Система получает значения из: Жилой дом \ Общие сведения \ поле «Дата сдачи в эксплуатацию»</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <list id="2" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Tahoma; font-size:10pt; color:#565656;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Год ввода постройки</text></li>
+    </list>
+    <para styleclass="Normal" style="text-indent:0px; margin-right:0px; margin-left:13px; tabstops:none;"><text styleclass="Normal" translate="true">Система получает значения из: Жилой дом \ Общие сведения \ поле «Год постройки»</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <list id="2" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Tahoma; font-size:10pt; color:#565656;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Дата последнего КР в МКД (в т.ч. отдельных КЭ)</text></li>
+    </list>
+    <para styleclass="Normal" style="text-indent:0px; margin-right:0px; margin-left:13px; tabstops:none;"><text styleclass="Normal" translate="true">Система получает максимальное значение из: Жилой дом \ Конструктивные характеристики \ поле «Год установки или последнего капремонта»</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <list id="2" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Tahoma; font-size:10pt; color:#565656;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Количество ООИ, подлежащих ремонту</text></li>
+    </list>
+    <para styleclass="Normal" style="text-indent:0px; margin-right:0px; margin-left:13px; tabstops:none;"><text styleclass="Normal" translate="true">Система получает значение из: Капитальный ремонт \ Региональная программа \ Долгосрочная программа</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <list id="2" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Tahoma; font-size:10pt; color:#565656;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Общая площадь жилых помещений</text></li>
+    </list>
+    <para styleclass="Normal" style="text-indent:0px; margin-right:0px; margin-left:13px; tabstops:none;"><text styleclass="Normal" translate="true">Система получает значения из: Жилой дом \ Общие сведения \ поле «в т.ч. жилых всего».</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <list id="2" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Tahoma; font-size:10pt; color:#565656;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Плотность населения в доме</text></li>
+    </list>
+    <para styleclass="Normal" style="text-indent:0px; margin-right:0px; margin-left:14px; tabstops:none;"><text styleclass="Normal" translate="true">Формула расчета: Плотность населения = Количество проживающих \ Жилая площадь МКД.</text></para>
+    <para styleclass="Normal" style="text-indent:0px; margin-right:0px; margin-left:14px; tabstops:none;"><text styleclass="Normal" translate="true">Система получает значения из: Жилой дом \ Общие сведения \ поля: «Количество проживающих», «в т.ч. жилых всего».</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <list id="2" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Tahoma; font-size:10pt; color:#565656;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Последний год проведения КР ООИ</text></li>
+    </list>
+    <para styleclass="Normal" style="text-indent:0px; margin-right:0px; margin-left:14px; tabstops:none;"><text styleclass="Normal" translate="true">Система получает значения из: Жилой дом \ Конструктивные характеристики \ поля: «Год установки или последнего капремонта».</text></para>
+    <para styleclass="Normal" style="text-indent:0px; margin-right:0px; margin-left:14px; tabstops:none;"><text styleclass="Normal" translate="true">В качестве года, Система берет наибольшее значение по КЭ ООИ.</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <list id="2" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Tahoma; font-size:10pt; color:#565656;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Собираемость взносов на КР</text></li>
+    </list>
+    <para styleclass="Normal" style="text-indent:0px; margin-right:0px; margin-left:13px; tabstops:none;"><text styleclass="Normal" translate="true">Система получает значения из: Жилой дом \ Общие сведения \ поле «Собираемость платежей».</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <list id="2" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Tahoma; font-size:10pt; color:#565656;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Тех. состояние (износ) МКД</text></li>
+    </list>
+    <para styleclass="Normal" style="text-indent:0px; margin-right:0px; margin-left:16px; tabstops:none;"><text styleclass="Normal" translate="true">Система получает значения из: Жилой дом \ Общие сведения \ поле «Физический износ».</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <list id="2" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Tahoma; font-size:10pt; color:#565656;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Физический износ ООИ</text></li>
+    </list>
+    <para styleclass="Normal" style="text-indent:0px; margin-right:0px; margin-left:19px; tabstops:none;"><text styleclass="Normal" translate="true">Система получает среднее значение из: Жилой дом \ Конструктивные характеристики \ поле «Износ».</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">11. Эксплуатация МКД (год)</text></para>
+    <para styleclass="Normal" style="text-indent:0px; margin-right:0px; margin-left:23px; tabstops:none;"><text styleclass="Normal" translate="true">Формула расчета: Эксплуатация МКД = Плановый год ремонта – Год ввода в эксплуатацию</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Система получает среднее значения по:</text></para>
+    <list id="3" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#565656;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Плановый год: реестр «Долгосрочная программа» по текущей записи;</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Год ввода в эксплуатацию: Жилой дом \ Общие сведения \ поле «Дата ввода в эксплуатацию».</text></li>
+    </list>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">12. Количество КЭ, требующих ремонта. </text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Готовые значения:</text></para>
+    <list id="3" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-indent:0px; margin-right:0px; margin-left:24px; tabstops:none; font-family:Symbol; font-size:10pt; color:#565656;">
+      <li styleclass="Normal" style="text-indent:0px; margin-right:0px; margin-left:24px; tabstops:none;"><text styleclass="Normal" translate="true">Полный перечень работ и (или) услуг по КР</text></li>
+      <li styleclass="Normal" style="text-indent:0px; margin-right:0px; margin-left:24px; tabstops:none;"><text styleclass="Normal" translate="true">50% от перечня услуг и (или) работ по КР</text></li>
+      <li styleclass="Normal" style="text-indent:0px; margin-right:0px; margin-left:24px; tabstops:none;"><text styleclass="Normal" translate="true">отдельные виды услуг и (или) работ по КР</text></li>
+    </list>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Расшифровка:</text></para>
+    <list id="3" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-indent:0px; margin-right:0px; margin-left:24px; tabstops:none; font-family:Symbol; font-size:10pt; color:#565656;">
+      <li styleclass="Normal" style="text-indent:0px; margin-right:0px; margin-left:24px; tabstops:none;"><text styleclass="Normal" translate="true">Полный перечень работ и (или) услуг по КР - если в первый год периода ДПКР попали все ООИ дома.</text></li>
+      <li styleclass="Normal" style="text-indent:0px; margin-right:0px; margin-left:24px; tabstops:none;"><text styleclass="Normal" translate="true">50% от перечня услуг и (или) работ по КР - если в первый год периода ДПКР попали от 50 до 99% всех ООИ дома.</text></li>
+      <li styleclass="Normal" style="text-indent:0px; margin-right:0px; margin-left:24px; tabstops:none;"><text styleclass="Normal" translate="true">отдельные виды услуг и (или) работ по КР - если в первый год периода ДПКР попали от 1 до 49% &#160;всех ООИ дома.</text></li>
+    </list>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">13. Группа капитальности</text></para>
+    <para styleclass="Normal" style="text-indent:0px; margin-right:0px; margin-left:23px; tabstops:none;"><text styleclass="Normal" translate="true">Система получает среднее значение из: Жилой дом \ Общие сведения \ поле «Группа капитальности».</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">14. Значимость капремонта ООИ</text></para>
+    <para styleclass="Normal" style="text-indent:0px; margin-right:0px; margin-left:23px; tabstops:none;"><text styleclass="Normal" translate="true">Система получает среднее значение из: записи ДПКР (реестр «Долгосрочная программа»), определяет ООИ в этой записи и присваивает количество баллов, соответствующее этому ООИ. Если в записи несколько ООИ, то баллы будут суммироваться по всем ООИ.</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">15. Комплексность ремонта по видам работ</text></para>
+    <para styleclass="Normal" style="text-indent:0px; margin-right:0px; margin-left:23px; tabstops:none;"><text styleclass="Normal" translate="true">Система получает среднее значение из: Капитальный ремонт \ Региональная программа \ Долгосрочная программа</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+  </body>
+</topic>

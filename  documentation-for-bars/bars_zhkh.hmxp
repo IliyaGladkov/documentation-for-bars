@@ -1,0 +1,1049 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<helpproject xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="helpproject.xsd" version="1.6" isskin="false" isrepository="false">
+  <config>
+    <namespaces/>
+    <export-task-groups>
+      <export-task-group name="Последние опубликованные">
+        <export-tasks>
+          <export-task name="Публиковать как HTM" format="HTM">
+            <task-config-group name="settings">
+              <task-config-value name="outputfile">..\..\..\Desktop\Projects\WEB\Bars_zhkh.html</task-config-value>
+              <task-config-value name="make3include">HTML</task-config-value>
+              <task-config-value name="make3status">*</task-config-value>
+            </task-config-group>
+          </export-task>
+          <export-task name="Публиковать как CHM" format="CHM">
+            <task-config-group name="settings">
+              <task-config-value name="outputfile">..\..\..\Desktop\Projects\CHM\BARS_ZHKH.chm</task-config-value>
+              <task-config-value name="deletetemp">1</task-config-value>
+              <task-config-value name="make0include">CHM</task-config-value>
+              <task-config-value name="make0status">*</task-config-value>
+            </task-config-group>
+          </export-task>
+          <export-task name="Публиковать как RTF" format="RTF">
+            <task-config-group name="settings">
+              <task-config-value name="outputfile">..\..\..\Desktop\Projects\RTF\bars_zhkh_manual.rtf</task-config-value>
+              <task-config-value name="make5include">PRINT</task-config-value>
+              <task-config-value name="make5status">*</task-config-value>
+            </task-config-group>
+          </export-task>
+          <export-task name="Публиковать как PDF" format="PDF">
+            <task-config-group name="settings">
+              <task-config-value name="outputfile">..\..\..\Desktop\Projects\PDF\BARS.ZHKH.pdf</task-config-value>
+              <task-config-value name="template">..\..\..\Downloads\EC Software\EC Software\App\H&amp;M\Templates\PDF\UserGuide_Minimalist_BlackBlue.mnl</task-config-value>
+              <task-config-value name="make4include">PDF</task-config-value>
+              <task-config-value name="make4status">*</task-config-value>
+            </task-config-group>
+          </export-task>
+        </export-tasks>
+      </export-task-group>
+    </export-task-groups>
+    <helpwindows>
+      <helpwindow name="Main" left="0" top="0" width="-1" height="-1">
+        <caption translate="true">Комплексное решение «БАРС.ЖКХ» - &lt;%DATE%&gt;</caption>
+        <window-options-hlp autosize="true" maximize="false" posabsolute="false" keepontop="false" buttons="0" headercolor="#F0F0F0" textcolor="#FFFFFF"/>
+        <window-options-chm navigation="true" navigationwidth="200" search="true" favorite="true" saveregistry="true" buttons="14414">
+          <user-button name="jump1">
+            <caption translate="true">jump1</caption>
+          </user-button>
+          <user-button name="jump2">
+            <caption translate="true">jump2</caption>
+          </user-button>
+          <user-button name="Home">
+            <caption translate="true">Home</caption>
+          </user-button>
+        </window-options-chm>
+      </helpwindow>
+    </helpwindows>
+    <styleclasses>
+      <styleclass name="Code Example" shortcut="0">
+        <style-set media="screen" type="para">white-space:nowrap; page-break-inside:avoid;</style-set>
+        <style-set media="screen" type="text">font-family:'Courier New'; font-size:8pt;</style-set>
+      </styleclass>
+      <styleclass name="Normal" shortcut="0">
+        <style-set media="screen" type="para">text-align:left; line-height:1.35;</style-set>
+        <style-set media="screen" type="text">font-family:Tahoma; font-size:10pt; color:#565656;</style-set>
+      </styleclass>
+      <styleclass name="Comment" parentclass="Normal" shortcut="0"/>
+      <styleclass name="Heading1" parentclass="Normal" shortcut="0">
+        <style-set media="screen" type="text">color:#333333;</style-set>
+      </styleclass>
+      <styleclass name="Heading2" parentclass="Normal" nextclass="Heading1" shortcut="0">
+        <style-set media="screen" type="para">text-align:justify; line-height:1.20;</style-set>
+        <style-set media="screen" type="text">font-family:'Trebuchet MS'; font-size:11pt; font-weight:bold; color:#426288;</style-set>
+      </styleclass>
+      <styleclass name="Heading3" parentclass="Normal" nextclass="Heading1" shortcut="0">
+        <style-set media="screen" type="para">text-align:justify; line-height:1.20;</style-set>
+        <style-set media="screen" type="text">font-family:'Trebuchet MS'; font-size:14pt; font-weight:bold; color:#466891;</style-set>
+      </styleclass>
+      <styleclass name="Image Caption" parentclass="Normal" shortcut="0">
+        <style-set media="screen" type="para">line-height:1.0; border:none;</style-set>
+        <style-set media="screen" type="text">font-size:8pt; color:#808080; background-color:#ffffff;</style-set>
+      </styleclass>
+      <styleclass name="Notes" parentclass="Normal" shortcut="0"/>
+      <tablestyleclass name="Default">
+        <style-set media="screen">width:100%; cell-padding:1px; cell-spacing:0px; page-break-inside:auto; border-width:1px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#b1c2d6; border-style:solid; background-color:none; head-row-background-color:#dbe9f9; alt-row-background-color:none;</style-set>
+      </tablestyleclass>
+      <tablestyleclass name="Put" parentclass="Default">
+        <style-set media="screen">width:100%; cell-padding:0px; cell-spacing:0px; page-break-inside:avoid; border-width:1px; border-spacing:0px; cell-border-width:0px; border-color:#c0c0c0; border-style:solid; background-color:#fbfbec; head-row-background-color:none; alt-row-background-color:none;</style-set>
+      </tablestyleclass>
+      <tablestyleclass name="Warning" parentclass="Default">
+        <style-set media="screen">width:100%; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:1px; border-spacing:0px; cell-border-width:0px; border-color:#c0c0c0; border-style:solid; background-color:#f0f0f0; head-row-background-color:#f0f0f0; alt-row-background-color:none;</style-set>
+      </tablestyleclass>
+    </styleclasses>
+    <config-group name="project">
+      <config-value name="author" translate="true">Enter your company name</config-value>
+      <config-value name="copyright" translate="true">© &lt;%YEAR%&gt; &lt;%AUTHOR%&gt;</config-value>
+      <config-value name="versionmajor">1</config-value>
+      <config-value name="versionminor">0</config-value>
+      <config-value name="versionbuild">4</config-value>
+      <config-value name="lcid" translate="true">ru</config-value>
+      <config-value name="charset" translate="true">RUSSIAN_CHARSET</config-value>
+      <config-value name="deffont">font-family:'Trebuchet MS'; font-size:9pt; color:#000000; </config-value>
+      <config-value name="autohelpstart">0</config-value>
+      <config-value name="autohelpincrement">1</config-value>
+      <config-value name="autohelpanchor">0</config-value>
+      <config-value name="searchpath">.\Topics\image\;.\Topics\image\image_for_menu\</config-value>
+      <config-group name="custombuilds">
+        <config-value name="demo">Demo Build</config-value>
+        <config-value name="user1">User defined 1</config-value>
+        <config-value name="user2">User defined 2</config-value>
+        <config-value name="user3">User defined 3</config-value>
+      </config-group>
+      <config-value name="imageshortcuts_includebaggage">1</config-value>
+      <config-value name="bidimode">1</config-value>
+      <config-value name="make0include">CHM</config-value>
+      <config-value name="make0status">*</config-value>
+      <config-value name="title" translate="true">Комплексное решение «БАРС.ЖКХ»</config-value>
+      <config-value name="make3include">HTML</config-value>
+      <config-value name="make3status">*</config-value>
+      <config-value name="make4include">PDF</config-value>
+      <config-value name="make4status">*</config-value>
+      <config-value name="imageshortcuts">baton_close.png;kontragenti_baton.png;buton_save.png;baton_edit.png;baton_search.png;baton_strelka.png;status_chernovik.png;baton_export_tech_pasporta.png;baton_actualizirovanno.png;baton_delete.png;</config-value>
+      <config-group name="spellcheck">
+        <config-value name="project">0</config-value>
+      </config-group>
+      <config-value name="lastedited">-1</config-value>
+      <config-value name="make5include">PRINT</config-value>
+      <config-value name="make5status">*</config-value>
+    </config-group>
+    <config-group name="html">
+      <config-value name="topiceditor">1</config-value>
+      <config-value name="topicsimpleheadercolor">#FFFFFF</config-value>
+      <config-value name="topicsimpletextcolor">#FFFFFF</config-value>
+      <config-value name="topicsimplebuttons">1</config-value>
+      <config-group name="TOPICSIMPLEBUTTON1">
+        <config-value name="CAPTION" translate="true">Top</config-value>
+      </config-group>
+      <config-group name="TOPICSIMPLEBUTTON2">
+        <config-value name="CAPTION" translate="true">Previous</config-value>
+      </config-group>
+      <config-group name="TOPICSIMPLEBUTTON3">
+        <config-value name="CAPTION" translate="true">Next</config-value>
+      </config-group>
+      <config-group name="TOPICTEMPLATES">
+        <config-value name="Default" translate="true"><![CDATA[<%DOCTYPE%>
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=<%DOCCHARSET%>" />
+   <meta name="keywords" content="<%TOPIC_KEYWORDS%>" />
+   <IF_HTML><meta http-equiv="X-UA-Compatible" content="IE=edge" /></IF_HTML>
+   <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+   <link type="text/css" href="<%STYLESHEET%>" rel="stylesheet" />
+   <style type="text/css">
+   a:link    {color: #4e74a1;}
+   a:visited {color: #4e74a1;} 
+  </style>
+</head>
+
+<body style="background-color:#FFFFFF; font-family:'Trebuchet MS',Tahoma,Arial,Helvetica,sans-serif; margin:0px;">
+
+<!-- Header. -->
+<table width="100%" height="49"  border="0" cellpadding="0" cellspacing="0" style="margin-top:0px; background-image: url('pattern.png'); background-repeat: repeat-x;">
+  <tr>
+    <td></td>
+    <td valign="middle">
+      <table style="margin-top:0px; margin-bottom:5px;" width="100%"  border="0" cellspacing="0" cellpadding="5">
+        <tr valign="middle">
+          <td class="nav">
+          <%TOPIC_HEADER%>
+          </td>
+          <td width="70" align="right">
+          <IF_PREVIOUS_PAGE><a href="<%HREF_PREVIOUS_PAGE%>"><img style="vertical-align:middle;" src="previous.gif" alt="Назад" title="Назад" width="18" height="18" border=0></a>&nbsp;</IF_PREVIOUS_PAGE>
+           <IF_NEXT_PAGE><a href="<%HREF_NEXT_PAGE%>"><img style="vertical-align:middle;" src="next.gif" alt="Вперед" title="Вперед" width="18" height="18" border="0"></a></IF_NEXT_PAGE>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<!-- Body. -->
+<table style="width:100%;border:none;border-spacing:0px">
+       <tr style="vertical-align:top">
+           <td style="text-align:left;padding:5px">
+           <%TOPIC_TEXT%>
+           </td>
+       </tr>
+</table>
+
+<!-- Footer. -->
+<table width="100%" height="15" border="0" cellpadding="0" cellspacing="0" style="margin-top:0px; background-repeat: repeat-x;">
+  <tr>
+    <td>
+       <table width="100%" height="7" border="0" cellpadding="0" cellspacing="0" style="margin-top:0px; background-image: url('line_footer.png'); background-repeat: repeat-x;">
+    </td>
+     <td valign="middle">
+      <table style="margin-top:10px; margin-bottom:0px;" width="100%"  border="0" cellspacing="0" cellpadding="0">
+        <tr valign="middle">
+           <td width="30%" align="left">
+             &nbsp;© 1992-2014, <a href="http://bars-open.ru/" title="Перейти на сайт">ЗАО «Барс Груп».</a>  
+           </td>
+              <td width="88%" align="right">
+                <a target="_blank" href="https://twitter.com/barsgroup"><img style="margin-top:0px;" src="footer_tweeter.png" alt="Tweeter" title="Tweeter" width="19" height="19" border=0></a>&nbsp;
+                <a target="_blank" href="https://www.facebook.com/barsgroup"><img style="margin-top:0px;" src="footer_facebook.png" alt="Facebook" title="Facebook" width="19" height="19" border="0"></a>&nbsp;
+                <a target="_blank" href="http://vk.com/barsgroup_public"><img style="margin-top:0px;" src="footer_vk.png" alt="Vkontakte" title="Vkontakte" width="19" height="19" border="0"></a>&nbsp;
+                <a target="_blank" href="http://www.linkedin.com/company/-bars-group-ltd"><img style="margin-top:0px;" src="footer_linkedin.png" alt="Linkedin" title="Linkedin" width="19" height="19" border="0"></a>&nbsp;
+                <a target="_blank" href="http://www.youtube.com/user/barsgroup"><img style="margin-top:0px;" src="footer_youtube.png" alt="Youtube" title="Youtube" width="19" height="19" border="0"></a>&nbsp; 
+             </td>
+          </tr>
+       </table>
+    </td>
+  </tr>
+</table>
+
+
+</body>
+</html>]]></config-value>
+      </config-group>
+      <config-value name="outputfile">..\..\..\Desktop\Projects\WEB\Bars_zhkh.html</config-value>
+      <config-value name="navigationstyle">2</config-value>
+      <config-value name="frameeditor">1</config-value>
+      <config-value name="layoutthreeframe">0</config-value>
+      <config-value name="contentwidth">20</config-value>
+      <config-value name="headframeheight">100</config-value>
+      <config-value name="contentborder">1</config-value>
+      <config-value name="headframescroll">0</config-value>
+      <config-value name="iframebackcolor">#FFFFFF</config-value>
+      <config-value name="iframenavwidth">250</config-value>
+      <config-value name="iframemargins">5</config-value>
+      <config-value name="iframeborderwidth">1</config-value>
+      <config-value name="iframebordercolor">#C0C0C0</config-value>
+      <config-value name="iframeheaderheight">60</config-value>
+      <config-value name="iframeheaderhtml" translate="true"><![CDATA[<p><%TITLE%></p>]]></config-value>
+      <config-value name="frametemplate" translate="true"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN"
+  "http://www.w3.org/TR/html4/frameset.dtd">
+<html>
+<head>
+<title><%TITLE%> - <%DATE%></title>
+<meta http-equiv="Content-Type" content="text/html; charset=<%DOCCHARSET%>">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="helpman_settings.js"></script>
+<script type="text/javascript" src="helpman_navigation.js"></script>
+<script type="text/javascript">
+<!--
+var defaulttopic="<%HREF_DEFAULT_PAGE%>";
+if (location.href.lastIndexOf("?") > 0) defaulttopic=location.href.substring(location.href.lastIndexOf("?")+1,location.href.length).replace(/:/g,"");
+document.write('<frameset cols="20%,*" frameborder="1" framespacing="1">');
+if (document.getElementById) {
+  document.write('<frame name="hmnavigation" src="<%HREF_CONTENT_PAGE_DYN%>" title="Navigation frame">'); }
+else {
+  document.write('<frame name="hmnavigation" src="<%HREF_CONTENT_PAGE_STATIC%>" title="Navigation frame">'); }
+document.write('<frame name="hmcontent" src="' + defaulttopic + '" title="Content frame">');
+document.write('</frameset>');
+//-->
+</script>
+</head>
+<noscript>
+  <frameset cols="20%,*" frameborder="1" framespacing="1">
+    <frame name="hmnavigation" src="<%HREF_CONTENT_PAGE_STATIC%>" title="Navigation frame">
+    <frame name="hmcontent" src="<%HREF_DEFAULT_PAGE%>" title="Content frame">
+    <noframes>
+      This page requires frames<br><a href="<%HREF_CONTENT_PAGE_STATIC%>">Click here to view the table of contents without frames</a>
+    </noframes>
+  </frameset>
+</noscript>
+</html>]]></config-value>
+      <config-value name="toceditor">0</config-value>
+      <config-value name="tocsimpletext1" translate="true"><![CDATA[<p class="navbar"><b>Содержание</b>
+<IF_INDEX_PAGE> | <a href="<%HREF_INDEX_PAGE%>">Index</a></IF_INDEX_PAGE>
+<IF_SEARCH_PAGE> | <a href="<%HREF_SEARCH_PAGE%>">Поиск</a></IF_SEARCH_PAGE>
+</p>
+<hr/>]]></config-value>
+      <config-value name="tocsimplefont1">font-family:'Trebuchet MS'; font-size:10pt; font-weight:normal; font-style:normal; text-decoration:none; </config-value>
+      <config-value name="tocsimplefont2">font-family:'Trebuchet MS'; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; </config-value>
+      <config-value name="tocsimplefont3">font-family:'Trebuchet MS'; font-size:8pt; font-weight:normal; font-style:normal; text-decoration:none; </config-value>
+      <config-value name="tocsimplefont4">font-family:'Trebuchet MS'; font-size:8pt; font-weight:normal; font-style:normal; text-decoration:none; </config-value>
+      <config-value name="tocsimplefont5">font-family:'Trebuchet MS'; font-size:8pt; font-weight:normal; font-style:normal; text-decoration:none; </config-value>
+      <config-value name="tocsimplefont6">font-family:'Trebuchet MS'; font-size:8pt; font-weight:normal; font-style:normal; text-decoration:none; </config-value>
+      <config-value name="contenttemplate" translate="true"><![CDATA[<%DOCTYPE%>
+<html><head>
+   <title><%TITLE%></title>
+   <meta http-equiv="Content-Type" content="text/html; charset=<%DOCCHARSET%>" />
+   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+   <!-- This line includes the general project style sheet (not required) -->
+   <link type="text/css" href="<%STYLESHEET%>" rel="stylesheet" />
+
+   <!-- This block defines the styles of the TOC headings, change them as needed -->
+   <style type="text/css">
+       body { background:#FFF; }
+       .navbar   { font-size: 120%; }
+
+       .heading1 { font-family: Trebuchet MS; font-weight: normal; font-size: 10pt; color: #000000; text-decoration: none; }
+       .heading2 { font-family: Trebuchet MS; font-weight: normal; font-size: 9pt; color: #000000; text-decoration: none; }
+       .heading3 { font-family: Trebuchet MS; font-weight: normal; font-size: 8pt; color: #000000; text-decoration: none; }
+       .heading4 { font-family: Trebuchet MS; font-weight: normal; font-size: 8pt; color: #000000; text-decoration: none; }
+       .heading5 { font-family: Trebuchet MS; font-weight: normal; font-size: 8pt; color: #000000; text-decoration: none; }
+       .heading6 { font-family: Trebuchet MS; font-weight: normal; font-size: 8pt; color: #000000; text-decoration: none; }
+
+       .hilight1 { font-family: Trebuchet MS; font-weight: normal; font-size: 10pt; color: #FFFFFF; background: #002682; text-decoration: none; }
+       .hilight2 { font-family: Trebuchet MS; font-weight: normal; font-size: 9pt; color: #FFFFFF; background: #002682; text-decoration: none; }
+       .hilight3 { font-family: Trebuchet MS; font-weight: normal; font-size: 8pt; color: #FFFFFF; background: #002682; text-decoration: none; }
+       .hilight4 { font-family: Trebuchet MS; font-weight: normal; font-size: 8pt; color: #FFFFFF; background: #002682; text-decoration: none; }
+       .hilight5 { font-family: Trebuchet MS; font-weight: normal; font-size: 8pt; color: #FFFFFF; background: #002682; text-decoration: none; }
+       .hilight6 { font-family: Trebuchet MS; font-weight: normal; font-size: 8pt; color: #FFFFFF; background: #002682; text-decoration: none; }
+
+       /* TOC LIST CSS */
+       #toc    { padding: 0; margin: 0 }
+       #toc li { margin-top: 2px }
+       #toc ul { padding-left: 0; padding-right: 0; margin-left: 0; margin-right: 0 }
+       /* TOC LIST CSS */
+   </style>
+</head>
+<body>
+<p class="navbar"><b>Содержание</b>
+<IF_INDEX_PAGE> | <a href="<%HREF_INDEX_PAGE%>">Index</a></IF_INDEX_PAGE>
+<IF_SEARCH_PAGE> | <a href="<%HREF_SEARCH_PAGE%>">Поиск</a></IF_SEARCH_PAGE>
+</p>
+<hr/>
+
+  <!-- Place holder for the TOC - this variable is REQUIRED! -->
+  <%TABLE_OF_CONTENTS%>
+
+
+</body>
+</html>]]></config-value>
+      <config-value name="hasindex">0</config-value>
+      <config-value name="hassearch">1</config-value>
+      <config-value name="contentnumbers">0</config-value>
+      <config-value name="contentnumberstyle">1.1.1.1.1.1</config-value>
+      <config-value name="contentlazysync">0</config-value>
+      <config-value name="contentsingleclick">1</config-value>
+      <config-value name="contentautocollapse">1</config-value>
+      <config-value name="contentexpand">0</config-value>
+      <config-value name="forcetocsync">0</config-value>
+      <config-value name="contentindent">100</config-value>
+      <config-value name="defaulticons">1</config-value>
+      <config-value name="searcheditor">1</config-value>
+      <config-value name="searchsimpletext1" translate="true"><![CDATA[<p class="navbar"><a href="<%HREF_CONTENT_PAGE%>">Contents</a>
+<IF_INDEX_PAGE> | <a href="<%HREF_INDEX_PAGE%>">Index</a></IF_INDEX_PAGE>
+<IF_SEARCH_PAGE> | <b>Search</b></IF_SEARCH_PAGE>
+</p>
+<hr/>
+<p class="submit">Enter one or more keywords to search ('*' and '?' wildcards are supported):</p>]]></config-value>
+      <config-value name="searchtemplate" translate="true"><![CDATA[<%DOCTYPE%>
+<html><head>
+   <title><%TITLE%></title>
+   <meta http-equiv="Content-Type" content="text/html; charset=<%DOCCHARSET%>" />
+   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+   <!-- This line includes the general project style sheet (not required) -->
+   <link type="text/css" href="<%STYLESHEET%>" rel="stylesheet" />
+
+   <!-- You can change the fonts, text colors, and styles of your search results with the CSS below -->
+   <style type="text/css">
+        body { background:#FFF; }
+        .navbar { font-size: 120%; }
+
+        .submit { font-size: 9pt; }
+        .highlight { background: #FFFF40; }
+        .searchheading { font-size: 9pt; font-weight: bold; }
+        .summary { font-size: 8pt; font-style: italic; }
+        .results { font-size: 9pt; }
+        .description { font-size: 9pt; }
+        .context { font-size: 9pt; }
+        .result_title { font-size: 9pt; }
+
+	       .suggestion { font-size: 100%; }
+	       .category { color: #999999; }
+	       .sorting { text-align: right; }
+	       .zoom_searchform { font-size: 100%; }
+	       .zoom_results_per_page { font-size: 80%; margin-left: 10px; }
+	       .zoom_match { font-size: 80%; margin-left: 10px;}
+	       .zoom_categories { font-size: 80%; }
+	       .zoom_categories ul { display: inline; margin: 0px; padding: 0px;}
+	       .zoom_categories li { display: inline; margin-left: 15px; list-style-type: none; }
+	       input.zoom_button {  }
+	       input.zoom_searchbox {  }
+	       .result_image { float: left; display: block; }
+	       .result_image img { margin: 10px; width: 80px; border: 0px; }
+	       .result_block { margin-top: 15px; margin-bottom: 15px; clear: left; }
+	       .result_altblock { margin-top: 15px; margin-bottom: 15px; clear: left; }
+	       .result_pages { font-size: 100%; }
+	       .result_pagescount { font-size: 100%; }
+	       .searchtime { font-size: 80%; }
+	       .recommended
+	       {
+		        background: #DFFFBF;
+	       		border-top: 1px dotted #808080;
+	       		border-bottom: 1px dotted #808080;
+	       		margin-top: 15px;
+	       		margin-bottom: 15px;
+	       }
+	       .recommended_heading { float: right; font-weight: bold; }
+	       .recommend_block { margin-top: 15px; margin-bottom: 15px; clear: left; }
+	       .recommend_title { font-size: 100%; }
+	       .recommend_description { font-size: 100%; color: #008000; }
+	       .recommend_infoline { font-size: 80%; font-style: normal; color: #808080;}
+
+ 	</style>
+</head>
+<body>
+<p class="navbar"><a href="<%HREF_CONTENT_PAGE%>">Содержание</a>
+<IF_INDEX_PAGE> | <a href="<%HREF_INDEX_PAGE%>">Index</a></IF_INDEX_PAGE>
+<IF_SEARCH_PAGE> | <b>Поиск</b></IF_SEARCH_PAGE>
+</p>
+<hr/>
+<p class="submit">Введите одно или несколько ключевых слов для поиска (поддерживаются выражения '*' and '?'):</p><br>
+  <!-- This is where the search form and results will appear -->
+  <%SEARCH_SCRIPT%>
+
+<noscript>
+<p>Вы должны включить JavaScript, чтобы использовать эту версию для поисковика.</p>
+</noscript>
+</body>
+</html>]]></config-value>
+      <config-group name="SEARCHCONSTANTS">
+        <config-value name="STR_FORM_SEARCHFOR" translate="true">Search for:</config-value>
+        <config-value name="STR_FORM_SUBMIT_BUTTON" translate="true">Submit</config-value>
+        <config-value name="STR_FORM_RESULTS_PER_PAGE" translate="true">Results per page:</config-value>
+        <config-value name="STR_FORM_MATCH" translate="true">Match:</config-value>
+        <config-value name="STR_FORM_ANY_SEARCH_WORDS" translate="true">any search words</config-value>
+        <config-value name="STR_FORM_ALL_SEARCH_WORDS" translate="true">all search words</config-value>
+        <config-value name="STR_NO_QUERY" translate="true">No search query entered.</config-value>
+        <config-value name="STR_RESULTS_FOR" translate="true">Search results for:</config-value>
+        <config-value name="STR_NO_RESULTS" translate="true">No results</config-value>
+        <config-value name="STR_RESULT" translate="true">result</config-value>
+        <config-value name="STR_RESULTS" translate="true">results</config-value>
+        <config-value name="STR_PHRASE_CONTAINS_COMMON_WORDS" translate="true">Your search query contained too many common words to return the entire set of results available. Please try again with a more specific query for better results.</config-value>
+        <config-value name="STR_SKIPPED_FOLLOWING_WORDS" translate="true">The following word(s) are in the skip word list and have been omitted from your search:</config-value>
+        <config-value name="STR_SKIPPED_PHRASE" translate="true">Note that you can not search for exact phrases beginning with a skipped word</config-value>
+        <config-value name="STR_SUMMARY_NO_RESULTS_FOUND" translate="true">No results found.</config-value>
+        <config-value name="STR_SUMMARY_FOUND_CONTAINING_ALL_TERMS" translate="true">found containing all search terms.</config-value>
+        <config-value name="STR_SUMMARY_FOUND_CONTAINING_SOME_TERMS" translate="true">found containing some search terms.</config-value>
+        <config-value name="STR_SUMMARY_FOUND" translate="true">found.</config-value>
+        <config-value name="STR_PAGES_OF_RESULTS" translate="true">pages of results.</config-value>
+        <config-value name="STR_POSSIBLY_GET_MORE_RESULTS" translate="true">You can possibly get more results searching for</config-value>
+        <config-value name="STR_ANY_OF_TERMS" translate="true">any of the terms</config-value>
+        <config-value name="STR_DIDYOUMEAN" translate="true">Did you mean:</config-value>
+        <config-value name="STR_SORTEDBY_RELEVANCE" translate="true">Sorted by relevance</config-value>
+        <config-value name="STR_SORTBY_RELEVANCE" translate="true">Sort by relevance</config-value>
+        <config-value name="STR_SORTBY_DATE" translate="true">Sort by date</config-value>
+        <config-value name="STR_SORTEDBY_DATE" translate="true">Sorted by date</config-value>
+        <config-value name="STR_RESULT_TERMS_MATCHED" translate="true">Terms matched: </config-value>
+        <config-value name="STR_RESULT_SCORE" translate="true">Score: </config-value>
+        <config-value name="STR_RESULT_URL" translate="true">URL:</config-value>
+        <config-value name="STR_RESULT_PAGES" translate="true">Result Pages:</config-value>
+        <config-value name="STR_RESULT_PAGES_PREVIOUS" translate="true">Previous</config-value>
+        <config-value name="STR_RESULT_PAGES_NEXT" translate="true">Next</config-value>
+      </config-group>
+      <config-value name="searchstoplist" translate="true">and,or,the,it,is,an,on,we,us,to,of,has,be,all,for,in,as,so,are,that,can,you,at,its,by,have,with,into</config-value>
+      <config-value name="searchskipwordsmin">3</config-value>
+      <config-value name="searchplatform">JSFILE</config-value>
+      <config-value name="searchjoinwordchars">.-_'</config-value>
+      <config-value name="searchexactphrase">0</config-value>
+      <config-value name="searchhighlight">1</config-value>
+      <config-value name="searchallowdate">0</config-value>
+      <config-value name="searchaccentinsensitive">0</config-value>
+      <config-value name="searchsinglecase">0</config-value>
+      <config-value name="defaultext">.htm</config-value>
+      <config-value name="cssfile">default.css</config-value>
+      <config-value name="fontsizeencoding">0</config-value>
+      <config-value name="fontsizebase">100</config-value>
+      <config-value name="exportmarkersastext">1</config-value>
+      <config-value name="exportstylenames">1</config-value>
+      <config-value name="exportutf8bom">1</config-value>
+      <config-value name="animations">1</config-value>
+      <config-value name="imagelightbox">1</config-value>
+      <config-value name="synctimestamp">1</config-value>
+      <config-value name="syncarchivebit">0</config-value>
+      <config-value name="imagehint">0</config-value>
+      <config-value name="imageconversion">1</config-value>
+      <config-value name="jpgquality">90</config-value>
+      <config-value name="htmlpopup">3</config-value>
+      <config-group name="htmlpopupjavaoptions">
+        <config-value name="borderwidth">1</config-value>
+        <config-value name="padding">6</config-value>
+        <config-value name="bordercolor">#FFFFFF</config-value>
+        <config-value name="bgcolor">#FFFFFF</config-value>
+        <config-value name="shadow">0</config-value>
+        <config-value name="roundedborders">1</config-value>
+      </config-group>
+      <config-value name="indexeditor">1</config-value>
+      <config-value name="indexsimpletext1" translate="true"><![CDATA[<p class="navbar"><a href="<%HREF_CONTENT_PAGE%>">Contents</a>
+<IF_INDEX_PAGE> | <b>Index</b></IF_INDEX_PAGE>
+<IF_SEARCH_PAGE> | <a href="<%HREF_SEARCH_PAGE%>">Search</a></IF_SEARCH_PAGE>
+</p>
+<hr/>]]></config-value>
+      <config-value name="indexsections">A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z</config-value>
+      <config-value name="indexsimplefont1">font-family:Arial,Helvetica; font-size:14pt; font-weight:normal; font-style:normal; text-decoration:none; </config-value>
+      <config-value name="indexsimplefont2">font-family:Arial,Helvetica; font-size:10pt; font-weight:normal; font-style:normal; text-decoration:none; </config-value>
+      <config-value name="indexsimplefont3">font-family:Arial,Helvetica; font-size:10pt; font-weight:normal; font-style:normal; text-decoration:none; </config-value>
+      <config-value name="indexsimplefont4">font-family:Arial,Helvetica; font-size:8pt; font-weight:normal; font-style:normal; text-decoration:none; </config-value>
+      <config-value name="indextemplate" translate="true"><![CDATA[<%DOCTYPE%>
+<html><head>
+   <title><%TITLE%></title>
+   <meta http-equiv="Content-Type" content="text/html; charset=<%DOCCHARSET%>" />
+   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+   <!-- This line includes the general project style sheet (not required) -->
+   <link type="text/css" href="<%STYLESHEET%>" rel="stylesheet" />
+
+   <style type="text/css">
+       body { background:#FFF; }
+       .navbar      { font-size: 120% }
+
+       #idx          { margin: 0; padding: 0 }     /* div tag that wraps the keyword index */
+       #idx a        { color: #000; text-decoration: none }  /* all links in index appear as text */
+
+       #idx p             { margin: 2px }        /* keywords and secondary keywords */
+       #idx p.idxkeyword2 { margin-left: 20px }  /* indentation for secondary keywords */
+
+       table.idxtable { background: #F4F4F4;
+                        border: 1px solid #000000;
+                        border-collapse: collapse;
+                        -moz-box-shadow: 2px 2px 2px #B0B0B0;
+                        -webkit-box-shadow: 2px 2px 2px #B0B0B0;
+                        box-shadow: 2px 2px 2px #B0B0B0;
+                        filter: progid:DXImageTransform.Microsoft.Shadow(color=B0B0B0, Direction=135, Strength=4); }
+       td.idxtable    { background: #F4F4F4 }
+
+       /* font definitions for keyword section, keywords and popup links */
+       .idxsection  { font-family: Arial,Helvetica; font-weight: normal; font-size: 14pt; color: #000000; text-decoration: none;
+                      margin-top: 15px; margin-bottom: 15px; }
+       .idxkeyword  { font-family: Arial,Helvetica; font-weight: normal; font-size: 10pt; color: #000000; text-decoration: none; }
+       .idxkeyword2 { font-family: Arial,Helvetica; font-weight: normal; font-size: 10pt; color: #000000; text-decoration: none; }
+       .idxlink     { font-family: Arial,Helvetica; font-weight: normal; font-size: 8pt; color: #000000; text-decoration: none; }
+
+   </style>
+</head>
+<body>
+<p class="navbar"><a href="<%HREF_CONTENT_PAGE%>">Contents</a>
+<IF_INDEX_PAGE> | <b>Index</b></IF_INDEX_PAGE>
+<IF_SEARCH_PAGE> | <a href="<%HREF_SEARCH_PAGE%>">Search</a></IF_SEARCH_PAGE>
+</p>
+<hr/>
+  <!-- Place holder for the keyword index - this variable is REQUIRED! -->
+  <%KEYWORD_INDEX%>
+
+</body>
+</html>]]></config-value>
+    </config-group>
+    <config-group name="chm">
+      <config-value name="outputfile">..\..\..\Desktop\Projects\CHM\BARS_ZHKH.chm</config-value>
+      <config-value name="deletetemp">1</config-value>
+      <config-value name="usesecondarywindows">0</config-value>
+    </config-group>
+    <config-group name="user">
+      <config-group name="ilya">
+        <config-group name="gladkov">
+          <config-group name="project">
+            <config-value name="lastexport">0</config-value>
+          </config-group>
+          <config-group name="report">
+            <config-value name="type">0</config-value>
+            <config-value name="sort">0</config-value>
+            <config-value name="include">CHM,HTML</config-value>
+          </config-group>
+        </config-group>
+      </config-group>
+    </config-group>
+    <config-group name="pdf">
+      <config-value name="outputfile">..\..\..\Desktop\Projects\PDF\BARS.ZHKH.pdf</config-value>
+      <config-value name="template">..\..\..\Downloads\EC Software\EC Software\App\H&amp;M\Templates\PDF\UserGuide_Minimalist_BlackBlue.mnl</config-value>
+      <config-value name="style">0</config-value>
+      <config-value name="createoutline">1</config-value>
+      <config-value name="outlinesnumbered">1</config-value>
+      <config-value name="createhotspots">1</config-value>
+      <config-value name="insertseealso">0</config-value>
+      <config-value name="linkcolor">10581070</config-value>
+      <config-value name="ignoreblank">1</config-value>
+      <config-value name="compression">0</config-value>
+      <config-value name="jpegquality">0</config-value>
+      <config-value name="openmode">1</config-value>
+      <config-value name="zoommode">0</config-value>
+      <config-value name="userprint">1</config-value>
+      <config-value name="usercopy">0</config-value>
+      <config-value name="userchange">0</config-value>
+      <config-value name="encrypt128bit">0</config-value>
+      <config-value name="title" translate="true">Комплексное решение «БАРС.ЖКХ»</config-value>
+      <config-value name="embedfonts">0</config-value>
+      <config-value name="cidfontmode">0</config-value>
+      <config-value name="newfontsubsetting">1</config-value>
+      <config-value name="textasglyphs">0</config-value>
+    </config-group>
+    <config-group name="rtf">
+      <config-value name="papersize">A4 210 x 297 mm</config-value>
+      <config-value name="pageorientation">Portrait</config-value>
+      <config-value name="topmargin">720</config-value>
+      <config-value name="bottommargin">720</config-value>
+      <config-value name="leftmargin">720</config-value>
+      <config-value name="rightmargin">720</config-value>
+      <config-value name="flipmargin">0</config-value>
+      <config-value name="headerfont">font-family:Arial; font-size:10pt; font-weight:normal; font-style:normal; text-decoration:none; color:#000000; </config-value>
+      <config-value name="footerfont">font-family:Arial; font-size:10pt; font-weight:normal; font-style:normal; text-decoration:none; color:#000000; </config-value>
+      <config-value name="pagenumfont">font-family:Arial; font-size:10pt; font-weight:normal; font-style:normal; text-decoration:none; color:#000000; </config-value>
+      <config-value name="chapterfont1">font-family:Arial; font-size:10pt; font-weight:normal; font-style:normal; text-decoration:none; color:#000000; </config-value>
+      <config-value name="chapternumbering1">None</config-value>
+      <config-value name="chapterbreak1">No</config-value>
+      <config-value name="chapterfont2">font-family:Arial; font-size:10pt; font-weight:normal; font-style:normal; text-decoration:none; color:#000000; </config-value>
+      <config-value name="chapternumbering2">None</config-value>
+      <config-value name="chapterbreak2">No</config-value>
+      <config-value name="chapterfont3">font-family:Arial; font-size:10pt; font-weight:normal; font-style:normal; text-decoration:none; color:#000000; </config-value>
+      <config-value name="chapternumbering3">None</config-value>
+      <config-value name="chapterbreak3">No</config-value>
+      <config-value name="chapterfont4">font-family:Arial; font-size:10pt; font-weight:normal; font-style:normal; text-decoration:none; color:#000000; </config-value>
+      <config-value name="chapternumbering4">None</config-value>
+      <config-value name="chapterbreak4">No</config-value>
+      <config-value name="chapterfont5">font-family:Arial; font-size:10pt; font-weight:normal; font-style:normal; text-decoration:none; color:#000000; </config-value>
+      <config-value name="chapternumbering5">None</config-value>
+      <config-value name="chapterbreak5">No</config-value>
+      <config-value name="chapterfont6">font-family:Arial; font-size:10pt; font-weight:normal; font-style:normal; text-decoration:none; color:#000000; </config-value>
+      <config-value name="chapternumbering6">None</config-value>
+      <config-value name="chapterbreak6">No</config-value>
+      <config-value name="imagemarker">0</config-value>
+      <config-value name="activehyperlinks">1</config-value>
+      <config-value name="outputfile">..\..\..\Desktop\Projects\RTF\bars_zhkh_manual.rtf</config-value>
+    </config-group>
+    <variables/>
+    <helpcontext-numbers/>
+  </config>
+  <xi:include parse="xml" href="Maps/table_of_contents.xml"/>
+  <project-files>
+    <file href="Topics/*.xml" build="ALL" filetype="topic">
+      <file-mod href="rabota_s_programmoi_pereseleniya.xml"/>
+      <file-mod href="reference_programmi_osnovaniya_necelesoobraznosti.xml"/>
+      <file-mod href="index.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="housing.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="capitalnii_remont.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="gilisnaya_inspekciya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="raskritie_informacii.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="podgotovka_sistemi_k_raschety_programmi.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="pasportizaciya_objectov_gilishnogo_fonda.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="spravochnic_oktmo.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="rabota_s_reestrom_gilih_domov.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="dobavlenie_doma_v_reestr.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="pasport_gilogo_doma.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="pasport_gilogo_doma_obshie_svedeniya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="pasport_gilogo_doma_konstruktivnie_harakteristiki.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="pasport_gilogo_doma_pribori_ucheta_i_uzli_regulirovaniya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="pasport_gilogo_doma_fotoarhiv.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="pasport_gilogo_doma_svedeniya_o_pomesheniayh.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="pasport_gilogo_doma_svedeniya_po_gku.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="pasport_gilogo_doma_obshie_svedeniya_po_domu.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="pasport_gilogo_doma_licevie_scheta_doma.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="pasport_gilogo_doma_pokazanie_obshedomovih_priborov_ucheta.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="pasport_gilogo_doma_zemelnie_uchastki.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="pasport_gilogo_doma_strahovanie_objecta.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="pasport_gilogo_doma_upravlenie_doma.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="pasport_gilogo_doma_agenti_dostavki.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="pasport_gilogo_doma_postavshiki_gilishnih_uslug.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="pasport_gilogo_doma_postavshiki_kommunalnih_uslug.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="pasport_gilogo_doma_sovet_mkd.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="pasport_gilogo_doma_konstruktivnie_elementi.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="pasport_gilogo_doma_tekushii_remont.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="pasport_gilogo_doma_protokoli_reshenii.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="pasport_gilogo_doma_protokoli_reshenii_deistvyushie_resheniya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="pasport_gilogo_doma_protokoli_i_resheniya_sobstvenikov.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="pasport_gilogo_doma_scheta_ucheta_sredstv.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="pasport_gilogo_doma_scheta_ucheta_sredstv_schet_nachislenii.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="pasport_gilogo_doma_scheta_ucheta_sredstv_schet_oplat.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="pasport_gilogo_doma_scheta_ucheta_sredstv_schet_rascheta_s_postavshikami.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="pasport_gilogo_doma_scheta_ucheta_sredstv_schet_subsidii.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="pasport_gilogo_doma_zaimi.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="pasport_gilogo_doma_pasport_technicheskogo_objecta.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="pasport_gilogo_doma_pasport_technicheskogo_objecta_obshie_svedeniya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="pasport_gilogo_doma_pasport_technicheskogo_objecta_eksplikaciya_zemelnogo_uchastka.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="pasport_gilogo_doma_pasport_technicheskogo_objecta_ingenernoe_oborudovanie.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="pasport_gilogo_doma_pasport_technicheskogo_objecta_specialnoe_ingenernoe_oborudovanie.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="pasport_gilogo_doma_pasport_technicheskogo_objecta_obshie_pokazateli_konstr_elementov.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="pasport_gilogo_doma_pasport_technicheskogo_objecta_energeticheskie_harakteristiki_mkd.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="rabota_s_avariinimi_domami.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="strahovanie_deyatelnosti_uo.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="pasporta_po_PP_RF_468.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="pasporta_po_PP_RF_468_reestr_pasportov_domov.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="pasporta_po_PP_RF_468_reestr_pasportov_oki.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="pasporta_po_PP_RF_468_moi_pasporta_domov.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="pasporta_po_PP_RF_468_moi_pasporta_oki.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="pasporta_po_PP_RF_468_import_pasportov_1468.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="capitalnii_remont_dolgosrochnaya_programma.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="capitalnii_remont_kratkosrochnaya_programma.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="capitalnii_remont_dolgosrochnaya_programma_podgotovka_sistemi_k_raschetu_programmi.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="capitalnii_remont_dolgosrochnaya_programma_formirovanie_dpkr.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="capitalnii_remont_dolgosrochnaya_programma_formirovanie_dpkr_raschet_stoimosti_rabot.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="capitalnii_remont_dolgosrochnaya_programma_formirovanie_dpkr_formirovanie_ocheredi_gilih_domov.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="capitalnii_remont_dolgosrochnaya_programma_formirovanie_dpkr_formirovanie_ocheredi_gilih_domov_parametri_ocherednosti.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="capitalnii_remont_dolgosrochnaya_programma_formirovanie_dpkr_formirovanie_ocheredi_gilih_domov_parametri_ocherednosti_kriterii_formirovaniya_ocheredi.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="capitalnii_remont_dolgosrochnaya_programma_formirovanie_dpkr_formirovanie_ocheredi_gilih_domov_parametri_ocherednosti_kriterii_formirovaniya_ocherednosti_po_ballam.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="capitalnii_remont_dolgosrochnaya_programma_formirovanie_dpkr_formirovanie_ocheredi_gilih_domov_parametri_ocherednosti_formirovanie_ocherednosti_po_ballam.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="capitalnii_remont_dolgosrochnaya_programma_formirovanie_dpkr_sohranenie_versii_programmi.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="capitalnii_remont_dolgosrochnaya_programma_formirovanie_dpkr_rabota_s_versiyami_programmi.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="capitalnii_remont_dolgosrochnaya_programma_podgotovka_spravochnik_tipi_domov.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="capitalnii_remont_dolgosrochnaya_programma_podgotovka_add_svedenii_v_pasporta.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="capitalnii_remont_dolgosrochnaya_programma_podgotovka_nastroika_parametrov_dpkr.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="capitalnii_remont_dolgosrochnaya_programma_podgotovka_nastroika_parametrov_dpkr_nastroika_yrovnei.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="capitalnii_remont_dolgosrochnaya_programma_podgotovka_nastroika_parametrov_dpkr_nastroika_parametrov_formirovaniya_dpkr.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="capitalnii_remont_dolgosrochnaya_programma_tarif_po_tipam_domov.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="capitalnii_remont_dolgosrochnaya_programma_subsidirovanie.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="capitalnii_remont_dolgosrochnaya_programma_korrectirovka_ocheredi.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="capitalnii_remont_dolgosrochnaya_programma_korrectirovka_ocheredi_com_remonte.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="capitalnii_remont_dolgosrochnaya_programma_korrectirovka_ocheredi_dolyam_finans_rabot.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="capitalnii_remont_dolgosrochnaya_programma_korrectirovka_ocheredi_uchetom_srokov_ekspl.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="capitalnii_remont_dolgosrochnaya_programma_korrectirovka_ocheredi_s_uchetom_sobiraemosti.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="capitalnii_remont_dolgosrochnaya_programma_korrectirovka_ocheredi_dop_usloviya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="capitalnii_remont_dolgosrochnaya_programma_massovii_raschet_dpkr.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="capitalnii_remont_dolgosrochnaya_programma_actualizaciya_dpkr.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="capitalnii_remont_dolgosrochnaya_programma_publikaciya_programmi.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="capitalnii_remont_kratkosrochnaya_programma_formirovanie_kpkr.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="capitalnii_remont_kratkosrochnaya_programma_rabota_s_reestrom_objectov_kr.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="capitalnii_remont_kratkosrochnaya_programma_rabota_s_reestrom_objectov_kr_pasport_objecta.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="capitalnii_remont_kratkosrochnaya_programma_rabota_s_reestrom_objectov_kr_dogovori.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="capitalnii_remont_kratkosrochnaya_programma_rabota_s_reestrom_objectov_kr_protokoli_acti.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="capitalnii_remont_kratkosrochnaya_programma_rabota_s_reestrom_objectov_kr_defectnie_vedomosti.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="capitalnii_remont_kratkosrochnaya_programma_rabota_s_reestrom_objectov_kr_vidi_rabot.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="capitalnii_remont_kratkosrochnaya_programma_rabota_s_reestrom_objectov_kr_sredstva_po_istochnikam_finansirovaniya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="capitalnii_remont_kratkosrochnaya_programma_rabota_s_reestrom_objectov_kr_licevie_scheta.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="capitalnii_remont_kratkosrochnaya_programma_rabota_s_reestrom_objectov_kr_smetnii_raschet_po_rabote.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="capitalnii_remont_kratkosrochnaya_programma_rabota_s_reestrom_objectov_kr_kvalifikacionnii_otbor.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="capitalnii_remont_kratkosrochnaya_programma_rabota_s_reestrom_objectov_kr_dogovori_podryada.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="capitalnii_remont_kratkosrochnaya_programma_rabota_s_reestrom_objectov_kr_monitoring_smr.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="capitalnii_remont_kratkosrochnaya_programma_rabota_s_reestrom_objectov_kr_acti_vipolnennih_rabot.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="capitalnii_remont_kratkosrochnaya_programma_rabota_s_reestrom_objectov_kr_monitoring_smr_grafik_vipolneniya_rabot.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="capitalnii_remont_kratkosrochnaya_programma_rabota_s_reestrom_objectov_kr_monitoring_smr_hod_vipolnennih_rabot.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="capitalnii_remont_kratkosrochnaya_programma_rabota_s_reestrom_objectov_kr_monitoring_smr_chislennost_rabochih.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="capitalnii_remont_kratkosrochnaya_programma_rabota_s_reestrom_objectov_kr_monitoring_smr_documenti.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_podgotovka_modulya_k_rabote.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_podgotovka_modulya_k_rabote_nastroika_rolei.xml"/>
+      <file-mod href="regionalnii_operator_podgotovka_modulya_k_rabote_importi.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_podgotovka_modulya_k_rabote_razmer_vznosov_na_kr.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_podgotovka_modulya_k_rabote_vivod_informacii_dlya_fizicheskih_lic.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_podgotovka_modulya_k_rabote_rabota_s_reestrom_bankovskih_vipisok.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_podgotovka_modulya_k_rabote_vibor_perioda_nachislenii.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_podgotovka_modulya_k_rabote_nastroika_parametrov_rf.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_podgotovka_modulya_k_rabote_nastroika_parametrov_nachisleniya_peni.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_podgotovka_modulya_k_rabote_reestr_oplat_plategnih_agentov.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_podgotovka_modulya_k_rabote_federalnii_standart_vznosa_na_kr.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_podgotovka_modulya_k_rabote_logi_obrashenii_k_servisam.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_svedeniya_o_pomeshenii.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_protokoli_reshenii.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_spravochnik_vznosi_na_kr.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_formirovanie_regionalnogo_fonda.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_formirovanie_regionalnogo_fonda_reg_svedenii_o_regopah.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_abonentov.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_abonentov_abonent_s_tipom_fizlico.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_abonentov_abonent_s_tipom_urlico.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_neplatelshikov.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_sozdanie_licevogo_scheta_abonenta.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov_kartochka_licevogo_scheta.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov_kartochka_licevogo_scheta_protokol_rascheta.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov_operacii_po_licevim_schetam.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov_operacii_po_licevim_schetam_raschet_nachislenii.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_nepodtvergdennih_nachislenii.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_nepodtvergdennih_oplat.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_domov_regoperatora.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_schet_neviyasnennih_summ.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_spec_schetov.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_kontrol_proizvedennih_oplat_nachislenii_kontrol_oplat.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_zaimi.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_nepodtvergdennih_nachislenii_podtvergdenie_perioda_nachislenii.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_nepodtvergdennih_nachislenii_pereraschet_nachislenii.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_nepodtvergdennih_nachislenii_close_period_nachislenii.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_nepodtvergdennih_nachislenii_close_period_nachislenii_error_cloze_period_nachislenii.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_nepodtvergdennih_oplat_podtvergdenie_oplat.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_nepodtvergdennih_oplat_podtvergdenie_oplat_proverka_oplat.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_nepodtvergdennih_oplat_otmena_oplat.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_schet_neviyasnennih_summ_dobavlenie_scheta_v_reestr.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_schet_neviyasnennih_summ_raspredelenie_neviyasnennih_summ.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_schet_neviyasnennih_summ_otmena_raspredeleniya_nvs.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_schet_neviyasnennih_summ_otmena_zachislenii.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_spec_schetov_reestr_oplat_plategnih_agentov.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_acta_vipolnennih_rabot.xml"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_zaimi_formirovanie_zaima.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_zaimi_kontrol_zaimov.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="gilisnaya_inspekciya_podgotovka_modulya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="gilisnaya_inspekciya_tipi_proverok.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="gilisnaya_inspekciya_tipi_proverok_planovie_proverki_urlic.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="gilisnaya_inspekciya_tipi_proverok_planovie_proverki_urlic_formirovanie_rasporyageniya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="gilisnaya_inspekciya_tipi_proverok_planovie_proverki_urlic_formirovanie_akta_proverki.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="gilisnaya_inspekciya_tipi_proverok_planovie_proverki_urlic_formirovanie_predpisaniya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="gilisnaya_inspekciya_tipi_proverok_planovie_proverki_urlic_proverka_predpisaniya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="gilisnaya_inspekciya_tipi_proverok_planovie_proverki_urlic_formirovanie_protokola.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="gilisnaya_inspekciya_tipi_proverok_formirovanie_postanovleniya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="gilisnaya_inspekciya_tipi_proverok_planovie_proverki_urlic_formirovanie_predstavleniya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="gilisnaya_inspekciya_tipi_proverok_vneplanovie_proverki_urlic.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="gilisnaya_inspekciya_tipi_proverok_vneplanovie_proverki_urlic_proverki_po_trebovaniu_prokuraturi.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="gilisnaya_inspekciya_tipi_proverok_vneplanovie_proverki_urlic_proverki_po_trebovaniu_rukovoditelei.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="gilisnaya_inspekciya_tipi_proverok_vneplanovie_proverki_urlic_po_obrasheniyam_gragdan.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="gilisnaya_inspekciya_tipi_proverok_vneplanovie_proverki_urlic_inspekcionnie_proverki.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="gilisnaya_inspekciya_tipi_proverok_vneplanovie_proverki_urlic_proverki_po_plany_meropriyatii.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="gilisnaya_inspekciya_reestr_obrashenii.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="gilisnaya_inspekciya_reestr_obrashenii_reestr_obrashenii.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="gilisnaya_inspekciya_documenti.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="gilisnaya_inspekciya_documenti_postanovleniya_prokuratyri.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="gilisnaya_inspekciya_documenti_protokoli_mvd.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="gilisnaya_inspekciya_documenti_protokoli_mgk.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="gilisnaya_inspekciya_documenti_reestr_documentov_ggi.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="gilisnaya_inspekciya_documenti_deyatelnost_tsg.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="gilisnaya_inspekciya_documenti_deyatelnost_tsg_deyatelnost_tsg.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="gilisnaya_inspekciya_podgotovka_k_otopitelnomu_sezonu.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="Documenti_dlya_otopitelnogo_sezona.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="gilisnaya_inspekciya_podgotovka_k_otopitelnomu_sezonu_podgotovka_k_rabote_v_zimnih_usloviyah.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="gilisnaya_inspekciya_podgotovka_k_otopitelnomu_sezonu_informaciya_o_podache_tepla.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="gilisnaya_inspekciya_podgotovka_k_otopitelnomu_sezonu_kotelnie.xml"/>
+      <file-mod href="gilisnaya_inspekciya_podgotovka_k_otopitelnomu_sezonu_massovaya_smena_statusov_documentov.xml"/>
+      <file-mod href="gilisnaya_inspekciya_reestr_uvedomlenii.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="gilisnaya_inspekciya_reestr_uvedomlenii_reestr_uvedomlenii_o_resheniyah_sobraniya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="gilisnaya_inspekciya_reestr_uvedomlenii_uvedomleniya_o_nachale_biznesa.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="gilisnaya_inspekciya_nastroiki_ggi.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="gilisnaya_inspekciya_nastroiki_ggi_pravila_prostavleniya_vidov_proverok.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="gilisnaya_inspekciya_upravlenie_zadachami.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="gilisnaya_inspekciya_upravlenie_zadachami_doska_zadach_inspektora.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="gilisnaya_inspekciya_upravlenie_zadachami_panel_rukovoditelya_ggi.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="otcheti.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="otcheti_otcheti.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="otcheti_kategorii_pechatnih_form.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="otcheti_spravochnik_pechatnih_form.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="otcheti_istochniki_dannih.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="otcheti_zamena_shablonov.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="otcheti_spravochnik_otchetov.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="otcheti_panel_otchetov.xml"/>
+      <file-mod href="obrasheniya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="obrasheniya_obrasheniya_gragdan.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="obrasheniya_rubriki.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_obshie.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_obshie_municipalnie_obrazovaniya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_obshie_dolgnosti.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_obshie_pravovie_formi.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_obshie_inspectori.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_obshie_vidi_rabot.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_obshie_edinici_izmereniya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_obshie_derevo_municipalnih_obrazovanii.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_obshie_rascenki_po_rabotam.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_obshie_raboti.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_obshie_universalnie_spravochniki.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_gkh.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_gkh_konstruktivnie_elementi.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_gkh_gruppi_konstruktivnih_elementov.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_gkh_pribori_ucheta.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_gkh_materiali_krovli.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_gkh_materiali_sten.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_gkh_vidi_rabot_tekushego_remonta.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_gkh_tipi_proektov.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_gkh_tipi_obslugivaniya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_gkh_normativnie_documenti.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_gkh_osobie_priznaki_stroeniya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_gkh_kommunalnie_uslugi.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_programmi.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_programmi_periodi_programm.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_programmi_varianti_dalneishego_ispolzovaniya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_programmi_istochniki_po_programmam_pereseleniya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_capiatalnii_remont.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_capiatalnii_remont_specialnosti.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_capiatalnii_remont_uchebnie_zavedeniya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_capiatalnii_remont_vidi_osnasheniya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_capiatalnii_remont_razrezi_finansirovaniya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_capiatalnii_remont_etapi_rabot.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_capiatalnii_remont_uchastniki_kvalifikacionnogo_otbora.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_capiatalnii_remont_tip_gruppi_ooi.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_capiatalnii_remont_ooi.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_capiatalnii_remont_operacii_po_schetu.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_gil_inspekciya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_gil_inspekciya_otdeli.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_gil_inspekciya_plani_proverok_uridicheskih_lic.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_gil_inspekciya_plani_inspekcionnih_proverok.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_gil_inspekciya_plani_meropriyatii.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_gil_inspekciya_narusheniya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_gil_inspekciya_harakteristiki_narushenii.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_gil_inspekciya_inspectiryemie_chasti.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_gil_inspekciya_stati_zakona.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_gil_inspekciya_tipi_ispolnitelei.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_gil_inspekciya_predostavlyaemie_documenti.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_gil_inspekciya_tipi_obsledovaniya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_gil_inspekciya_vidi_proverok.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_gil_inspekciya_experti.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_gil_inspekciya_vidi_sankcii.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_gil_inspekciya_vidi_suda.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_gil_inspekciya_resheniya_suda.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_gil_inspekciya_instancii.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_gil_inspekciya_kompetentnie_organizacii.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_gil_inspekciya_soderganie_otveta.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_gil_inspekciya_tematiki_obrashenii.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_gil_inspekciya_podtematiki.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_gil_inspekciya_priznak_volokiti.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_raskritie_informacii.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_raskritie_informacii_otchetnie_periodi.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_raskritie_informacii_uslugi.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_raskritie_informacii_peroiodichnost_uslug.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_raskritie_informacii_kontroliryushie_organi.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_raskritie_informacii_sistema_nalogooblogeniya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_raskritie_informacii_gruppi_rabot_po_to.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_raskritie_informacii_gruppi_ppr.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_raskritie_informacii_planovo_predupreditelnie_raboti.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_raskritie_informacii_raboti_po_to.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_otopitelnii_sezon.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_otopitelnii_sezon_periodi.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_deyatelnost_tsg.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_deyatelnost_tsg_tip_protokola.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_deyatelnost_tsg_stati_ystava.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_strahovanie.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_strahovanie_vidi_riskov.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_regionalnii_fond.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_regionalnii_fond_kodi_naselennih_punktov.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_pasporta.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_pasporta_spravochnik_struktur_pasportov.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_obrasheniya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_obrasheniya_vidi_obrashenii.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_obrasheniya_istochniki_postuplenii.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_obrasheniya_formi_postuplenii.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_obrasheniya_rezolucii.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="raskritie_informacii_raskritie_informacii_po_731.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="raskritie_informacii_massovii_raschet_procentov.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="raskritie_informacii_massovaya_generaciya_otcheta_po_731.xml"/>
+      <file-mod href="processi.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="processi_spisok_zadach.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_kontragenti.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_kontragenti_kontragenti.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_kontragenti_kreditnie_organizacii.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="usloviya_obslugivaniya_kred_org.xml"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_upravlyaushie_organizacii.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_postavshiki_gilishnih_uslug.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_podryadnie_organizacii.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_strahovie_organizacii.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_organi_mestnogo_samoupravleniya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_organi_gosudarstvennoi_vlasti.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_plategnie_agenti.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_agenti_dostavki.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_raschetno_kassovie_centri.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_regionalnie_operatori.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_usloviya_obslugivaniya_kred_organizaciyami.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_postavshiki_resursov.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_nastroiki_statusov.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_nastroiki_statusov_statusi.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_nastroika_polzovatelei.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_nastroika_polzovatelei_operatori.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_nastroika_polzovatelei_roli.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_spravochnik_adresov.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_spravochnik_adresov_fias.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_audit.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_kontrol_proizvedennih_oplat_nachislenii.xml"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_kontrol_proizvedennih_oplat_nachislenii_scheta_ucheta_sredstv.xml"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_kontrol_proizvedennih_oplat_nachislenii_scheta_ucheta_sredstv_schet_nachislenii.xml"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_kontrol_proizvedennih_oplat_nachislenii_scheta_ucheta_sredstv_schet_oplat_mkd.xml"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_kontrol_proizvedennih_oplat_nachislenii_scheta_ucheta_sredstvi_schet_rascheta_s_postavshikami.xml"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_kontrol_proizvedennih_oplat_nachislenii_scheta_ucheta_sredstv_protokoli_raschetov.xml"/>
+      <file-mod href="podgotovka_modulya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="raskritie_informacii_raskritie_informacii_po_731_svedeniya_uo.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="raskritie_informacii_raskritie_informacii_po_731_objekti_v_upravlenii.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_audit_poslednie_deistviya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_audit_audit_deistvii.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_audit_statistika_deistvii.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_audit_unikalnie_polzovateli.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_audit_gurnalirovanie.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_nastroika_polzovatelei_profil.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_nastroika_prav_dostupa.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_nastroika_prav_dostupa_nastroika_ogranichenii.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_nastroika_prav_dostupa_obyazatelnost_polei.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_novosti_i_instrukcii.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_novosti_i_instrukcii_novosti.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_novosti_i_instrukcii_instrukcii.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_nastroiki_statusov_perehodi_statusov.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_nastroiki_statusov_pravila_perehoda_statusov.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_nastroiki_statusov_ogranicheniya_statusov.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="aktivnie_polzovateli.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_o_sisteme.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_o_sisteme_versiya_sistemi.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_shabloni.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_shabloni_shabloni_documentov.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_logi.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_logi_logi_zagruzok.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_zagruzka_identifikatora_is.xml"/>
+      <file-mod href="administrirovanie_export_dannih.xml"/>
+      <file-mod href="administrirovanie_export_dannih_gas_upravlenie.xml"/>
+      <file-mod href="administrirovanie_export_dannih_gas_upravlenie_kr.xml"/>
+      <file-mod href="administrirovanie_vipolnenie_deistvii.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_import_eksport_dannih_sistemi.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_oktmo.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_oktmo_privyazka_naselennogo_punkta.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_importi.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_nastroiki_prilogeniya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_importi_licevie_scheta_so_svedeniyami.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_importi_dannie_iz_billinga.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_importi_importi_gilih_domov_iz_reformi_gkh.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_importi_import_gilih_domov_iz_fonda.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_importi_import_operatorov.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_importi_import_dannih_iz_oktmo.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_importi_import_organizacii.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_importi_import_sobstvennikov.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_importi_import_abonentov.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_importi_import_protokolov_reshenii.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_importi_import_protokolov_sobstvennikov.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_importi_import_v_scheta_nvs_iz_1c.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_importi_import_licevih_schetov.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_importi_import_socialnoi_poddergki.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_importi_import_obrashenii_v_gilishnyu_inspekciu.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_import_gilih_domov.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="administrirovanie_import_gilih_domov_import_gilih_domov_yniversalnii.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="otcheti_OLAP_analitika.xml"/>
+      <file-mod href="pasport_gilogo_doma_protokol_reshenii_organa_gosvlasti.xml" build="PDF"/>
+      <file-mod href="obrasheniya_mesta_problemi.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_gkh_formi_sobstvennosti.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_gkh_gruppi_kapitalnosti.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_postavshiki_gilishnih_uslug_obshie_svedeniya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_postavshiki_gilishnih_uslug_municipalnie_obrazovaniya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_postavshiki_gilishnih_uslug_gilie_doma.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_postavshiki_gilishnih_uslug_dogovor_s_gilimi_domami.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_postavshiki_gilishnih_uslug_documenti.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_postavshiki_gilishnih_uslug_uslugi.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_postavshiki_gilishnih_uslug_prekrashenie_deyatelnosti.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_postavshiki_kommunalnih_uslug.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="rabota_s_avariinimi_domami_kartochka_avariinogo_doma.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="rabota_s_avariinimi_domami_kartochka_avariinogo_doma_svedeniya_o_dome.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="rabota_s_avariinimi_domami_kartochka_avariinogo_doma_razrezi_finansirovaniya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="rabota_s_avariinimi_domami_dobavlenie_avariinogo_doma.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov_operacii_po_licevim_schetam_import_import_licevih_schetov.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov_operacii_po_licevim_schetam_import_import_socialnoi_poddergki.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov_operacii_po_licevim_schetam_import.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov_operacii_po_licevim_schetam_operacii_smena_abonenta.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov_operacii_po_licevim_schetam_operacii_peni.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov_operacii_po_licevim_schetam_operacii_saldo.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov_operacii_po_licevim_schetam_operacii_cloze.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov_operacii_po_licevim_schetam_operacii_sliyaniya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov_operacii_po_licevim_schetam_operacii_otmena_oplati.xml"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov_operacii_po_licevim_schetam_operacii.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov_operacii_po_licevim_schetam_vigruzka_doc_na_oplatu.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov_operacii_po_licevim_schetam_vigruzka_vigruzka_excel.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov_operacii_po_licevim_schetam_vigruzka_vigruzka_documentov.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov_operacii_po_licevim_schetam_vigruzka_vigruzka_nachislenii.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov_operacii_po_licevim_schetam_vigruzka.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov_operacii_po_licevim_schetam_doc_na_oplatu.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="reference_regionalnii_fond_lgotnie_kategorii_gragdan.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="nachalo_raboti.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="nachalo_raboti_dekstop.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="nachalo_raboti_glavnoe_menu.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="nachalo_raboti_navigaciya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="nachalo_raboti_windows.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="nachalo_raboti_search.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="nachalo_rabot_exit.xml" build="CHM,HTML,PDF"/>
+    </file>
+    <file href="Baggage/*.*" build="ALL" filetype="baggage"/>
+  </project-files>
+</helpproject>

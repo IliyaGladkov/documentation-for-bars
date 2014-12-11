@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="ilya.gladkov" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Комплексное решение «БАРС.ЖКХ»</title>
+  <body>
+    <header>
+      <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:10pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#333333; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Комплексное решение «БАРС.ЖКХ»</text></para>
+    </header>
+    <para styleclass="Heading3"><text styleclass="Heading3" translate="true">Комплексное решение «БАРС.ЖКХ»</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Комплексное решение «БАРС.ЖКХ» обеспечивает возможность ведения единой централизованной базы данных в Центральном Офисе, ответственном за сбор и консолидацию данных с предоставлением удаленного защищенного доступа для подчиненных учреждений. Средства Системы позволяют представить данные в удобной для пользователя форме.</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Решение адресовано органам государственной власти и местного самоуправления, государственным жилищным инспекциям, управляющим, ресурсоснабжающим организациям и гражданам-потребителям услуг.</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Система предназначена для решения следующих задач:</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#565656;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Формирование публичного источника информации;</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Формирование единой базы объектов жилищного фонда;</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Мониторинг состояния объектов жилищного фонда;</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Автоматизация процессов формирования и управления программами капитального ремонта объектов жилищного фонда;</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Контроль над процессом реализации программ;</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Учет получения, распределения и расходования финансовых ресурсов на реализацию программ;</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Планирование и анализ инспекторской деятельности государственной жилищной инспекции;</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Формирование и контроль за исполнением Регионального фонда, сформированного за счет средств собственников жилья, оплаченных за капитальный ремонт;</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Сбор информации о деятельности Управляющих организаций в рамках 731 Постановления Правительства Российской Федерации.</text></li>
+    </list>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Одной из ключевых особенностей Системы является возможность ее интеграции с различными системами в рамках межведомственного информационного взаимодействия органов государственной власти.</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Структура Системы складывается из нескольких взаимоувязанных модулей, обеспечивающих ее работу как единой системы сбора, хранения и анализа информации.</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+  </body>
+</topic>

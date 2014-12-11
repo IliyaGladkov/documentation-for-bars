@@ -1,0 +1,1263 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<map xmlns:xsi="http://www.w3.org/2001/XInclude">
+  <topicref type="topic" id="419334265329424" build="CHM,HTML,PDF" modified="2014-12-01T14:54:21.155Z" icon="0" href="index">
+    <caption translate="true">Комплексное решение «БАРС.ЖКХ»</caption>
+    <topicref type="topic" id="419826928694203" build="CHM,HTML,PDF" modified="2014-12-09T16:20:41.093Z" icon="0" href="nachalo_raboti">
+      <caption translate="true">Начало работы</caption>
+      <topicref type="topic" id="419824679473595" build="CHM,HTML,PDF" modified="2014-12-09T16:20:49.076Z" icon="0" href="nachalo_raboti_dekstop">
+        <caption translate="true">Рабочий стол</caption>
+      </topicref>
+      <topicref type="topic" id="419824845290669" build="CHM,HTML,PDF" modified="2014-12-09T16:20:54.396Z" icon="0" href="nachalo_raboti_glavnoe_menu">
+        <caption translate="true">Главное меню</caption>
+      </topicref>
+      <topicref type="topic" id="419825117296500" build="CHM,HTML,PDF" modified="2014-12-09T16:55:56.117Z" icon="0" href="nachalo_raboti_navigaciya">
+        <caption translate="true">Навигация</caption>
+      </topicref>
+      <topicref type="topic" id="419834627940753" build="CHM,HTML,PDF" modified="2014-12-10T11:36:48.831Z" icon="0" href="nachalo_raboti_windows">
+        <caption translate="true">Окна</caption>
+      </topicref>
+      <topicref type="topic" id="419833067325764" build="CHM,HTML,PDF" modified="2014-12-10T11:36:54.094Z" icon="0" href="nachalo_raboti_search">
+        <caption translate="true">Поиск</caption>
+      </topicref>
+      <topicref type="topic" id="419834452642047" build="CHM,HTML,PDF" modified="2014-12-10T11:37:00.343Z" icon="0" href="nachalo_rabot_exit">
+        <caption translate="true">Выход</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="418844927505181" build="CHM,HTML,PDF" modified="2014-12-01T14:54:32.852Z" icon="0" href="housing">
+      <caption translate="true">Жилищный фонд</caption>
+      <topicref type="topic" id="418846840776402" build="CHM,HTML,PDF" modified="2014-11-28T16:59:24.834Z" icon="0" href="podgotovka_sistemi_k_raschety_programmi">
+        <caption translate="true">Подготовка системы к расчету Программы</caption>
+      </topicref>
+      <topicref type="topic" id="418845447468557" build="CHM,HTML,PDF" modified="2014-11-28T16:59:24.843Z" icon="0" href="pasportizaciya_objectov_gilishnogo_fonda">
+        <caption translate="true">Паспортизация обьектов жилищного фонда</caption>
+        <topicref type="topic" id="418846167889439" build="CHM,HTML,PDF" modified="2014-11-28T16:59:24.853Z" icon="0" href="spravochnic_oktmo">
+          <caption translate="true">Справочник ОКТМО</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="418846207226588" build="CHM,HTML,PDF" modified="2014-11-28T16:59:24.859Z" icon="0" href="rabota_s_reestrom_gilih_domov">
+        <caption translate="true">Работа с реестром жилых домов</caption>
+        <topicref type="topic" id="418855952175232" build="CHM,HTML,PDF" modified="2014-11-28T16:59:24.863Z" icon="0" href="dobavlenie_doma_v_reestr">
+          <caption translate="true">Добавление дома в реестр</caption>
+        </topicref>
+        <topicref type="topic" id="418855601333222" build="CHM,HTML,PDF" modified="2014-11-28T16:59:24.867Z" icon="0" href="pasport_gilogo_doma">
+          <caption translate="true">Паспорт жилого дома</caption>
+          <topicref type="topic" id="418854251701932" build="CHM,HTML,PDF" modified="2014-11-28T16:59:24.871Z" icon="0" href="pasport_gilogo_doma_obshie_svedeniya">
+            <caption translate="true">Общие сведения</caption>
+          </topicref>
+          <topicref type="topic" id="418857750138759" build="CHM,HTML,PDF" modified="2014-11-28T16:59:24.875Z" icon="0" href="pasport_gilogo_doma_konstruktivnie_harakteristiki">
+            <caption translate="true">Конструктивные характеристики</caption>
+          </topicref>
+          <topicref type="topic" id="418855304223862" build="CHM,HTML,PDF" modified="2014-11-28T16:59:24.880Z" icon="0" href="pasport_gilogo_doma_pribori_ucheta_i_uzli_regulirovaniya">
+            <caption translate="true">Приборы учета и узлы регулирования</caption>
+          </topicref>
+          <topicref type="topic" id="418854940409969" build="CHM,HTML,PDF" modified="2014-11-28T16:59:24.884Z" icon="0" href="pasport_gilogo_doma_fotoarhiv">
+            <caption translate="true">Фото-архив</caption>
+          </topicref>
+          <topicref type="topic" id="418863124412063" build="CHM,HTML,PDF" modified="2014-11-28T16:59:24.887Z" icon="0" href="pasport_gilogo_doma_svedeniya_o_pomesheniayh">
+            <caption translate="true">Сведения о помещениях </caption>
+          </topicref>
+          <topicref type="topic" id="418863538005081" build="CHM,HTML,PDF" modified="2014-11-28T16:59:24.890Z" icon="0" href="pasport_gilogo_doma_svedeniya_po_gku">
+            <caption translate="true">Сведения по ЖКУ</caption>
+            <topicref type="topic" id="418866130216325" build="CHM,HTML,PDF" modified="2014-11-28T16:59:24.892Z" icon="0" href="pasport_gilogo_doma_obshie_svedeniya_po_domu">
+              <caption translate="true">Общие сведения по дому</caption>
+            </topicref>
+            <topicref type="topic" id="418866422952086" build="CHM,HTML,PDF" modified="2014-11-28T16:59:24.895Z" icon="0" href="pasport_gilogo_doma_licevie_scheta_doma">
+              <caption translate="true">Лицевые счета дома</caption>
+            </topicref>
+            <topicref type="topic" id="418866439139435" build="CHM,HTML,PDF" modified="2014-11-28T16:59:24.897Z" icon="0" href="pasport_gilogo_doma_pokazanie_obshedomovih_priborov_ucheta">
+              <caption translate="true">Показания общедомовых приборов учета</caption>
+            </topicref>
+          </topicref>
+          <topicref type="topic" id="418865751191077" build="CHM,HTML,PDF" modified="2014-11-28T16:59:24.900Z" icon="0" href="pasport_gilogo_doma_zemelnie_uchastki">
+            <caption translate="true">Земельные участки</caption>
+          </topicref>
+          <topicref type="topic" id="418875700926394" build="CHM,HTML,PDF" modified="2014-11-28T16:59:24.902Z" icon="0" href="pasport_gilogo_doma_strahovanie_objecta">
+            <caption translate="true">Страхование обьекта</caption>
+          </topicref>
+          <topicref type="topic" id="418877241883268" build="CHM,HTML,PDF" modified="2014-11-28T16:59:24.905Z" icon="0" href="pasport_gilogo_doma_upravlenie_doma">
+            <caption translate="true">Управление домом</caption>
+          </topicref>
+          <topicref type="topic" id="418902079207027" build="CHM,HTML,PDF" modified="2014-11-28T16:59:24.908Z" icon="0" href="pasport_gilogo_doma_agenti_dostavki">
+            <caption translate="true">Агенты доставки</caption>
+          </topicref>
+          <topicref type="topic" id="418903304455460" build="CHM,HTML,PDF" modified="2014-11-28T16:59:24.910Z" icon="0" href="pasport_gilogo_doma_postavshiki_gilishnih_uslug">
+            <caption translate="true">Поставщики жилищных услуг</caption>
+          </topicref>
+          <topicref type="topic" id="418907518804287" build="CHM,HTML,PDF" modified="2014-11-28T17:00:00.036Z" icon="0" href="pasport_gilogo_doma_postavshiki_kommunalnih_uslug">
+            <caption translate="true">Поставщики коммунальных услуг</caption>
+          </topicref>
+          <topicref type="topic" id="418907368353860" build="CHM,HTML,PDF" modified="2014-11-28T17:00:00.043Z" icon="0" href="pasport_gilogo_doma_sovet_mkd">
+            <caption translate="true">Совет МКД</caption>
+          </topicref>
+          <topicref type="topic" id="41892348952301" build="CHM,HTML,PDF" modified="2014-11-28T17:00:00.049Z" icon="0" href="pasport_gilogo_doma_konstruktivnie_elementi">
+            <caption translate="true">Конструктивные элементы</caption>
+          </topicref>
+          <topicref type="topic" id="418915073121967" build="CHM,HTML,PDF" modified="2014-11-28T17:00:00.055Z" icon="0" href="pasport_gilogo_doma_tekushii_remont">
+            <caption translate="true">Текущий ремонт</caption>
+          </topicref>
+          <topicref type="topic" id="418912531373517" build="CHM,HTML,PDF" modified="2014-11-28T17:00:00.061Z" icon="0" href="pasport_gilogo_doma_protokoli_reshenii">
+            <caption translate="true">Протоколы решений</caption>
+          </topicref>
+          <topicref type="topic" id="419704560002112" build="PDF" modified="2014-11-28T17:00:00.068Z" icon="0" href="pasport_gilogo_doma_protokol_reshenii_organa_gosvlasti">
+            <caption translate="true">Протокол решений органа гос. власти</caption>
+          </topicref>
+          <topicref type="topic" id="419053924518777" build="CHM,HTML,PDF" modified="2014-11-28T17:00:00.075Z" icon="0" href="pasport_gilogo_doma_protokoli_reshenii_deistvyushie_resheniya">
+            <caption translate="true">Действующие решения</caption>
+          </topicref>
+          <topicref type="topic" id="419053860210759" build="CHM,HTML,PDF" modified="2014-11-28T17:00:00.078Z" icon="0" href="pasport_gilogo_doma_protokoli_i_resheniya_sobstvenikov">
+            <caption translate="true">Протоколы и решения собственников</caption>
+          </topicref>
+          <topicref type="topic" id="419055407428912" build="CHM,HTML,PDF" modified="2014-11-28T17:00:00.082Z" icon="0" href="pasport_gilogo_doma_scheta_ucheta_sredstv">
+            <caption translate="true">Счета учета средств</caption>
+            <topicref type="topic" id="419058212696669" build="CHM,HTML,PDF" modified="2014-11-28T17:00:00.085Z" icon="0" href="pasport_gilogo_doma_scheta_ucheta_sredstv_schet_nachislenii">
+              <caption translate="true">Счет начислений</caption>
+            </topicref>
+            <topicref type="topic" id="419055707860264" build="CHM,HTML,PDF" modified="2014-11-28T17:00:00.089Z" icon="0" href="pasport_gilogo_doma_scheta_ucheta_sredstv_schet_oplat">
+              <caption translate="true">Счет оплат</caption>
+            </topicref>
+            <topicref type="topic" id="4190635229486" build="CHM,HTML,PDF" modified="2014-11-28T17:00:00.093Z" icon="0" href="pasport_gilogo_doma_scheta_ucheta_sredstv_schet_rascheta_s_postavshikami">
+              <caption translate="true">Счет расчета с поставщиками</caption>
+            </topicref>
+            <topicref type="topic" id="419055382190396" build="CHM,HTML,PDF" modified="2014-11-28T17:00:00.096Z" icon="0" href="pasport_gilogo_doma_scheta_ucheta_sredstv_schet_subsidii">
+              <caption translate="true">Счет субсидий</caption>
+            </topicref>
+          </topicref>
+          <topicref type="topic" id="419054610545636" build="CHM,HTML,PDF" modified="2014-11-28T17:00:00.100Z" icon="0" href="pasport_gilogo_doma_zaimi">
+            <caption translate="true">Займы</caption>
+          </topicref>
+          <topicref type="topic" id="419067537878478" build="CHM,HTML,PDF" modified="2014-11-28T17:00:00.104Z" icon="0" href="pasport_gilogo_doma_pasport_technicheskogo_objecta">
+            <caption translate="true">Паспорт технического обьекта</caption>
+            <topicref type="topic" id="419065358288009" build="CHM,HTML,PDF" modified="2014-11-28T17:00:00.107Z" icon="0" href="pasport_gilogo_doma_pasport_technicheskogo_objecta_obshie_svedeniya">
+              <caption translate="true">Общие сведения о жилом доме</caption>
+            </topicref>
+            <topicref type="topic" id="419067031086685" build="CHM,HTML,PDF" modified="2014-11-28T17:00:00.110Z" icon="0" href="pasport_gilogo_doma_pasport_technicheskogo_objecta_eksplikaciya_zemelnogo_uchastka">
+              <caption translate="true">Экспликация земельного участка</caption>
+            </topicref>
+            <topicref type="topic" id="419067001358511" build="CHM,HTML,PDF" modified="2014-11-28T17:00:00.113Z" icon="0" href="pasport_gilogo_doma_pasport_technicheskogo_objecta_ingenernoe_oborudovanie">
+              <caption translate="true">Инженерное оборудование</caption>
+            </topicref>
+            <topicref type="topic" id="419064318334412" build="CHM,HTML,PDF" modified="2014-11-28T17:00:00.116Z" icon="0" href="pasport_gilogo_doma_pasport_technicheskogo_objecta_specialnoe_ingenernoe_oborudovanie">
+              <caption translate="true">Специальное инженерное оборудование</caption>
+            </topicref>
+            <topicref type="topic" id="419065043820716" build="CHM,HTML,PDF" modified="2014-11-28T17:00:00.118Z" icon="0" href="pasport_gilogo_doma_pasport_technicheskogo_objecta_obshie_pokazateli_konstr_elementov">
+              <caption translate="true">Общие показатели конструктивных элементов</caption>
+            </topicref>
+            <topicref type="topic" id="41906243132004" build="CHM,HTML,PDF" modified="2014-11-28T17:00:00.121Z" icon="0" href="pasport_gilogo_doma_pasport_technicheskogo_objecta_energeticheskie_harakteristiki_mkd">
+              <caption translate="true">Энергетические характеристики МКД</caption>
+            </topicref>
+          </topicref>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="419078247496959" build="CHM,HTML,PDF" modified="2014-11-28T17:00:00.124Z" icon="0" href="rabota_s_avariinimi_domami">
+        <caption translate="true">Работа с аварийными домами</caption>
+        <topicref type="topic" id="419085957545710" build="CHM,HTML,PDF" modified="2014-12-04T15:14:52.832Z" icon="0" href="rabota_s_avariinimi_domami_kartochka_avariinogo_doma">
+          <caption translate="true">Карточка аварийного дома</caption>
+          <topicref type="topic" id="419083587872705" build="CHM,HTML,PDF" modified="2014-12-04T15:15:06.324Z" icon="0" href="rabota_s_avariinimi_domami_kartochka_avariinogo_doma_svedeniya_o_dome">
+            <caption translate="true">Сведения о доме</caption>
+          </topicref>
+          <topicref type="topic" id="419085644393547" build="CHM,HTML,PDF" modified="2014-12-04T15:15:13.154Z" icon="0" href="rabota_s_avariinimi_domami_kartochka_avariinogo_doma_razrezi_finansirovaniya">
+            <caption translate="true">Разрезы финансирования</caption>
+          </topicref>
+        </topicref>
+        <topicref type="topic" id="419084486867791" build="CHM,HTML,PDF" modified="2014-12-04T15:15:53.459Z" icon="0" href="rabota_s_avariinimi_domami_dobavlenie_avariinogo_doma">
+          <caption translate="true">Добавление аварийного дома в реестр</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="419085116922017" modified="2014-11-21T14:25:53.448Z" icon="0" href="rabota_s_programmoi_pereseleniya">
+        <caption translate="true">Работа с программой переселения</caption>
+      </topicref>
+      <topicref type="topic" id="419087799427732" build="CHM,HTML,PDF" modified="2014-11-28T17:00:00.137Z" icon="0" href="strahovanie_deyatelnosti_uo">
+        <caption translate="true">Страхование деятельности УО</caption>
+      </topicref>
+      <topicref type="topic" id="419084919912437" build="CHM,HTML,PDF" modified="2014-11-28T17:00:00.140Z" icon="0" href="pasporta_po_PP_RF_468">
+        <caption translate="true">Паспорта по ПП РФ 1468</caption>
+        <topicref type="topic" id="419085122115486" build="CHM,HTML,PDF" modified="2014-11-28T17:00:00.142Z" icon="0" href="pasporta_po_PP_RF_468_reestr_pasportov_domov">
+          <caption translate="true">Реестр паспортов домов</caption>
+        </topicref>
+        <topicref type="topic" id="419086647614928" build="CHM,HTML,PDF" modified="2014-11-28T17:00:00.145Z" icon="0" href="pasporta_po_PP_RF_468_reestr_pasportov_oki">
+          <caption translate="true">Реестр паспортов ОКИ</caption>
+        </topicref>
+        <topicref type="topic" id="419087826670392" build="CHM,HTML,PDF" modified="2014-11-28T17:00:00.147Z" icon="0" href="pasporta_po_PP_RF_468_moi_pasporta_domov">
+          <caption translate="true">Мои паспорта домов</caption>
+        </topicref>
+        <topicref type="topic" id="419087647803164" build="CHM,HTML,PDF" modified="2014-11-28T17:00:00.150Z" icon="0" href="pasporta_po_PP_RF_468_moi_pasporta_oki">
+          <caption translate="true">Мои паспорта ОКИ</caption>
+        </topicref>
+        <topicref type="topic" id="419084685855580" build="CHM,HTML,PDF" modified="2014-11-28T17:00:00.153Z" icon="0" href="pasporta_po_PP_RF_468_import_pasportov_1468">
+          <caption translate="true">Импорт паспортов 1468</caption>
+        </topicref>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="419206471805813" build="CHM,HTML,PDF" modified="2014-12-01T14:53:03.804Z" icon="0" href="capitalnii_remont">
+      <caption translate="true">Капитальный ремонт</caption>
+      <topicref type="topic" id="41928875467482" build="CHM,HTML,PDF" modified="2014-12-01T14:53:03.813Z" icon="0" href="capitalnii_remont_dolgosrochnaya_programma">
+        <caption translate="true">Долгосрочная программа</caption>
+        <topicref type="topic" id="419204942339651" build="CHM,HTML,PDF" modified="2014-12-01T14:53:03.822Z" icon="0" href="capitalnii_remont_dolgosrochnaya_programma_podgotovka_sistemi_k_raschetu_programmi">
+          <caption translate="true">Подготовка системы к расчету ДПКР</caption>
+          <topicref type="topic" id="419216068521243" build="CHM,HTML,PDF" modified="2014-12-01T14:53:03.828Z" icon="0" href="capitalnii_remont_dolgosrochnaya_programma_formirovanie_dpkr">
+            <caption translate="true">Формирование ДПКР</caption>
+            <topicref type="topic" id="419216755060328" build="CHM,HTML,PDF" modified="2014-12-01T14:53:03.832Z" icon="0" href="capitalnii_remont_dolgosrochnaya_programma_formirovanie_dpkr_raschet_stoimosti_rabot">
+              <caption translate="true">Расчет стоимости работ и плановых лет проведения ремонта</caption>
+            </topicref>
+            <topicref type="topic" id="419264733312418" build="CHM,HTML,PDF" modified="2014-12-01T14:53:03.836Z" icon="0" href="capitalnii_remont_dolgosrochnaya_programma_formirovanie_dpkr_formirovanie_ocheredi_gilih_domov">
+              <caption translate="true">Формирование очереди жилых домов</caption>
+              <topicref type="topic" id="419214599583010" build="CHM,HTML,PDF" modified="2014-12-01T14:53:03.840Z" icon="0" href="capitalnii_remont_dolgosrochnaya_programma_formirovanie_dpkr_formirovanie_ocheredi_gilih_domov_parametri_ocherednosti">
+                <caption translate="true">Справочник Параметры очередности</caption>
+                <topicref type="topic" id="419223728849737" build="CHM,HTML,PDF" modified="2014-12-01T14:53:03.844Z" icon="0" href="capitalnii_remont_dolgosrochnaya_programma_formirovanie_dpkr_formirovanie_ocheredi_gilih_domov_parametri_ocherednosti_kriterii_formirovaniya_ocheredi">
+                  <caption translate="true">Критерии формирования очередности</caption>
+                </topicref>
+                <topicref type="topic" id="419266504384143" build="CHM,HTML,PDF" modified="2014-12-01T14:53:03.849Z" icon="0" href="capitalnii_remont_dolgosrochnaya_programma_formirovanie_dpkr_formirovanie_ocheredi_gilih_domov_parametri_ocherednosti_kriterii_formirovaniya_ocherednosti_po_ballam">
+                  <caption translate="true">Критерии формирования очередности по баллам</caption>
+                </topicref>
+                <topicref type="topic" id="419225593864649" build="CHM,HTML,PDF" modified="2014-12-01T14:53:03.853Z" icon="0" href="capitalnii_remont_dolgosrochnaya_programma_formirovanie_dpkr_formirovanie_ocheredi_gilih_domov_parametri_ocherednosti_formirovanie_ocherednosti_po_ballam">
+                  <caption translate="true">Формирование очередности по баллам</caption>
+                </topicref>
+              </topicref>
+            </topicref>
+            <topicref type="topic" id="419224370549703" build="CHM,HTML,PDF" modified="2014-12-01T14:53:03.857Z" icon="0" href="capitalnii_remont_dolgosrochnaya_programma_formirovanie_dpkr_sohranenie_versii_programmi">
+              <caption translate="true">Сохранение версии Программы</caption>
+            </topicref>
+            <topicref type="topic" id="419224543364259" build="CHM,HTML,PDF" modified="2014-12-01T14:53:03.860Z" icon="0" href="capitalnii_remont_dolgosrochnaya_programma_formirovanie_dpkr_rabota_s_versiyami_programmi">
+              <caption translate="true">Работа с версиями Программы</caption>
+            </topicref>
+          </topicref>
+          <topicref type="topic" id="41921105194283" build="CHM,HTML,PDF" modified="2014-12-01T14:53:03.863Z" icon="0" href="capitalnii_remont_dolgosrochnaya_programma_podgotovka_spravochnik_tipi_domov">
+            <caption translate="true">Справочник Типы домов</caption>
+          </topicref>
+          <topicref type="topic" id="419213528367507" build="CHM,HTML,PDF" modified="2014-12-01T14:53:03.866Z" icon="0" href="capitalnii_remont_dolgosrochnaya_programma_podgotovka_add_svedenii_v_pasporta">
+            <caption translate="true">Добавление сведений в паспорта жилых домов</caption>
+          </topicref>
+          <topicref type="topic" id="419215080683586" build="CHM,HTML,PDF" modified="2014-12-01T14:53:03.869Z" icon="0" href="capitalnii_remont_dolgosrochnaya_programma_podgotovka_nastroika_parametrov_dpkr">
+            <caption translate="true">Настройка параметров ДПКР</caption>
+            <topicref type="topic" id="419265747513298" build="CHM,HTML,PDF" modified="2014-12-01T14:53:03.871Z" icon="0" href="capitalnii_remont_dolgosrochnaya_programma_podgotovka_nastroika_parametrov_dpkr_nastroika_yrovnei">
+              <caption translate="true">Настройка уровней адреса</caption>
+            </topicref>
+            <topicref type="topic" id="41923225925033" build="CHM,HTML,PDF" modified="2014-12-01T14:53:03.874Z" icon="0" href="capitalnii_remont_dolgosrochnaya_programma_podgotovka_nastroika_parametrov_dpkr_nastroika_parametrov_formirovaniya_dpkr">
+              <caption translate="true">Настройка параметров формирования ДПКР</caption>
+            </topicref>
+          </topicref>
+        </topicref>
+        <topicref type="topic" id="419226609911861" build="CHM,HTML,PDF" modified="2014-12-01T14:53:03.877Z" icon="0" href="capitalnii_remont_dolgosrochnaya_programma_tarif_po_tipam_domov">
+          <caption translate="true">Тариф по типам домов</caption>
+        </topicref>
+        <topicref type="topic" id="419255749646606" build="CHM,HTML,PDF" modified="2014-12-01T14:53:03.880Z" icon="0" href="capitalnii_remont_dolgosrochnaya_programma_subsidirovanie">
+          <caption translate="true">Субсидирование</caption>
+        </topicref>
+        <topicref type="topic" id="419253511128081" build="CHM,HTML,PDF" modified="2014-12-01T14:53:03.883Z" icon="0" href="capitalnii_remont_dolgosrochnaya_programma_korrectirovka_ocheredi">
+          <caption translate="true">Корректировка очереди</caption>
+          <topicref type="topic" id="419252663259684" build="CHM,HTML,PDF" modified="2014-12-01T14:53:03.886Z" icon="0" href="capitalnii_remont_dolgosrochnaya_programma_korrectirovka_ocheredi_com_remonte">
+            <caption translate="true">При комплексном ремонте</caption>
+          </topicref>
+          <topicref type="topic" id="419255034038039" build="CHM,HTML,PDF" modified="2014-12-01T14:53:03.889Z" icon="0" href="capitalnii_remont_dolgosrochnaya_programma_korrectirovka_ocheredi_dolyam_finans_rabot">
+            <caption translate="true">По долям финансирования работ</caption>
+          </topicref>
+          <topicref type="topic" id="419253716059775" build="CHM,HTML,PDF" modified="2014-12-01T14:53:03.892Z" icon="0" href="capitalnii_remont_dolgosrochnaya_programma_korrectirovka_ocheredi_uchetom_srokov_ekspl">
+            <caption translate="true">С учетом сроков эксплуатации</caption>
+          </topicref>
+          <topicref type="topic" id="419254671928615" build="CHM,HTML,PDF" modified="2014-12-01T14:53:03.896Z" icon="0" href="capitalnii_remont_dolgosrochnaya_programma_korrectirovka_ocheredi_s_uchetom_sobiraemosti">
+            <caption translate="true">С учетом собираемости по дому</caption>
+          </topicref>
+          <topicref type="topic" id="419253956890162" build="CHM,HTML,PDF" modified="2014-12-01T14:53:03.899Z" icon="0" href="capitalnii_remont_dolgosrochnaya_programma_korrectirovka_ocheredi_dop_usloviya">
+            <caption translate="true">Дополнительные условия</caption>
+          </topicref>
+        </topicref>
+        <topicref type="topic" id="419255737479484" build="CHM,HTML,PDF" modified="2014-12-01T14:53:03.902Z" icon="0" href="capitalnii_remont_dolgosrochnaya_programma_massovii_raschet_dpkr">
+          <caption translate="true">Массовый расчет ДПКР</caption>
+        </topicref>
+        <topicref type="topic" id="419258067039843" build="CHM,HTML,PDF" modified="2014-12-01T14:53:03.905Z" icon="0" href="capitalnii_remont_dolgosrochnaya_programma_actualizaciya_dpkr">
+          <caption translate="true">Актуализация ДПКР</caption>
+        </topicref>
+        <topicref type="topic" id="419257594768625" build="CHM,HTML,PDF" modified="2014-12-01T14:53:03.908Z" icon="0" href="capitalnii_remont_dolgosrochnaya_programma_publikaciya_programmi">
+          <caption translate="true">Публикация программы</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="419273587354919" build="CHM,HTML,PDF" modified="2014-12-01T14:53:40.547Z" icon="0" href="capitalnii_remont_kratkosrochnaya_programma">
+        <caption translate="true">Краткосрочная программа</caption>
+        <topicref type="topic" id="419273745392889" build="CHM,HTML,PDF" modified="2014-12-01T14:53:40.558Z" icon="0" href="capitalnii_remont_kratkosrochnaya_programma_formirovanie_kpkr">
+          <caption translate="true">Формирование КПКР</caption>
+        </topicref>
+        <topicref type="topic" id="419275656110934" build="CHM,HTML,PDF" modified="2014-12-01T14:53:40.569Z" icon="0" href="capitalnii_remont_kratkosrochnaya_programma_rabota_s_reestrom_objectov_kr">
+          <caption translate="true">Работа с реестром обьектов КР</caption>
+          <topicref type="topic" id="419276837435092" build="CHM,HTML,PDF" modified="2014-12-01T14:53:40.580Z" icon="0" href="capitalnii_remont_kratkosrochnaya_programma_rabota_s_reestrom_objectov_kr_pasport_objecta">
+            <caption translate="true">Паспорт обьекта</caption>
+          </topicref>
+          <topicref type="topic" id="419277213898627" build="CHM,HTML,PDF" modified="2014-12-01T14:53:40.587Z" icon="0" href="capitalnii_remont_kratkosrochnaya_programma_rabota_s_reestrom_objectov_kr_dogovori">
+            <caption translate="true">Договоры</caption>
+          </topicref>
+          <topicref type="topic" id="419278051551016" build="CHM,HTML,PDF" modified="2014-12-01T14:53:40.592Z" icon="0" href="capitalnii_remont_kratkosrochnaya_programma_rabota_s_reestrom_objectov_kr_protokoli_acti">
+            <caption translate="true">Протоколы, акты</caption>
+          </topicref>
+          <topicref type="topic" id="419276485656228" build="CHM,HTML,PDF" modified="2014-12-01T14:53:40.597Z" icon="0" href="capitalnii_remont_kratkosrochnaya_programma_rabota_s_reestrom_objectov_kr_defectnie_vedomosti">
+            <caption translate="true">Дефектные ведомости</caption>
+          </topicref>
+          <topicref type="topic" id="419287139005740" build="CHM,HTML,PDF" modified="2014-12-01T14:53:40.602Z" icon="0" href="capitalnii_remont_kratkosrochnaya_programma_rabota_s_reestrom_objectov_kr_vidi_rabot">
+            <caption translate="true">Виды работ</caption>
+          </topicref>
+          <topicref type="topic" id="419286747163745" build="CHM,HTML,PDF" modified="2014-12-01T14:53:40.608Z" icon="0" href="capitalnii_remont_kratkosrochnaya_programma_rabota_s_reestrom_objectov_kr_sredstva_po_istochnikam_finansirovaniya">
+            <caption translate="true">Средства по источникам финансирования</caption>
+          </topicref>
+          <topicref type="topic" id="419287499474376" build="CHM,HTML,PDF" modified="2014-12-01T14:53:40.614Z" icon="0" href="capitalnii_remont_kratkosrochnaya_programma_rabota_s_reestrom_objectov_kr_licevie_scheta">
+            <caption translate="true">Лицевые счета</caption>
+          </topicref>
+          <topicref type="topic" id="419284293280584" build="CHM,HTML,PDF" modified="2014-12-01T14:53:40.617Z" icon="0" href="capitalnii_remont_kratkosrochnaya_programma_rabota_s_reestrom_objectov_kr_smetnii_raschet_po_rabote">
+            <caption translate="true">Сметный расчет по работе</caption>
+          </topicref>
+          <topicref type="topic" id="41929620903029" build="CHM,HTML,PDF" modified="2014-12-01T14:53:40.621Z" icon="0" href="capitalnii_remont_kratkosrochnaya_programma_rabota_s_reestrom_objectov_kr_kvalifikacionnii_otbor">
+            <caption translate="true">Квалификационный отбор</caption>
+          </topicref>
+          <topicref type="topic" id="419287023749663" build="CHM,HTML,PDF" modified="2014-12-01T14:53:40.624Z" icon="0" href="capitalnii_remont_kratkosrochnaya_programma_rabota_s_reestrom_objectov_kr_dogovori_podryada">
+            <caption translate="true">Договоры подряда</caption>
+          </topicref>
+          <topicref type="topic" id="419284511644340" build="CHM,HTML,PDF" modified="2014-12-01T14:53:40.627Z" icon="0" href="capitalnii_remont_kratkosrochnaya_programma_rabota_s_reestrom_objectov_kr_monitoring_smr">
+            <caption translate="true">Мониторинг СМР</caption>
+            <topicref type="topic" id="419296604146523" build="CHM,HTML,PDF" modified="2014-12-01T14:53:40.631Z" icon="0" href="capitalnii_remont_kratkosrochnaya_programma_rabota_s_reestrom_objectov_kr_monitoring_smr_grafik_vipolneniya_rabot">
+              <caption translate="true">График выполнения работ</caption>
+            </topicref>
+            <topicref type="topic" id="419297118664516" build="CHM,HTML,PDF" modified="2014-12-01T14:53:40.634Z" icon="0" href="capitalnii_remont_kratkosrochnaya_programma_rabota_s_reestrom_objectov_kr_monitoring_smr_hod_vipolnennih_rabot">
+              <caption translate="true">Ход выполнения работ</caption>
+            </topicref>
+            <topicref type="topic" id="419294223827425" build="CHM,HTML,PDF" modified="2014-12-01T14:53:40.638Z" icon="0" href="capitalnii_remont_kratkosrochnaya_programma_rabota_s_reestrom_objectov_kr_monitoring_smr_chislennost_rabochih">
+              <caption translate="true">Численность рабочих</caption>
+            </topicref>
+            <topicref type="topic" id="419296322098177" build="CHM,HTML,PDF" modified="2014-12-01T14:53:40.641Z" icon="0" href="capitalnii_remont_kratkosrochnaya_programma_rabota_s_reestrom_objectov_kr_monitoring_smr_documenti">
+              <caption translate="true">Документы</caption>
+            </topicref>
+          </topicref>
+          <topicref type="topic" id="419284631534711" build="CHM,HTML,PDF" modified="2014-12-01T14:53:40.645Z" icon="0" href="capitalnii_remont_kratkosrochnaya_programma_rabota_s_reestrom_objectov_kr_acti_vipolnennih_rabot">
+            <caption translate="true">Акты выполненных работ</caption>
+          </topicref>
+        </topicref>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="419334787433029" build="CHM,HTML,PDF" modified="2014-12-01T14:54:56.670Z" icon="0" href="regionalnii_operator">
+      <caption translate="true">Региональный оператор</caption>
+      <topicref type="topic" id="419336705668748" build="CHM,HTML,PDF" modified="2014-12-01T14:54:56.679Z" icon="0" href="regionalnii_operator_podgotovka_modulya_k_rabote">
+        <caption translate="true">Подготовка модуля к работе</caption>
+        <topicref type="topic" id="419336232087390" modified="2014-12-08T09:55:47.648Z" icon="0" href="regionalnii_operator_podgotovka_modulya_k_rabote_nastroika_rolei">
+          <caption translate="true">Настройка ролей</caption>
+        </topicref>
+        <topicref type="topic" id="419338160186852" build="CHM,HTML,PDF" modified="2014-12-01T14:54:56.697Z" icon="0" href="regionalnii_operator_podgotovka_modulya_k_rabote_importi">
+          <caption translate="true">Импорты</caption>
+        </topicref>
+        <topicref type="topic" id="419345552918269" build="CHM,HTML,PDF" modified="2014-12-01T14:54:56.704Z" icon="0" href="regionalnii_operator_podgotovka_modulya_k_rabote_razmer_vznosov_na_kr">
+          <caption translate="true">Размер взносов на КР</caption>
+        </topicref>
+        <topicref type="topic" id="419347288971374" build="CHM,HTML,PDF" modified="2014-12-01T14:54:56.709Z" icon="0" href="regionalnii_operator_podgotovka_modulya_k_rabote_vivod_informacii_dlya_fizicheskih_lic">
+          <caption translate="true">Вывод информации для физических лиц</caption>
+        </topicref>
+        <topicref type="topic" id="419347746096070" build="CHM,HTML,PDF" modified="2014-12-01T14:54:56.713Z" icon="0" href="regionalnii_operator_podgotovka_modulya_k_rabote_rabota_s_reestrom_bankovskih_vipisok">
+          <caption translate="true">Работа с реестром банковских выписок</caption>
+        </topicref>
+        <topicref type="topic" id="419345878794793" build="CHM,HTML,PDF" modified="2014-12-01T14:54:56.718Z" icon="0" href="regionalnii_operator_podgotovka_modulya_k_rabote_vibor_perioda_nachislenii">
+          <caption translate="true">Выбор периода начислений</caption>
+        </topicref>
+        <topicref type="topic" id="419344190010916" build="CHM,HTML,PDF" modified="2014-12-01T14:54:56.723Z" icon="0" href="regionalnii_operator_podgotovka_modulya_k_rabote_nastroika_parametrov_rf">
+          <caption translate="true">Настройка параметров РФ</caption>
+        </topicref>
+        <topicref type="topic" id="419353996774252" build="CHM,HTML,PDF" modified="2014-12-01T14:54:56.727Z" icon="0" href="regionalnii_operator_podgotovka_modulya_k_rabote_nastroika_parametrov_nachisleniya_peni">
+          <caption translate="true">Настройка параметров начисления пени</caption>
+        </topicref>
+        <topicref type="topic" id="41934081021393" build="CHM,HTML,PDF" modified="2014-12-01T14:54:56.732Z" icon="0" href="regionalnii_operator_podgotovka_modulya_k_rabote_reestr_oplat_plategnih_agentov">
+          <caption translate="true">Реестр оплат платежных агентов</caption>
+        </topicref>
+        <topicref type="topic" id="419353380009863" build="CHM,HTML,PDF" modified="2014-12-01T14:54:56.735Z" icon="0" href="regionalnii_operator_podgotovka_modulya_k_rabote_federalnii_standart_vznosa_na_kr">
+          <caption translate="true">Федеральный стандарт взноса на КР </caption>
+        </topicref>
+        <topicref type="topic" id="419354906765195" build="CHM,HTML,PDF" modified="2014-12-01T14:54:56.738Z" icon="0" href="regionalnii_operator_podgotovka_modulya_k_rabote_logi_obrashenii_k_servisam">
+          <caption translate="true">Логи обращений к сервисам</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="419354473326952" build="CHM,HTML,PDF" modified="2014-12-01T14:55:35.483Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov">
+        <caption translate="true">Обслуживание лицевых счетов абонентов</caption>
+        <topicref type="topic" id="419354610117234" build="CHM,HTML,PDF" modified="2014-12-01T14:55:35.494Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_svedeniya_o_pomeshenii">
+          <caption translate="true">Сведения о помещении</caption>
+        </topicref>
+        <topicref type="topic" id="419354305156080" build="CHM,HTML,PDF" modified="2014-12-01T14:55:35.505Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_protokoli_reshenii">
+          <caption translate="true">Протоколы решений</caption>
+        </topicref>
+        <topicref type="topic" id="419357316490760" build="CHM,HTML,PDF" modified="2014-12-01T14:55:35.517Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_spravochnik_vznosi_na_kr">
+          <caption translate="true">Справочник Взносы на КР</caption>
+        </topicref>
+        <topicref type="topic" id="419434130371215" build="CHM,HTML,PDF" modified="2014-12-01T14:55:35.523Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_formirovanie_regionalnogo_fonda">
+          <caption translate="true">Формирование регионального фонда</caption>
+          <topicref type="topic" id="419435203689657" build="CHM,HTML,PDF" modified="2014-12-01T14:55:35.528Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_formirovanie_regionalnogo_fonda_reg_svedenii_o_regopah">
+            <caption translate="true">Регистрация сведений о региональных операторах</caption>
+          </topicref>
+        </topicref>
+        <topicref type="topic" id="419437305120334" build="CHM,HTML,PDF" modified="2014-12-01T14:55:35.533Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_abonentov">
+          <caption translate="true">Реестр абонентов</caption>
+          <topicref type="topic" id="419438444349358" build="CHM,HTML,PDF" modified="2014-12-01T14:55:35.538Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_abonentov_abonent_s_tipom_fizlico">
+            <caption translate="true">Абонент с типом Физическое лицо</caption>
+          </topicref>
+          <topicref type="topic" id="419438053466284" build="CHM,HTML,PDF" modified="2014-12-01T14:55:35.543Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_abonentov_abonent_s_tipom_urlico">
+            <caption translate="true">Абонент с типом Юридическое лицо</caption>
+          </topicref>
+        </topicref>
+        <topicref type="topic" id="419435076607997" build="CHM,HTML,PDF" modified="2014-12-01T14:55:35.549Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_neplatelshikov">
+          <caption translate="true">Реестр неплательщиков</caption>
+        </topicref>
+        <topicref type="topic" id="419484362896086" build="CHM,HTML,PDF" modified="2014-12-01T14:55:35.552Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_sozdanie_licevogo_scheta_abonenta">
+          <caption translate="true">Создание лицевого счета абонента</caption>
+        </topicref>
+        <topicref type="topic" id="419488353019165" build="CHM,HTML,PDF" modified="2014-12-01T14:55:35.555Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov">
+          <caption translate="true">Реестр лицевых счетов</caption>
+          <topicref type="topic" id="419503832776411" build="CHM,HTML,PDF" modified="2014-12-01T14:55:35.565Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov_kartochka_licevogo_scheta">
+            <caption translate="true">Карточка лицевого счета</caption>
+            <topicref type="topic" id="419504259666024" build="CHM,HTML,PDF" modified="2014-12-01T14:55:35.568Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov_kartochka_licevogo_scheta_protokol_rascheta">
+              <caption translate="true">Протокол расчета</caption>
+            </topicref>
+          </topicref>
+          <topicref type="topic" id="419504952918252" build="CHM,HTML,PDF" modified="2014-12-01T14:55:35.572Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov_operacii_po_licevim_schetam">
+            <caption translate="true">Операции по лицевым счетам</caption>
+            <topicref type="topic" id="419507204158013" build="CHM,HTML,PDF" modified="2014-12-01T14:55:35.575Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov_operacii_po_licevim_schetam_raschet_nachislenii">
+              <caption translate="true">Расчет начислений</caption>
+            </topicref>
+            <topicref type="topic" id="419816445889277" build="CHM,HTML,PDF" modified="2014-12-08T14:00:21.991Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov_operacii_po_licevim_schetam_import">
+              <caption translate="true">Импорт</caption>
+              <topicref type="topic" id="419503694356694" build="CHM,HTML,PDF" modified="2014-12-08T13:55:07.508Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov_operacii_po_licevim_schetam_import_import_licevih_schetov">
+                <caption translate="true">Импорт лицевых счетов</caption>
+              </topicref>
+              <topicref type="topic" id="41949044057253" build="CHM,HTML,PDF" modified="2014-12-08T13:55:16.140Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov_operacii_po_licevim_schetam_import_import_socialnoi_poddergki">
+                <caption translate="true">Импорт социальной поддержки</caption>
+              </topicref>
+            </topicref>
+            <topicref type="topic" id="419815548699487" build="CHM,HTML,PDF" modified="2014-12-08T14:13:57.886Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov_operacii_po_licevim_schetam_operacii">
+              <caption translate="true">Другие операции</caption>
+              <topicref type="topic" id="41951386229222" build="CHM,HTML,PDF" modified="2014-12-08T14:05:33.736Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov_operacii_po_licevim_schetam_operacii_smena_abonenta">
+                <caption translate="true">Смена абонента</caption>
+              </topicref>
+              <topicref type="topic" id="419508063167595" build="CHM,HTML,PDF" modified="2014-12-08T14:05:57.443Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov_operacii_po_licevim_schetam_operacii_peni">
+                <caption translate="true">Установка и изменение пени</caption>
+              </topicref>
+              <topicref type="topic" id="419535378461240" build="CHM,HTML,PDF" modified="2014-12-08T14:06:10.315Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov_operacii_po_licevim_schetam_operacii_saldo">
+                <caption translate="true">Установка и изменение сальдо</caption>
+              </topicref>
+              <topicref type="topic" id="419532341230203" build="CHM,HTML,PDF" modified="2014-12-08T14:06:20.721Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov_operacii_po_licevim_schetam_operacii_cloze">
+                <caption translate="true">Закрытие</caption>
+              </topicref>
+              <topicref type="topic" id="419534875095900" build="CHM,HTML,PDF" modified="2014-12-08T14:06:31.937Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov_operacii_po_licevim_schetam_operacii_sliyaniya">
+                <caption translate="true">Слияние</caption>
+              </topicref>
+              <topicref type="topic" id="419546121959029" modified="2014-12-08T14:06:43.988Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov_operacii_po_licevim_schetam_operacii_otmena_oplati">
+                <caption translate="true">Отмена оплаты</caption>
+              </topicref>
+            </topicref>
+            <topicref type="topic" id="419813641847508" build="CHM,HTML,PDF" modified="2014-12-08T14:27:22.287Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov_operacii_po_licevim_schetam_vigruzka">
+              <caption translate="true">Выгрузка</caption>
+              <topicref type="topic" id="419534260039470" build="CHM,HTML,PDF" modified="2014-12-08T14:20:53.244Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov_operacii_po_licevim_schetam_vigruzka_doc_na_oplatu">
+                <caption translate="true">Документы на оплату</caption>
+              </topicref>
+              <topicref type="topic" id="419537825819297" build="CHM,HTML,PDF" modified="2014-12-08T14:20:59.792Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov_operacii_po_licevim_schetam_vigruzka_vigruzka_excel">
+                <caption translate="true">Выгрузка в Excel</caption>
+              </topicref>
+              <topicref type="topic" id="419536853795372" build="CHM,HTML,PDF" modified="2014-12-08T14:21:05.821Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov_operacii_po_licevim_schetam_vigruzka_vigruzka_documentov">
+                <caption translate="true">Выгрузка документов</caption>
+              </topicref>
+              <topicref type="topic" id="419537231496268" build="CHM,HTML,PDF" modified="2014-12-08T14:21:11.414Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov_operacii_po_licevim_schetam_vigruzka_vigruzka_nachislenii">
+                <caption translate="true">Выгрузка начислений</caption>
+              </topicref>
+            </topicref>
+            <topicref type="topic" id="419534596562652" build="CHM,HTML,PDF" modified="2014-12-08T14:35:06.956Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov_operacii_po_licevim_schetam_doc_na_oplatu">
+              <caption translate="true">Работа с документами на оплату</caption>
+            </topicref>
+          </topicref>
+        </topicref>
+        <topicref type="topic" id="419537418442484" build="CHM,HTML,PDF" modified="2014-12-01T14:56:29.091Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_nepodtvergdennih_nachislenii">
+          <caption translate="true">Реестр неподтвержденных начислений</caption>
+          <topicref type="topic" id="419544725462967" build="CHM,HTML,PDF" modified="2014-12-01T14:56:29.106Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_nepodtvergdennih_nachislenii_podtvergdenie_perioda_nachislenii">
+            <caption translate="true">Подтверждение периода начислений</caption>
+          </topicref>
+          <topicref type="topic" id="419543885225805" build="CHM,HTML,PDF" modified="2014-12-01T14:56:29.118Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_nepodtvergdennih_nachislenii_pereraschet_nachislenii">
+            <caption translate="true">Перерасчет начислений</caption>
+          </topicref>
+          <topicref type="topic" id="419545255419627" build="CHM,HTML,PDF" modified="2014-12-01T14:56:29.128Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_nepodtvergdennih_nachislenii_close_period_nachislenii">
+            <caption translate="true">Закрытие периода начислений</caption>
+            <topicref type="topic" id="419544850567924" build="CHM,HTML,PDF" modified="2014-12-01T14:56:29.139Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_nepodtvergdennih_nachislenii_close_period_nachislenii_error_cloze_period_nachislenii">
+              <caption translate="true">Ошибка при закрытии периода начислений</caption>
+            </topicref>
+          </topicref>
+        </topicref>
+        <topicref type="topic" id="419545484688317" build="CHM,HTML,PDF" modified="2014-12-01T14:56:29.143Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_nepodtvergdennih_oplat">
+          <caption translate="true">Реестр неподтвержденных оплат</caption>
+          <topicref type="topic" id="419546096090105" build="CHM,HTML,PDF" modified="2014-12-01T14:56:29.147Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_nepodtvergdennih_oplat_podtvergdenie_oplat">
+            <caption translate="true">Подтверждение оплат</caption>
+            <topicref type="topic" id="419546478137352" build="CHM,HTML,PDF" modified="2014-12-01T14:56:29.152Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_nepodtvergdennih_oplat_podtvergdenie_oplat_proverka_oplat">
+              <caption translate="true">Проверка наличия подтвержденных оплат</caption>
+            </topicref>
+          </topicref>
+          <topicref type="topic" id="419544496327780" build="CHM,HTML,PDF" modified="2014-12-01T14:56:29.156Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_nepodtvergdennih_oplat_otmena_oplat">
+            <caption translate="true">Отмена оплат</caption>
+          </topicref>
+        </topicref>
+        <topicref type="topic" id="419546991603879" build="CHM,HTML,PDF" modified="2014-12-01T14:56:29.160Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_domov_regoperatora">
+          <caption translate="true">Реестр домов регионального оператора</caption>
+        </topicref>
+        <topicref type="topic" id="419546440390550" build="CHM,HTML,PDF" modified="2014-12-08T16:06:49.644Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_schet_neviyasnennih_summ">
+          <caption translate="true">Счета невыясненных сумм</caption>
+          <topicref type="topic" id="419546845255852" build="CHM,HTML,PDF" modified="2014-12-01T14:56:29.168Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_schet_neviyasnennih_summ_dobavlenie_scheta_v_reestr">
+            <caption translate="true">Добавление счета в реестр</caption>
+          </topicref>
+          <topicref type="topic" id="419547399456650" build="CHM,HTML,PDF" modified="2014-12-01T14:56:29.173Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_schet_neviyasnennih_summ_raspredelenie_neviyasnennih_summ">
+            <caption translate="true">Распределение невыясненных сумм</caption>
+          </topicref>
+          <topicref type="topic" id="419555395622514" build="CHM,HTML,PDF" modified="2014-12-01T14:56:29.177Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_schet_neviyasnennih_summ_otmena_raspredeleniya_nvs">
+            <caption translate="true">Отмена распределения невыясненных сумм</caption>
+          </topicref>
+          <topicref type="topic" id="419553480075904" build="CHM,HTML,PDF" modified="2014-12-01T14:56:29.181Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_schet_neviyasnennih_summ_otmena_zachislenii">
+            <caption translate="true">Отмена зачислений</caption>
+          </topicref>
+        </topicref>
+        <topicref type="topic" id="419554327611233" build="CHM,HTML,PDF" modified="2014-12-01T14:56:29.186Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_spec_schetov">
+          <caption translate="true">Реестр специальных счетов</caption>
+          <topicref type="topic" id="419555927434457" build="CHM,HTML,PDF" modified="2014-12-01T14:56:29.190Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_spec_schetov_reestr_oplat_plategnih_agentov">
+            <caption translate="true">Реестр оплат платежных агентов</caption>
+            <topicref type="topic" id="419555292710926" modified="2014-12-08T17:17:55.658Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_acta_vipolnennih_rabot">
+              <caption translate="true">Реестр акта выполненных работ</caption>
+            </topicref>
+          </topicref>
+        </topicref>
+        <topicref type="topic" id="41953673169619" build="CHM,HTML,PDF" modified="2014-12-01T14:56:29.199Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_kontrol_proizvedennih_oplat_nachislenii_kontrol_oplat">
+          <caption translate="true">Контроль оплат</caption>
+        </topicref>
+        <topicref type="topic" id="419554599380880" build="CHM,HTML,PDF" modified="2014-12-01T14:56:29.203Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_zaimi">
+          <caption translate="true">Займы</caption>
+          <topicref type="topic" id="41955622484926" build="CHM,HTML,PDF" modified="2014-12-01T14:56:29.207Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_zaimi_formirovanie_zaima">
+            <caption translate="true">Формирование займа</caption>
+          </topicref>
+          <topicref type="topic" id="419556310685398" build="CHM,HTML,PDF" modified="2014-12-01T14:56:29.211Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_zaimi_kontrol_zaimov">
+            <caption translate="true">Контроль займов</caption>
+          </topicref>
+        </topicref>
+        <topicref type="topic" id="419555802836471" modified="2014-11-21T14:40:18.750Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_kontrol_proizvedennih_oplat_nachislenii">
+          <caption translate="true">Контроль произведенных оплат и начислений</caption>
+          <topicref type="topic" id="419555117961482" modified="2014-11-21T14:40:18.766Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_kontrol_proizvedennih_oplat_nachislenii_scheta_ucheta_sredstv">
+            <caption translate="true">Счета учета средств</caption>
+            <topicref type="topic" id="41954036865383" modified="2014-11-21T14:40:18.782Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_kontrol_proizvedennih_oplat_nachislenii_scheta_ucheta_sredstv_schet_nachislenii">
+              <caption translate="true">Счет начислений</caption>
+            </topicref>
+            <topicref type="topic" id="419555852427124" modified="2014-11-21T14:40:18.793Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_kontrol_proizvedennih_oplat_nachislenii_scheta_ucheta_sredstv_schet_oplat_mkd">
+              <caption translate="true">Счет оплат МКД</caption>
+            </topicref>
+            <topicref type="topic" id="419557010076759" modified="2014-11-21T14:40:18.803Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_kontrol_proizvedennih_oplat_nachislenii_scheta_ucheta_sredstvi_schet_rascheta_s_postavshikami">
+              <caption translate="true">Счет расчета с поставщиками;</caption>
+            </topicref>
+            <topicref type="topic" id="419556223005319" modified="2014-11-21T14:40:18.812Z" icon="0" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_kontrol_proizvedennih_oplat_nachislenii_scheta_ucheta_sredstv_protokoli_raschetov">
+              <caption translate="true">Протоколы расчетов</caption>
+            </topicref>
+          </topicref>
+        </topicref>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="419546688487919" build="CHM,HTML,PDF" modified="2014-12-01T14:59:12.835Z" icon="0" href="gilisnaya_inspekciya">
+      <caption translate="true">Жилищная инспекция</caption>
+      <topicref type="topic" id="419564451328675" build="CHM,HTML,PDF" modified="2014-12-01T14:57:01.555Z" icon="0" href="gilisnaya_inspekciya_podgotovka_modulya">
+        <caption translate="true">Подготовка модуля к работе</caption>
+      </topicref>
+      <topicref type="topic" id="419567666664388" build="CHM,HTML,PDF" modified="2014-12-01T14:57:01.565Z" icon="0" href="gilisnaya_inspekciya_tipi_proverok">
+        <caption translate="true">Типы проверок</caption>
+        <topicref type="topic" id="419567782675877" build="CHM,HTML,PDF" modified="2014-12-01T14:57:01.575Z" icon="0" href="gilisnaya_inspekciya_tipi_proverok_planovie_proverki_urlic">
+          <caption translate="true">Плановые проверки юридических лиц</caption>
+          <topicref type="topic" id="419574807869908" build="CHM,HTML,PDF" modified="2014-12-01T14:57:01.585Z" icon="0" href="gilisnaya_inspekciya_tipi_proverok_planovie_proverki_urlic_formirovanie_rasporyageniya">
+            <caption translate="true">Формирование распоряжения</caption>
+          </topicref>
+          <topicref type="topic" id="419573923443472" build="CHM,HTML,PDF" modified="2014-12-01T14:57:01.594Z" icon="0" href="gilisnaya_inspekciya_tipi_proverok_planovie_proverki_urlic_formirovanie_akta_proverki">
+            <caption translate="true">Формирование акта проверки</caption>
+          </topicref>
+          <topicref type="topic" id="419578728997996" build="CHM,HTML,PDF" modified="2014-12-01T14:57:01.599Z" icon="0" href="gilisnaya_inspekciya_tipi_proverok_planovie_proverki_urlic_formirovanie_predpisaniya">
+            <caption translate="true">Формирование предписания</caption>
+          </topicref>
+          <topicref type="topic" id="419602562084634" build="CHM,HTML,PDF" modified="2014-12-01T14:57:01.603Z" icon="0" href="gilisnaya_inspekciya_tipi_proverok_planovie_proverki_urlic_proverka_predpisaniya">
+            <caption translate="true">Формирование распоряжения на проверку предписания</caption>
+          </topicref>
+          <topicref type="topic" id="41961973994556" build="CHM,HTML,PDF" modified="2014-12-01T14:57:01.608Z" icon="0" href="gilisnaya_inspekciya_tipi_proverok_planovie_proverki_urlic_formirovanie_protokola">
+            <caption translate="true">Формирование протокола</caption>
+          </topicref>
+          <topicref type="topic" id="419605560039941" build="CHM,HTML,PDF" modified="2014-12-01T14:57:01.612Z" icon="0" href="gilisnaya_inspekciya_tipi_proverok_formirovanie_postanovleniya">
+            <caption translate="true">Формирование постановления</caption>
+          </topicref>
+          <topicref type="topic" id="419606468470188" build="CHM,HTML,PDF" modified="2014-12-01T14:57:01.617Z" icon="0" href="gilisnaya_inspekciya_tipi_proverok_planovie_proverki_urlic_formirovanie_predstavleniya">
+            <caption translate="true">Формирование представления</caption>
+          </topicref>
+        </topicref>
+        <topicref type="topic" id="41962049841835" build="CHM,HTML,PDF" modified="2014-12-01T14:57:01.622Z" icon="0" href="gilisnaya_inspekciya_tipi_proverok_vneplanovie_proverki_urlic">
+          <caption translate="true">Внеплановые проверки</caption>
+          <topicref type="topic" id="419573515215577" build="CHM,HTML,PDF" modified="2014-12-01T14:57:01.625Z" icon="0" href="gilisnaya_inspekciya_tipi_proverok_vneplanovie_proverki_urlic_proverki_po_trebovaniu_prokuraturi">
+            <caption translate="true">Проверки по требованию прокуратуры</caption>
+          </topicref>
+          <topicref type="topic" id="419575815589323" build="CHM,HTML,PDF" modified="2014-12-01T14:57:01.628Z" icon="0" href="gilisnaya_inspekciya_tipi_proverok_vneplanovie_proverki_urlic_proverki_po_trebovaniu_rukovoditelei">
+            <caption translate="true">Проверки по поручению руководителей</caption>
+          </topicref>
+          <topicref type="topic" id="419573978085242" build="CHM,HTML,PDF" modified="2014-12-01T14:57:01.631Z" icon="0" href="gilisnaya_inspekciya_tipi_proverok_vneplanovie_proverki_urlic_po_obrasheniyam_gragdan">
+            <caption translate="true">Проверки по обращениям граждан</caption>
+          </topicref>
+          <topicref type="topic" id="419573528172368" build="CHM,HTML,PDF" modified="2014-12-01T14:57:01.634Z" icon="0" href="gilisnaya_inspekciya_tipi_proverok_vneplanovie_proverki_urlic_inspekcionnie_proverki">
+            <caption translate="true">Инспекционные проверки</caption>
+          </topicref>
+          <topicref type="topic" id="419617307704708" build="CHM,HTML,PDF" modified="2014-12-01T14:57:01.638Z" icon="0" href="gilisnaya_inspekciya_tipi_proverok_vneplanovie_proverki_urlic_proverki_po_plany_meropriyatii">
+            <caption translate="true">Проверки по плану мероприятий</caption>
+          </topicref>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="41961605140857" build="CHM,HTML,PDF" modified="2014-12-01T14:57:27.702Z" icon="0" href="gilisnaya_inspekciya_reestr_obrashenii">
+        <caption translate="true">Реестр обращений</caption>
+        <topicref type="topic" id="419616109636539" build="CHM,HTML,PDF" modified="2014-12-01T14:57:27.714Z" icon="0" href="gilisnaya_inspekciya_reestr_obrashenii_reestr_obrashenii">
+          <caption translate="true">Реестр обращений</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="419626016470591" build="CHM,HTML,PDF" modified="2014-12-01T14:57:27.724Z" icon="0" href="gilisnaya_inspekciya_documenti">
+        <caption translate="true">Документы</caption>
+        <topicref type="topic" id="419623152122117" build="CHM,HTML,PDF" modified="2014-12-01T14:57:27.734Z" icon="0" href="gilisnaya_inspekciya_documenti_postanovleniya_prokuratyri">
+          <caption translate="true">Постановления прокуратуры</caption>
+        </topicref>
+        <topicref type="topic" id="41963807503030" build="CHM,HTML,PDF" modified="2014-12-01T14:57:27.743Z" icon="0" href="gilisnaya_inspekciya_documenti_protokoli_mvd">
+          <caption translate="true">Протоколы МВД</caption>
+        </topicref>
+        <topicref type="topic" id="419626374017152" build="CHM,HTML,PDF" modified="2014-12-01T14:57:27.748Z" icon="0" href="gilisnaya_inspekciya_documenti_protokoli_mgk">
+          <caption translate="true">Протоколы МЖК</caption>
+        </topicref>
+        <topicref type="topic" id="419625081005121" build="CHM,HTML,PDF" modified="2014-12-01T14:57:27.752Z" icon="0" href="gilisnaya_inspekciya_documenti_reestr_documentov_ggi">
+          <caption translate="true">Реестр документов ГЖИ</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="41962313582167" build="CHM,HTML,PDF" modified="2014-12-01T14:57:27.757Z" icon="0" href="gilisnaya_inspekciya_documenti_deyatelnost_tsg">
+        <caption translate="true">Деятельность ТСЖ</caption>
+        <topicref type="topic" id="419628350924051" build="CHM,HTML,PDF" modified="2014-12-01T14:57:27.761Z" icon="0" href="gilisnaya_inspekciya_documenti_deyatelnost_tsg_deyatelnost_tsg">
+          <caption translate="true">Деятельность ТСЖ</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="419634216719330" build="CHM,HTML,PDF" modified="2014-12-01T14:57:27.766Z" icon="0" href="gilisnaya_inspekciya_podgotovka_k_otopitelnomu_sezonu">
+        <caption translate="true">Подготовка к отопительному сезону</caption>
+        <topicref type="topic" id="419633029260406" build="CHM,HTML,PDF" modified="2014-12-01T14:57:27.770Z" icon="0" href="Documenti_dlya_otopitelnogo_sezona">
+          <caption translate="true">Документы по подготовке к отопительному сезону</caption>
+        </topicref>
+        <topicref type="topic" id="419633937495313" build="CHM,HTML,PDF" modified="2014-12-01T14:57:27.774Z" icon="0" href="gilisnaya_inspekciya_podgotovka_k_otopitelnomu_sezonu_podgotovka_k_rabote_v_zimnih_usloviyah">
+          <caption translate="true">Подготовка к работе в зимних условиях</caption>
+        </topicref>
+        <topicref type="topic" id="419633644420930" build="CHM,HTML,PDF" modified="2014-12-01T14:57:27.777Z" icon="0" href="gilisnaya_inspekciya_podgotovka_k_otopitelnomu_sezonu_informaciya_o_podache_tepla">
+          <caption translate="true">Информация о подаче тепла</caption>
+        </topicref>
+        <topicref type="topic" id="419635673212163" modified="2014-12-09T14:11:18.462Z" icon="0" href="gilisnaya_inspekciya_podgotovka_k_otopitelnomu_sezonu_kotelnie">
+          <caption translate="true">Котельные</caption>
+        </topicref>
+        <topicref type="topic" id="419634503185811" modified="2014-12-09T14:11:12.271Z" icon="0" href="gilisnaya_inspekciya_podgotovka_k_otopitelnomu_sezonu_massovaya_smena_statusov_documentov">
+          <caption translate="true">Массовая смена статусов документов</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="419635043715451" build="CHM,HTML,PDF" modified="2014-12-01T14:57:27.786Z" icon="0" href="gilisnaya_inspekciya_reestr_uvedomlenii">
+        <caption translate="true">Реестр уведомлений</caption>
+        <topicref type="topic" id="419637123074741" build="CHM,HTML,PDF" modified="2014-12-01T14:57:27.789Z" icon="0" href="gilisnaya_inspekciya_reestr_uvedomlenii_reestr_uvedomlenii_o_resheniyah_sobraniya">
+          <caption translate="true">Реестр уведомлений о решениях собрания</caption>
+        </topicref>
+        <topicref type="topic" id="419634170627008" build="CHM,HTML,PDF" modified="2014-12-01T14:57:27.793Z" icon="0" href="gilisnaya_inspekciya_reestr_uvedomlenii_uvedomleniya_o_nachale_biznesa">
+          <caption translate="true">Уведомления о начале предпринимательской деятельности</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="419637440325863" build="CHM,HTML,PDF" modified="2014-12-01T14:57:41.952Z" icon="0" href="gilisnaya_inspekciya_nastroiki_ggi">
+        <caption translate="true">Настройки ГЖИ</caption>
+        <topicref type="topic" id="419638371412110" build="CHM,HTML,PDF" modified="2014-12-01T14:57:41.965Z" icon="0" href="gilisnaya_inspekciya_nastroiki_ggi_pravila_prostavleniya_vidov_proverok">
+          <caption translate="true">Правила проставления видов проверок </caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="419637597273131" build="CHM,HTML,PDF" modified="2014-12-01T14:57:41.976Z" icon="0" href="gilisnaya_inspekciya_upravlenie_zadachami">
+        <caption translate="true">Управление задачами</caption>
+        <topicref type="topic" id="419635358093975" build="CHM,HTML,PDF" modified="2014-12-01T14:57:41.984Z" icon="0" href="gilisnaya_inspekciya_upravlenie_zadachami_doska_zadach_inspektora">
+          <caption translate="true">Доска задач инспектора</caption>
+        </topicref>
+        <topicref type="topic" id="41965671680811" build="CHM,HTML,PDF" modified="2014-12-01T14:57:41.992Z" icon="0" href="gilisnaya_inspekciya_upravlenie_zadachami_panel_rukovoditelya_ggi">
+          <caption translate="true">Панель руководителя ГЖИ</caption>
+        </topicref>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="41952921051235" build="CHM,HTML,PDF" modified="2014-12-01T14:58:01.743Z" icon="0" href="raskritie_informacii">
+      <caption translate="true">Раскрытие информации</caption>
+      <topicref type="topic" id="419646785818642" build="CHM,HTML,PDF" modified="2014-12-01T14:58:01.753Z" icon="0" href="podgotovka_modulya">
+        <caption translate="true">Подготовка модуля к работе</caption>
+      </topicref>
+      <topicref type="topic" id="419544410955836" build="CHM,HTML,PDF" modified="2014-12-01T14:58:01.765Z" icon="0" href="raskritie_informacii_raskritie_informacii_po_731">
+        <caption translate="true">Раскрытие по 731 ПП РФ</caption>
+        <topicref type="topic" id="419675885282801" build="CHM,HTML,PDF" modified="2014-12-01T14:58:01.776Z" icon="0" href="raskritie_informacii_raskritie_informacii_po_731_svedeniya_uo">
+          <caption translate="true">Сведения об УО</caption>
+        </topicref>
+        <topicref type="topic" id="419675542131801" build="CHM,HTML,PDF" modified="2014-12-01T14:58:01.788Z" icon="0" href="raskritie_informacii_raskritie_informacii_po_731_objekti_v_upravlenii">
+          <caption translate="true">Обьекты в управлении</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="419547963007769" build="CHM,HTML,PDF" modified="2014-12-01T14:58:01.793Z" icon="0" href="raskritie_informacii_massovii_raschet_procentov">
+        <caption translate="true">Массовый расчет процентов</caption>
+      </topicref>
+      <topicref type="topic" id="419547387757895" modified="2014-12-02T11:29:03.828Z" icon="0" href="raskritie_informacii_massovaya_generaciya_otcheta_po_731">
+        <caption translate="true">Массовая генерация отчета по 731 пост.</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="419544639986953" build="CHM,HTML,PDF" modified="2014-12-01T14:58:37.642Z" icon="0" href="otcheti">
+      <caption translate="true">Отчеты</caption>
+      <topicref type="topic" id="419545693154093" build="CHM,HTML,PDF" modified="2014-12-01T14:58:37.653Z" icon="0" href="otcheti_otcheti">
+        <caption translate="true">Отчеты</caption>
+      </topicref>
+      <topicref type="topic" id="419546283946740" build="CHM,HTML,PDF" modified="2014-12-01T14:58:37.664Z" icon="0" href="otcheti_kategorii_pechatnih_form">
+        <caption translate="true">Категории печатных форм</caption>
+      </topicref>
+      <topicref type="topic" id="419547412929878" build="CHM,HTML,PDF" modified="2014-12-01T14:58:37.670Z" icon="0" href="otcheti_spravochnik_pechatnih_form">
+        <caption translate="true">Справочник печатных форм</caption>
+      </topicref>
+      <topicref type="topic" id="419547942200502" build="CHM,HTML,PDF" modified="2014-12-01T14:58:37.675Z" icon="0" href="otcheti_istochniki_dannih">
+        <caption translate="true">Источники данных</caption>
+      </topicref>
+      <topicref type="topic" id="419545147847179" build="CHM,HTML,PDF" modified="2014-12-01T14:58:37.681Z" icon="0" href="otcheti_zamena_shablonov">
+        <caption translate="true">Замена шаблонов</caption>
+      </topicref>
+      <topicref type="topic" id="419547801485261" build="CHM,HTML,PDF" modified="2014-12-01T14:58:37.686Z" icon="0" href="otcheti_spravochnik_otchetov">
+        <caption translate="true">Справочник отчетов</caption>
+      </topicref>
+      <topicref type="topic" id="419544823312217" modified="2014-12-01T15:39:33.481Z" icon="0" href="otcheti_panel_otchetov">
+        <caption translate="true">Панель отчетов</caption>
+      </topicref>
+      <topicref type="topic" id="419559026803651" modified="2014-11-28T10:50:31.068Z" icon="0" href="otcheti_OLAP_analitika">
+        <caption translate="true">OLAP аналитика</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="419546437059016" build="CHM,HTML,PDF" modified="2014-12-01T14:59:24.820Z" icon="0" href="obrasheniya">
+      <caption translate="true">Обращения</caption>
+      <topicref type="topic" id="419546267837890" build="CHM,HTML,PDF" modified="2014-12-01T14:59:24.833Z" icon="0" href="obrasheniya_obrasheniya_gragdan">
+        <caption translate="true">Обращения граждан</caption>
+      </topicref>
+      <topicref type="topic" id="419546147482334" build="CHM,HTML,PDF" modified="2014-12-01T14:59:24.843Z" icon="0" href="obrasheniya_rubriki">
+        <caption translate="true">Рубрики</caption>
+      </topicref>
+      <topicref type="topic" id="419547913897218" build="CHM,HTML,PDF" modified="2014-12-02T09:44:28.808Z" icon="0" href="obrasheniya_mesta_problemi">
+        <caption translate="true">Места проблемы</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="41952606464338" build="CHM,HTML,PDF" modified="2014-12-01T14:59:36.843Z" icon="0" href="processi">
+      <caption translate="true">Процессы</caption>
+      <topicref type="topic" id="419554996894844" build="CHM,HTML,PDF" modified="2014-12-01T14:59:36.854Z" icon="0" href="processi_spisok_zadach">
+        <caption translate="true">Список задач</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="419544570310652" build="CHM,HTML,PDF" modified="2014-12-01T14:59:55.544Z" icon="0" href="uchastniki_processa">
+      <caption translate="true">Участники процесса</caption>
+      <topicref type="topic" id="419556115883991" build="CHM,HTML,PDF" modified="2014-12-01T14:59:55.556Z" icon="0" href="uchastniki_processa_kontragenti">
+        <caption translate="true">Контрагенты</caption>
+        <topicref type="topic" id="419556120215044" build="CHM,HTML,PDF" modified="2014-12-01T14:59:55.569Z" icon="0" href="uchastniki_processa_kontragenti_kontragenti">
+          <caption translate="true">Контрагенты</caption>
+        </topicref>
+        <topicref type="topic" id="419558070081092" build="CHM,HTML,PDF" modified="2014-12-01T14:59:55.575Z" icon="0" href="uchastniki_processa_kontragenti_kreditnie_organizacii">
+          <caption translate="true">Кредитные организации</caption>
+        </topicref>
+        <topicref type="topic" id="419558204854082" modified="2014-12-05T13:16:23.022Z" icon="0" href="usloviya_obslugivaniya_kred_org">
+          <caption translate="true">Условия обслуживания</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="419555383457359" build="CHM,HTML,PDF" modified="2014-12-01T14:59:55.586Z" icon="0" href="uchastniki_processa_roli_kontragenta">
+        <caption translate="true">Роли контрагента</caption>
+        <topicref type="topic" id="419558360785104" build="CHM,HTML,PDF" modified="2014-12-01T14:59:55.591Z" icon="0" href="uchastniki_processa_roli_kontragenta_upravlyaushie_organizacii">
+          <caption translate="true">Управляющие организации</caption>
+        </topicref>
+        <topicref type="topic" id="41966629780889" build="CHM,HTML,PDF" modified="2014-12-01T14:59:55.597Z" icon="0" href="uchastniki_processa_roli_kontragenta_postavshiki_gilishnih_uslug">
+          <caption translate="true">Поставщики жилишных услуг</caption>
+          <topicref type="topic" id="418903451597172" build="CHM,HTML,PDF" modified="2014-12-04T13:42:14.078Z" icon="0" href="uchastniki_processa_roli_kontragenta_postavshiki_gilishnih_uslug_obshie_svedeniya">
+            <caption translate="true">Общие сведения</caption>
+          </topicref>
+          <topicref type="topic" id="418905000454222" build="CHM,HTML,PDF" modified="2014-12-04T13:42:27.580Z" icon="0" href="uchastniki_processa_roli_kontragenta_postavshiki_gilishnih_uslug_municipalnie_obrazovaniya">
+            <caption translate="true">Муниципальные образования</caption>
+          </topicref>
+          <topicref type="topic" id="418906556175172" build="CHM,HTML,PDF" modified="2014-12-04T13:42:38.991Z" icon="0" href="uchastniki_processa_roli_kontragenta_postavshiki_gilishnih_uslug_gilie_doma">
+            <caption translate="true">Жилые дома</caption>
+          </topicref>
+          <topicref type="topic" id="418902743198783" build="CHM,HTML,PDF" modified="2014-12-04T13:42:47.019Z" icon="0" href="uchastniki_processa_roli_kontragenta_postavshiki_gilishnih_uslug_dogovor_s_gilimi_domami">
+            <caption translate="true">Договор с жилыми домами</caption>
+          </topicref>
+          <topicref type="topic" id="418905918048848" build="CHM,HTML,PDF" modified="2014-12-04T13:42:53.161Z" icon="0" href="uchastniki_processa_roli_kontragenta_postavshiki_gilishnih_uslug_documenti">
+            <caption translate="true">Документы</caption>
+          </topicref>
+          <topicref type="topic" id="418904998465741" build="CHM,HTML,PDF" modified="2014-12-04T13:42:59.469Z" icon="0" href="uchastniki_processa_roli_kontragenta_postavshiki_gilishnih_uslug_uslugi">
+            <caption translate="true">Услуги</caption>
+          </topicref>
+          <topicref type="topic" id="418906367800762" build="CHM,HTML,PDF" modified="2014-12-04T13:43:07.320Z" icon="0" href="uchastniki_processa_roli_kontragenta_postavshiki_gilishnih_uslug_prekrashenie_deyatelnosti">
+            <caption translate="true">Прекращение деятельности</caption>
+          </topicref>
+        </topicref>
+        <topicref type="topic" id="419776322621752" build="CHM,HTML,PDF" modified="2014-12-04T13:55:29.800Z" icon="0" href="uchastniki_processa_roli_kontragenta_postavshiki_kommunalnih_uslug">
+          <caption translate="true">Поставщики коммунальных услуг</caption>
+        </topicref>
+        <topicref type="topic" id="419644864496250" build="CHM,HTML,PDF" modified="2014-12-01T14:59:55.601Z" icon="0" href="uchastniki_processa_roli_kontragenta_podryadnie_organizacii">
+          <caption translate="true">Подрядные организации</caption>
+        </topicref>
+        <topicref type="topic" id="419644937320811" build="CHM,HTML,PDF" modified="2014-12-01T14:59:55.604Z" icon="0" href="uchastniki_processa_roli_kontragenta_strahovie_organizacii">
+          <caption translate="true">Страховые организации</caption>
+        </topicref>
+        <topicref type="topic" id="41958029078618" build="CHM,HTML,PDF" modified="2014-12-01T14:59:55.607Z" icon="0" href="uchastniki_processa_roli_kontragenta_organi_mestnogo_samoupravleniya">
+          <caption translate="true">Органы местного самоуправления</caption>
+        </topicref>
+        <topicref type="topic" id="41956072871217" build="CHM,HTML,PDF" modified="2014-12-01T14:59:55.611Z" icon="0" href="uchastniki_processa_roli_kontragenta_organi_gosudarstvennoi_vlasti">
+          <caption translate="true">Органы государственной власти</caption>
+        </topicref>
+        <topicref type="topic" id="419643931857095" build="CHM,HTML,PDF" modified="2014-12-01T14:59:55.614Z" icon="0" href="uchastniki_processa_roli_kontragenta_plategnie_agenti">
+          <caption translate="true">Платежные агенты</caption>
+        </topicref>
+        <topicref type="topic" id="419647641817321" build="CHM,HTML,PDF" modified="2014-12-01T14:59:55.617Z" icon="0" href="uchastniki_processa_roli_kontragenta_agenti_dostavki">
+          <caption translate="true">Агенты доставки</caption>
+        </topicref>
+        <topicref type="topic" id="419644507846764" build="CHM,HTML,PDF" modified="2014-12-01T14:59:55.620Z" icon="0" href="uchastniki_processa_roli_kontragenta_raschetno_kassovie_centri">
+          <caption translate="true">Расчетно-кассовые центры</caption>
+        </topicref>
+        <topicref type="topic" id="419645037304183" build="CHM,HTML,PDF" modified="2014-12-01T14:59:55.623Z" icon="0" href="uchastniki_processa_roli_kontragenta_regionalnie_operatori">
+          <caption translate="true">Региональные операторы</caption>
+        </topicref>
+        <topicref type="topic" id="419647455015662" build="CHM,HTML,PDF" modified="2014-12-01T14:59:55.626Z" icon="0" href="uchastniki_processa_roli_kontragenta_usloviya_obslugivaniya_kred_organizaciyami">
+          <caption translate="true">Условия обслуживания кредитными организациями</caption>
+        </topicref>
+        <topicref type="topic" id="419644273443649" build="CHM,HTML,PDF" modified="2014-12-01T14:59:55.630Z" icon="0" href="uchastniki_processa_roli_kontragenta_postavshiki_resursov">
+          <caption translate="true">Поставщики ресурсов</caption>
+        </topicref>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="419115351977900" build="CHM,HTML,PDF" modified="2014-12-01T15:04:30.141Z" icon="0" href="reference">
+      <caption translate="true">Справочники</caption>
+      <topicref type="topic" id="419117584334949" build="CHM,HTML,PDF" modified="2014-12-01T15:03:48.750Z" icon="0" href="reference_obshie">
+        <caption translate="true">Общие</caption>
+        <topicref type="topic" id="419113807118863" build="CHM,HTML,PDF" modified="2014-12-01T15:04:07.288Z" icon="0" href="reference_obshie_municipalnie_obrazovaniya">
+          <caption translate="true">Муниципальные образования</caption>
+        </topicref>
+        <topicref type="topic" id="419116460612191" build="CHM,HTML,PDF" modified="2014-12-01T15:04:07.292Z" icon="0" href="reference_obshie_dolgnosti">
+          <caption translate="true">Должности</caption>
+        </topicref>
+        <topicref type="topic" id="419116562014893" build="CHM,HTML,PDF" modified="2014-12-01T15:04:07.295Z" icon="0" href="reference_obshie_pravovie_formi">
+          <caption translate="true">Организационно-правовые формы</caption>
+        </topicref>
+        <topicref type="topic" id="419116781327146" build="CHM,HTML,PDF" modified="2014-12-01T15:04:07.299Z" icon="0" href="reference_obshie_inspectori">
+          <caption translate="true">Инспекторы</caption>
+        </topicref>
+        <topicref type="topic" id="419114024561179" build="CHM,HTML,PDF" modified="2014-12-01T15:04:07.303Z" icon="0" href="reference_obshie_vidi_rabot">
+          <caption translate="true">Виды работ</caption>
+        </topicref>
+        <topicref type="topic" id="419114897311151" build="CHM,HTML,PDF" modified="2014-12-01T15:04:07.307Z" icon="0" href="reference_obshie_edinici_izmereniya">
+          <caption translate="true">Единицы измерения</caption>
+        </topicref>
+        <topicref type="topic" id="419116683050571" build="CHM,HTML,PDF" modified="2014-12-01T15:04:07.311Z" icon="0" href="reference_obshie_derevo_municipalnih_obrazovanii">
+          <caption translate="true">Дерево муниципальных образований</caption>
+        </topicref>
+        <topicref type="topic" id="419114337191271" build="CHM,HTML,PDF" modified="2014-12-01T15:04:07.313Z" icon="0" href="reference_obshie_rascenki_po_rabotam">
+          <caption translate="true">Расценки по работам</caption>
+        </topicref>
+        <topicref type="topic" id="419114217441026" build="CHM,HTML,PDF" modified="2014-12-01T15:04:07.316Z" icon="0" href="reference_obshie_raboti">
+          <caption translate="true">Работы</caption>
+        </topicref>
+        <topicref type="topic" id="419116434160062" build="CHM,HTML,PDF" modified="2014-12-01T15:04:07.319Z" icon="0" href="reference_obshie_universalnie_spravochniki">
+          <caption translate="true">Универсальные справочники</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="419116920044282" build="CHM,HTML,PDF" modified="2014-12-01T15:00:19.031Z" icon="0" href="reference_gkh">
+        <caption translate="true">Жилищно-коммунальное хозяйство</caption>
+        <topicref type="topic" id="419124473038549" build="CHM,HTML,PDF" modified="2014-12-04T10:59:05.479Z" icon="0" href="reference_gkh_gruppi_kapitalnosti">
+          <caption translate="true">Группы капитальности</caption>
+        </topicref>
+        <topicref type="topic" id="41913155109465" build="CHM,HTML,PDF" modified="2014-12-01T15:00:19.055Z" icon="0" href="reference_gkh_konstruktivnie_elementi">
+          <caption translate="true">Конструктивные элементы</caption>
+        </topicref>
+        <topicref type="topic" id="419126360887766" build="CHM,HTML,PDF" modified="2014-12-01T15:00:19.068Z" icon="0" href="reference_gkh_gruppi_konstruktivnih_elementov">
+          <caption translate="true">Группы конструктивных элементов</caption>
+        </topicref>
+        <topicref type="topic" id="419126894951320" build="CHM,HTML,PDF" modified="2014-12-01T15:00:19.076Z" icon="0" href="reference_gkh_pribori_ucheta">
+          <caption translate="true">Приборы учета</caption>
+        </topicref>
+        <topicref type="topic" id="419126242938979" build="CHM,HTML,PDF" modified="2014-12-01T15:00:19.081Z" icon="0" href="reference_gkh_materiali_krovli">
+          <caption translate="true">Материалы кровли</caption>
+        </topicref>
+        <topicref type="topic" id="419126066441108" build="CHM,HTML,PDF" modified="2014-12-01T15:00:19.087Z" icon="0" href="reference_gkh_materiali_sten">
+          <caption translate="true">Материалы стен</caption>
+        </topicref>
+        <topicref type="topic" id="419125346571711" build="CHM,HTML,PDF" modified="2014-12-04T10:53:28.498Z" icon="0" href="reference_gkh_formi_sobstvennosti">
+          <caption translate="true">Формы собственности</caption>
+        </topicref>
+        <topicref type="topic" id="419127115764255" build="CHM,HTML,PDF" modified="2014-12-01T15:00:19.097Z" icon="0" href="reference_gkh_vidi_rabot_tekushego_remonta">
+          <caption translate="true">Виды работ текущего ремонта</caption>
+        </topicref>
+        <topicref type="topic" id="419126123737789" build="CHM,HTML,PDF" modified="2014-12-01T15:00:19.102Z" icon="0" href="reference_gkh_tipi_proektov">
+          <caption translate="true">Типы проектов</caption>
+        </topicref>
+        <topicref type="topic" id="419125752948237" build="CHM,HTML,PDF" modified="2014-12-01T15:00:19.105Z" icon="0" href="reference_gkh_tipi_obslugivaniya">
+          <caption translate="true">Типы обслуживания</caption>
+        </topicref>
+        <topicref type="topic" id="419127705386883" build="CHM,HTML,PDF" modified="2014-12-01T15:00:19.108Z" icon="0" href="reference_gkh_normativnie_documenti">
+          <caption translate="true">Нормативные документы</caption>
+        </topicref>
+        <topicref type="topic" id="419126044151331" build="CHM,HTML,PDF" modified="2014-12-01T15:00:19.111Z" icon="0" href="reference_gkh_osobie_priznaki_stroeniya">
+          <caption translate="true">Особые признаки строения</caption>
+        </topicref>
+        <topicref type="topic" id="419125456156827" build="CHM,HTML,PDF" modified="2014-12-01T15:00:19.114Z" icon="0" href="reference_gkh_kommunalnie_uslugi">
+          <caption translate="true">Коммунальные услуги</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="419115140846214" build="CHM,HTML,PDF" modified="2014-12-01T15:00:28.437Z" icon="0" href="reference_programmi">
+        <caption translate="true">Программы</caption>
+        <topicref type="topic" id="419137447957317" build="CHM,HTML,PDF" modified="2014-12-01T15:00:28.448Z" icon="0" href="reference_programmi_periodi_programm">
+          <caption translate="true">Периоды программ</caption>
+        </topicref>
+        <topicref type="topic" id="419136663332511" build="CHM,HTML,PDF" modified="2014-12-01T15:00:28.458Z" icon="0" href="reference_programmi_varianti_dalneishego_ispolzovaniya">
+          <caption translate="true">Варианты дальнейшего использования</caption>
+        </topicref>
+        <topicref type="topic" id="419135547668586" modified="2014-10-07T11:17:13.978Z" icon="0" href="reference_programmi_osnovaniya_necelesoobraznosti">
+          <caption translate="true">Основания нецелесообразности</caption>
+        </topicref>
+        <topicref type="topic" id="419137698504214" build="CHM,HTML,PDF" modified="2014-12-01T15:00:28.468Z" icon="0" href="reference_programmi_istochniki_po_programmam_pereseleniya">
+          <caption translate="true">Источники по программам переселения</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="419114267575213" build="CHM,HTML,PDF" modified="2014-12-01T15:00:38.402Z" icon="0" href="reference_capiatalnii_remont">
+        <caption translate="true">Капитальный ремонт</caption>
+        <topicref type="topic" id="419137785299268" build="CHM,HTML,PDF" modified="2014-12-01T15:00:38.408Z" icon="0" href="reference_capiatalnii_remont_specialnosti">
+          <caption translate="true">Специальности</caption>
+        </topicref>
+        <topicref type="topic" id="419137891743189" build="CHM,HTML,PDF" modified="2014-12-01T15:00:38.414Z" icon="0" href="reference_capiatalnii_remont_uchebnie_zavedeniya">
+          <caption translate="true">Учебные заведения</caption>
+        </topicref>
+        <topicref type="topic" id="419135135946691" build="CHM,HTML,PDF" modified="2014-12-01T15:00:38.420Z" icon="0" href="reference_capiatalnii_remont_vidi_osnasheniya">
+          <caption translate="true">Виды оснащения</caption>
+        </topicref>
+        <topicref type="topic" id="419134019110615" build="CHM,HTML,PDF" modified="2014-12-01T15:00:38.426Z" icon="0" href="reference_capiatalnii_remont_razrezi_finansirovaniya">
+          <caption translate="true">Разрезы финансирования</caption>
+        </topicref>
+        <topicref type="topic" id="419136926511539" build="CHM,HTML,PDF" modified="2014-12-01T15:00:38.432Z" icon="0" href="reference_capiatalnii_remont_etapi_rabot">
+          <caption translate="true">Этапы работ</caption>
+        </topicref>
+        <topicref type="topic" id="41914174396142" build="CHM,HTML,PDF" modified="2014-12-01T15:00:38.437Z" icon="0" href="reference_capiatalnii_remont_uchastniki_kvalifikacionnogo_otbora">
+          <caption translate="true">Участники квалификационного отбора</caption>
+        </topicref>
+        <topicref type="topic" id="41914609329971" build="CHM,HTML,PDF" modified="2014-12-01T15:00:38.440Z" icon="0" href="reference_capiatalnii_remont_tip_gruppi_ooi">
+          <caption translate="true">Тип группы ООИ</caption>
+        </topicref>
+        <topicref type="topic" id="419136397517193" build="CHM,HTML,PDF" modified="2014-12-01T15:00:38.443Z" icon="0" href="reference_capiatalnii_remont_ooi">
+          <caption translate="true">ООИ</caption>
+        </topicref>
+        <topicref type="topic" id="419134164333557" build="CHM,HTML,PDF" modified="2014-12-01T15:00:38.446Z" icon="0" href="reference_capiatalnii_remont_operacii_po_schetu">
+          <caption translate="true">Операции по счету</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="419113861667039" build="CHM,HTML,PDF" modified="2014-12-01T15:00:57.592Z" icon="0" href="reference_gil_inspekciya">
+        <caption translate="true">ГЖИ</caption>
+        <topicref type="topic" id="419194579638718" build="CHM,HTML,PDF" modified="2014-12-01T15:00:57.604Z" icon="0" href="reference_gil_inspekciya_otdeli">
+          <caption translate="true">Отделы</caption>
+        </topicref>
+        <topicref type="topic" id="419195567417808" build="CHM,HTML,PDF" modified="2014-12-01T15:00:57.618Z" icon="0" href="reference_gil_inspekciya_plani_proverok_uridicheskih_lic">
+          <caption translate="true">Планы проверок юридических лиц</caption>
+        </topicref>
+        <topicref type="topic" id="419196887820890" build="CHM,HTML,PDF" modified="2014-12-01T15:00:57.624Z" icon="0" href="reference_gil_inspekciya_plani_inspekcionnih_proverok">
+          <caption translate="true">Планы инспекционных проверок</caption>
+        </topicref>
+        <topicref type="topic" id="419616652855153" build="CHM,HTML,PDF" modified="2014-12-01T15:00:57.630Z" icon="0" href="reference_gil_inspekciya_plani_meropriyatii">
+          <caption translate="true">Планы мероприятий</caption>
+        </topicref>
+        <topicref type="topic" id="419194388202888" build="CHM,HTML,PDF" modified="2014-12-01T15:00:57.636Z" icon="0" href="reference_gil_inspekciya_narusheniya">
+          <caption translate="true">Нарушения</caption>
+        </topicref>
+        <topicref type="topic" id="419194655900491" build="CHM,HTML,PDF" modified="2014-12-01T15:00:57.642Z" icon="0" href="reference_gil_inspekciya_harakteristiki_narushenii">
+          <caption translate="true">Характеристики нарушений</caption>
+        </topicref>
+        <topicref type="topic" id="4190537525301" build="CHM,HTML,PDF" modified="2014-12-01T15:00:57.648Z" icon="0" href="reference_gil_inspekciya_inspectiryemie_chasti">
+          <caption translate="true">Инспектируемые части</caption>
+        </topicref>
+        <topicref type="topic" id="419194042068027" build="CHM,HTML,PDF" modified="2014-12-01T15:00:57.651Z" icon="0" href="reference_gil_inspekciya_stati_zakona">
+          <caption translate="true">Статьи закона</caption>
+        </topicref>
+        <topicref type="topic" id="419196618463349" build="CHM,HTML,PDF" modified="2014-12-01T15:00:57.655Z" icon="0" href="reference_gil_inspekciya_tipi_ispolnitelei">
+          <caption translate="true">Типы исполнителей</caption>
+        </topicref>
+        <topicref type="topic" id="419197638524081" build="CHM,HTML,PDF" modified="2014-12-01T15:00:57.658Z" icon="0" href="reference_gil_inspekciya_predostavlyaemie_documenti">
+          <caption translate="true">Предоставляемые документы</caption>
+        </topicref>
+        <topicref type="topic" id="419195120649390" build="CHM,HTML,PDF" modified="2014-12-01T15:00:57.661Z" icon="0" href="reference_gil_inspekciya_tipi_obsledovaniya">
+          <caption translate="true">Типы обследования</caption>
+        </topicref>
+        <topicref type="topic" id="419196179003886" build="CHM,HTML,PDF" modified="2014-12-01T15:00:57.664Z" icon="0" href="reference_gil_inspekciya_vidi_proverok">
+          <caption translate="true">Виды проверок</caption>
+        </topicref>
+        <topicref type="topic" id="419197639570729" build="CHM,HTML,PDF" modified="2014-12-01T15:00:57.668Z" icon="0" href="reference_gil_inspekciya_experti">
+          <caption translate="true">Эксперты</caption>
+        </topicref>
+        <topicref type="topic" id="419196085328580" build="CHM,HTML,PDF" modified="2014-12-01T15:00:57.671Z" icon="0" href="reference_gil_inspekciya_vidi_sankcii">
+          <caption translate="true">Виды санкций</caption>
+        </topicref>
+        <topicref type="topic" id="419194479946838" build="CHM,HTML,PDF" modified="2014-12-01T15:00:57.674Z" icon="0" href="reference_gil_inspekciya_vidi_suda">
+          <caption translate="true">Виды суда</caption>
+        </topicref>
+        <topicref type="topic" id="419195710457087" build="CHM,HTML,PDF" modified="2014-12-01T15:00:57.677Z" icon="0" href="reference_gil_inspekciya_resheniya_suda">
+          <caption translate="true">Решения суда</caption>
+        </topicref>
+        <topicref type="topic" id="419197136766307" build="CHM,HTML,PDF" modified="2014-12-01T15:00:57.681Z" icon="0" href="reference_gil_inspekciya_instancii">
+          <caption translate="true">Инстанции</caption>
+        </topicref>
+        <topicref type="topic" id="419196462907141" build="CHM,HTML,PDF" modified="2014-12-01T15:00:57.684Z" icon="0" href="reference_gil_inspekciya_kompetentnie_organizacii">
+          <caption translate="true">Компетентные организации</caption>
+        </topicref>
+        <topicref type="topic" id="419197719829619" build="CHM,HTML,PDF" modified="2014-12-01T15:00:57.687Z" icon="0" href="reference_gil_inspekciya_soderganie_otveta">
+          <caption translate="true">Содержание ответа</caption>
+        </topicref>
+        <topicref type="topic" id="419193841279681" build="CHM,HTML,PDF" modified="2014-12-01T15:00:57.690Z" icon="0" href="reference_gil_inspekciya_tematiki_obrashenii">
+          <caption translate="true">Тематики обращений</caption>
+        </topicref>
+        <topicref type="topic" id="41917976596582" build="CHM,HTML,PDF" modified="2014-12-01T15:00:57.694Z" icon="0" href="reference_gil_inspekciya_podtematiki">
+          <caption translate="true">Подтематики</caption>
+        </topicref>
+        <topicref type="topic" id="419196657523528" build="CHM,HTML,PDF" modified="2014-12-01T15:00:57.697Z" icon="0" href="reference_gil_inspekciya_priznak_volokiti">
+          <caption translate="true">Признак волокиты</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="419153992764350" build="CHM,HTML,PDF" modified="2014-12-01T15:01:09.936Z" icon="0" href="reference_raskritie_informacii">
+        <caption translate="true">Раскрытие информации</caption>
+        <topicref type="topic" id="419152189331206" build="CHM,HTML,PDF" modified="2014-12-01T15:01:09.949Z" icon="0" href="reference_raskritie_informacii_otchetnie_periodi">
+          <caption translate="true">Отчетные периоды</caption>
+        </topicref>
+        <topicref type="topic" id="419153334935988" build="CHM,HTML,PDF" modified="2014-12-01T15:01:09.961Z" icon="0" href="reference_raskritie_informacii_uslugi">
+          <caption translate="true">Услуги</caption>
+        </topicref>
+        <topicref type="topic" id="419155948978808" build="CHM,HTML,PDF" modified="2014-12-01T15:01:09.974Z" icon="0" href="reference_raskritie_informacii_peroiodichnost_uslug">
+          <caption translate="true">Периодичность услуг</caption>
+        </topicref>
+        <topicref type="topic" id="419155692486967" build="CHM,HTML,PDF" modified="2014-12-01T15:01:09.987Z" icon="0" href="reference_raskritie_informacii_kontroliryushie_organi">
+          <caption translate="true">Контролирующие органы</caption>
+        </topicref>
+        <topicref type="topic" id="419154457831778" build="CHM,HTML,PDF" modified="2014-12-01T15:01:09.993Z" icon="0" href="reference_raskritie_informacii_sistema_nalogooblogeniya">
+          <caption translate="true">Система налогообложения</caption>
+        </topicref>
+        <topicref type="topic" id="419155016381362" build="CHM,HTML,PDF" modified="2014-12-01T15:01:10.000Z" icon="0" href="reference_raskritie_informacii_gruppi_rabot_po_to">
+          <caption translate="true">Группы работ по ТО</caption>
+        </topicref>
+        <topicref type="topic" id="419155150294132" build="CHM,HTML,PDF" modified="2014-12-01T15:01:10.006Z" icon="0" href="reference_raskritie_informacii_gruppi_ppr">
+          <caption translate="true">Группы ППР</caption>
+        </topicref>
+        <topicref type="topic" id="419153564446641" build="CHM,HTML,PDF" modified="2014-12-01T15:01:10.012Z" icon="0" href="reference_raskritie_informacii_planovo_predupreditelnie_raboti">
+          <caption translate="true">Планово-предупредительные работы</caption>
+        </topicref>
+        <topicref type="topic" id="419154707188230" build="CHM,HTML,PDF" modified="2014-12-01T15:01:10.017Z" icon="0" href="reference_raskritie_informacii_raboti_po_to">
+          <caption translate="true">Работы по ТО</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="419195315468540" build="CHM,HTML,PDF" modified="2014-12-01T15:01:17.484Z" icon="0" href="reference_otopitelnii_sezon">
+        <caption translate="true">Отопительный сезон</caption>
+        <topicref type="topic" id="41920621330555" build="CHM,HTML,PDF" modified="2014-12-01T15:01:17.494Z" icon="0" href="reference_otopitelnii_sezon_periodi">
+          <caption translate="true">Периоды</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="419194603403470" build="CHM,HTML,PDF" modified="2014-12-01T15:01:34.583Z" icon="0" href="reference_deyatelnost_tsg">
+        <caption translate="true">Деятельность ТСЖ</caption>
+        <topicref type="topic" id="419196179396742" build="CHM,HTML,PDF" modified="2014-12-01T15:01:34.597Z" icon="0" href="reference_deyatelnost_tsg_tip_protokola">
+          <caption translate="true">Тип протокола</caption>
+        </topicref>
+        <topicref type="topic" id="419194284216186" build="CHM,HTML,PDF" modified="2014-12-01T15:01:34.606Z" icon="0" href="reference_deyatelnost_tsg_stati_ystava">
+          <caption translate="true">Статьи устава</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="419115252480054" build="CHM,HTML,PDF" modified="2014-12-01T15:01:34.614Z" icon="0" href="reference_strahovanie">
+        <caption translate="true">Страхование</caption>
+        <topicref type="topic" id="419152652570295" build="CHM,HTML,PDF" modified="2014-12-01T15:01:34.622Z" icon="0" href="reference_strahovanie_vidi_riskov">
+          <caption translate="true">Виды рисков</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="419115097626266" build="CHM,HTML,PDF" modified="2014-12-01T15:01:34.630Z" icon="0" href="reference_regionalnii_fond">
+        <caption translate="true">Региональный фонд</caption>
+        <topicref type="topic" id="419195902160423" build="CHM,HTML,PDF" modified="2014-12-01T15:01:34.634Z" icon="0" href="reference_regionalnii_fond_kodi_naselennih_punktov">
+          <caption translate="true">Коды населенных пунктов</caption>
+        </topicref>
+        <topicref type="topic" id="419814236657892" build="CHM,HTML,PDF" modified="2014-12-09T15:09:49.527Z" icon="0" href="reference_regionalnii_fond_lgotnie_kategorii_gragdan">
+          <caption translate="true">Группы льготных категорий граждан</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="41910866764259" build="CHM,HTML,PDF" modified="2014-12-01T15:01:34.639Z" icon="0" href="reference_pasporta">
+        <caption translate="true">Паспорта</caption>
+        <topicref type="topic" id="419158508771415" build="CHM,HTML,PDF" modified="2014-12-01T15:01:34.642Z" icon="0" href="reference_pasporta_spravochnik_struktur_pasportov">
+          <caption translate="true">Справочник структур паспортов</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="419196749828378" build="CHM,HTML,PDF" modified="2014-12-01T15:01:51.882Z" icon="0" href="reference_obrasheniya">
+        <caption translate="true">Обращения</caption>
+        <topicref type="topic" id="419193135717375" build="CHM,HTML,PDF" modified="2014-12-01T15:01:51.893Z" icon="0" href="reference_obrasheniya_vidi_obrashenii">
+          <caption translate="true">Виды обращений</caption>
+        </topicref>
+        <topicref type="topic" id="419193079812868" build="CHM,HTML,PDF" modified="2014-12-01T15:01:51.900Z" icon="0" href="reference_obrasheniya_istochniki_postuplenii">
+          <caption translate="true">Источники поступлений</caption>
+        </topicref>
+        <topicref type="topic" id="419194713518013" build="CHM,HTML,PDF" modified="2014-12-01T15:01:51.905Z" icon="0" href="reference_obrasheniya_formi_postuplenii">
+          <caption translate="true">Формы поступлений</caption>
+        </topicref>
+        <topicref type="topic" id="419193424841635" build="CHM,HTML,PDF" modified="2014-12-01T15:01:51.910Z" icon="0" href="reference_obrasheniya_rezolucii">
+          <caption translate="true">Резолюции</caption>
+        </topicref>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="419344935816133" build="CHM,HTML,PDF" modified="2014-12-01T15:02:26.760Z" icon="0" href="administrirovanie">
+      <caption translate="true">Администрирование</caption>
+      <topicref type="topic" id="41964017183472" build="CHM,HTML,PDF" modified="2014-12-01T15:02:26.773Z" icon="0" href="administrirovanie_audit">
+        <caption translate="true">Аудит</caption>
+        <topicref type="topic" id="419693160217912" build="CHM,HTML,PDF" modified="2014-12-01T15:02:26.781Z" icon="0" href="administrirovanie_audit_poslednie_deistviya">
+          <caption translate="true">Последние действия</caption>
+        </topicref>
+        <topicref type="topic" id="419693912608568" build="CHM,HTML,PDF" modified="2014-12-01T15:02:26.788Z" icon="0" href="administrirovanie_audit_audit_deistvii">
+          <caption translate="true">Аудит действий</caption>
+        </topicref>
+        <topicref type="topic" id="419695347160491" build="CHM,HTML,PDF" modified="2014-12-01T15:02:26.795Z" icon="0" href="administrirovanie_audit_statistika_deistvii">
+          <caption translate="true">Статистика действий</caption>
+        </topicref>
+        <topicref type="topic" id="419692009956573" build="CHM,HTML,PDF" modified="2014-12-01T15:02:26.802Z" icon="0" href="administrirovanie_audit_unikalnie_polzovateli">
+          <caption translate="true">Уникальные пользователи</caption>
+        </topicref>
+        <topicref type="topic" id="419694399373725" build="CHM,HTML,PDF" modified="2014-12-01T15:02:26.807Z" icon="0" href="administrirovanie_audit_gurnalirovanie">
+          <caption translate="true">Журналирование</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="419604418008024" build="CHM,HTML,PDF" modified="2014-12-01T15:02:26.810Z" icon="0" href="administrirovanie_spravochnik_adresov">
+        <caption translate="true">Справочник адресов</caption>
+        <topicref type="topic" id="419604624730885" build="CHM,HTML,PDF" modified="2014-12-01T15:02:26.813Z" icon="0" href="administrirovanie_spravochnik_adresov_fias">
+          <caption translate="true">ФИАС</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="41955135238259" build="CHM,HTML,PDF" modified="2014-12-01T15:02:26.816Z" icon="0" href="administrirovanie_nastroika_polzovatelei">
+        <caption translate="true">Настройка пользователей</caption>
+        <topicref type="topic" id="419565369818452" build="CHM,HTML,PDF" modified="2014-12-01T15:02:26.819Z" icon="0" href="administrirovanie_nastroika_polzovatelei_roli">
+          <caption translate="true">Роли</caption>
+        </topicref>
+        <topicref type="topic" id="41955591328584" build="CHM,HTML,PDF" modified="2014-12-01T15:02:26.822Z" icon="0" href="administrirovanie_nastroika_polzovatelei_operatori">
+          <caption translate="true">Операторы</caption>
+        </topicref>
+        <topicref type="topic" id="419696510868492" build="CHM,HTML,PDF" modified="2014-12-01T15:02:26.825Z" icon="0" href="administrirovanie_nastroika_polzovatelei_profil">
+          <caption translate="true">Профиль</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="41969503985151" build="CHM,HTML,PDF" modified="2014-12-01T15:02:26.828Z" icon="0" href="administrirovanie_nastroika_prav_dostupa">
+        <caption translate="true">Настройка прав доступа</caption>
+        <topicref type="topic" id="419695669454073" build="CHM,HTML,PDF" modified="2014-12-01T15:02:26.831Z" icon="0" href="administrirovanie_nastroika_prav_dostupa_nastroika_ogranichenii">
+          <caption translate="true">Настройка ограничений</caption>
+        </topicref>
+        <topicref type="topic" id="419696072081650" build="CHM,HTML,PDF" modified="2014-12-01T15:02:26.834Z" icon="0" href="administrirovanie_nastroika_prav_dostupa_obyazatelnost_polei">
+          <caption translate="true">Обязательность полей</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="419694809500070" build="CHM,HTML,PDF" modified="2014-12-01T15:02:26.837Z" icon="0" href="administrirovanie_novosti_i_instrukcii">
+        <caption translate="true">Новости и инструкции</caption>
+        <topicref type="topic" id="419695807238991" build="CHM,HTML,PDF" modified="2014-12-01T15:02:26.840Z" icon="0" href="administrirovanie_novosti_i_instrukcii_novosti">
+          <caption translate="true">Новости</caption>
+        </topicref>
+        <topicref type="topic" id="419695478799968" build="CHM,HTML,PDF" modified="2014-12-01T15:02:26.843Z" icon="0" href="administrirovanie_novosti_i_instrukcii_instrukcii">
+          <caption translate="true">Инструкции</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="419563941484116" build="CHM,HTML,PDF" modified="2014-12-01T15:02:26.846Z" icon="0" href="administrirovanie_nastroiki_statusov">
+        <caption translate="true">Настройки статусов</caption>
+        <topicref type="topic" id="419566562233319" build="CHM,HTML,PDF" modified="2014-12-01T15:02:26.849Z" icon="0" href="administrirovanie_nastroiki_statusov_statusi">
+          <caption translate="true">Статусы</caption>
+        </topicref>
+        <topicref type="topic" id="419697096802811" build="CHM,HTML,PDF" modified="2014-12-01T15:02:26.852Z" icon="0" href="administrirovanie_nastroiki_statusov_perehodi_statusov">
+          <caption translate="true">Переходы статусов</caption>
+        </topicref>
+        <topicref type="topic" id="41969665819529" build="CHM,HTML,PDF" modified="2014-12-01T15:02:26.855Z" icon="0" href="administrirovanie_nastroiki_statusov_pravila_perehoda_statusov">
+          <caption translate="true">Правила перехода статусов</caption>
+        </topicref>
+        <topicref type="topic" id="419697698010021" build="CHM,HTML,PDF" modified="2014-12-01T15:02:26.858Z" icon="0" href="administrirovanie_nastroiki_statusov_ogranicheniya_statusov">
+          <caption translate="true">Настройка ограничений по статусам</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="41971690557632" build="CHM,HTML,PDF" modified="2014-12-01T15:02:26.862Z" icon="0" href="aktivnie_polzovateli">
+        <caption translate="true">Активные пользователи</caption>
+      </topicref>
+      <topicref type="topic" id="41968852051099" build="CHM,HTML,PDF" modified="2014-12-01T15:02:26.864Z" icon="0" href="administrirovanie_o_sisteme">
+        <caption translate="true">Информация о системе</caption>
+        <topicref type="topic" id="41969903612108" build="CHM,HTML,PDF" modified="2014-12-01T15:02:26.868Z" icon="0" href="administrirovanie_o_sisteme_versiya_sistemi">
+          <caption translate="true">Версия системы</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="419695507969865" build="CHM,HTML,PDF" modified="2014-12-01T15:02:26.872Z" icon="0" href="administrirovanie_nastroiki_prilogeniya">
+        <caption translate="true">Настройки приложения</caption>
+      </topicref>
+      <topicref type="topic" id="419696430541018" build="CHM,HTML,PDF" modified="2014-12-01T15:02:26.875Z" icon="0" href="administrirovanie_shabloni">
+        <caption translate="true">Шаблоны</caption>
+        <topicref type="topic" id="419695342272466" build="CHM,HTML,PDF" modified="2014-12-01T15:02:26.879Z" icon="0" href="administrirovanie_shabloni_shabloni_documentov">
+          <caption translate="true">Шаблоны документов</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="419694765806617" build="CHM,HTML,PDF" modified="2014-12-01T15:02:26.882Z" icon="0" href="administrirovanie_logi">
+        <caption translate="true">Логи</caption>
+        <topicref type="topic" id="419696949176586" build="CHM,HTML,PDF" modified="2014-12-01T15:02:26.885Z" icon="0" href="administrirovanie_logi_logi_zagruzok">
+          <caption translate="true">Логи загрузок</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="41971664728205" modified="2014-12-01T15:02:35.462Z" icon="0" href="administrirovanie_zagruzka_identifikatora_is">
+        <caption translate="true">Загрузка идентификатора ИС</caption>
+      </topicref>
+      <topicref type="topic" id="419706061333672" build="CHM,HTML,PDF" modified="2014-12-01T15:02:26.894Z" icon="0" href="administrirovanie_vipolnenie_deistvii">
+        <caption translate="true">Выполнение действий</caption>
+      </topicref>
+      <topicref type="topic" id="419704469608602" build="CHM,HTML,PDF" modified="2014-12-01T15:02:26.897Z" icon="0" href="administrirovanie_import_eksport_dannih_sistemi">
+        <caption translate="true">Импорт и экспорт данных системы</caption>
+      </topicref>
+      <topicref type="topic" id="419706596485884" modified="2014-11-27T11:07:15.841Z" icon="0" href="administrirovanie_export_dannih">
+        <caption translate="true">Экспорт данных</caption>
+        <topicref type="topic" id="419703324239506" modified="2014-11-27T11:07:15.853Z" icon="0" href="administrirovanie_export_dannih_gas_upravlenie">
+          <caption translate="true">Данные для ГАС Управление</caption>
+        </topicref>
+        <topicref type="topic" id="419703066214498" modified="2014-11-27T11:07:15.864Z" icon="0" href="administrirovanie_export_dannih_gas_upravlenie_kr">
+          <caption translate="true">Данные для ГАС Управление КР</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="419702808774117" build="CHM,HTML,PDF" modified="2014-12-01T15:03:24.434Z" icon="0" href="administrirovanie_oktmo">
+        <caption translate="true">ОКТМО</caption>
+        <topicref type="topic" id="41970661222401" build="CHM,HTML,PDF" modified="2014-12-01T15:03:24.445Z" icon="0" href="administrirovanie_oktmo_privyazka_naselennogo_punkta">
+          <caption translate="true">Привязка населенного пункта</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="41933628823513" build="CHM,HTML,PDF" modified="2014-12-01T15:03:24.451Z" icon="0" href="administrirovanie_importi">
+        <caption translate="true">Импорты</caption>
+        <topicref type="topic" id="419345290926891" build="CHM,HTML,PDF" modified="2014-12-01T15:03:24.458Z" icon="0" href="administrirovanie_importi_licevie_scheta_so_svedeniyami">
+          <caption translate="true">Импорт лицевых счетов</caption>
+        </topicref>
+        <topicref type="topic" id="419343827744164" build="CHM,HTML,PDF" modified="2014-12-01T15:03:24.464Z" icon="0" href="administrirovanie_importi_dannie_iz_billinga">
+          <caption translate="true">Импорт данных из Биллинга</caption>
+        </topicref>
+        <topicref type="topic" id="419343896837883" build="CHM,HTML,PDF" modified="2014-12-01T15:03:24.470Z" icon="0" href="administrirovanie_importi_importi_gilih_domov_iz_reformi_gkh">
+          <caption translate="true">Импорт жилых домов из Реформы ЖКХ</caption>
+        </topicref>
+        <topicref type="topic" id="419345061437814" build="CHM,HTML,PDF" modified="2014-12-01T15:03:24.474Z" icon="0" href="administrirovanie_importi_import_gilih_domov_iz_fonda">
+          <caption translate="true">Импорт жилых домов из фонда</caption>
+        </topicref>
+        <topicref type="topic" id="419344558114661" build="CHM,HTML,PDF" modified="2014-12-01T15:03:24.478Z" icon="0" href="administrirovanie_importi_import_operatorov">
+          <caption translate="true">Импорт операторов</caption>
+        </topicref>
+        <topicref type="topic" id="419344506095541" build="CHM,HTML,PDF" modified="2014-12-01T15:03:24.482Z" icon="0" href="administrirovanie_importi_import_dannih_iz_oktmo">
+          <caption translate="true">Импорт данных из ОКТМО</caption>
+        </topicref>
+        <topicref type="topic" id="419345264663631" build="CHM,HTML,PDF" modified="2014-12-01T15:03:24.485Z" icon="0" href="administrirovanie_importi_import_organizacii">
+          <caption translate="true">Импорт организаций</caption>
+        </topicref>
+        <topicref type="topic" id="419345899189431" build="CHM,HTML,PDF" modified="2014-12-01T15:03:24.488Z" icon="0" href="administrirovanie_importi_import_sobstvennikov">
+          <caption translate="true">Импорт собственников</caption>
+        </topicref>
+        <topicref type="topic" id="419345147239761" build="CHM,HTML,PDF" modified="2014-12-01T15:03:24.492Z" icon="0" href="administrirovanie_importi_import_abonentov">
+          <caption translate="true">Импорт абонентов</caption>
+        </topicref>
+        <topicref type="topic" id="419704928545834" build="CHM,HTML,PDF" modified="2014-12-01T15:03:24.495Z" icon="0" href="administrirovanie_importi_import_protokolov_reshenii">
+          <caption translate="true">Импорт протоколов решений</caption>
+        </topicref>
+        <topicref type="topic" id="419706999932215" build="CHM,HTML,PDF" modified="2014-12-01T15:03:24.499Z" icon="0" href="administrirovanie_importi_import_protokolov_sobstvennikov">
+          <caption translate="true">Импорт протоколов собственников</caption>
+        </topicref>
+        <topicref type="topic" id="419342648830708" build="CHM,HTML,PDF" modified="2014-12-01T15:03:24.502Z" icon="0" href="administrirovanie_importi_import_v_scheta_nvs_iz_1c">
+          <caption translate="true">Импорт в счета НВС из 1С</caption>
+        </topicref>
+        <topicref type="topic" id="419342829250468" build="CHM,HTML,PDF" modified="2014-12-01T15:03:24.506Z" icon="0" href="administrirovanie_importi_import_licevih_schetov">
+          <caption translate="true">Импорт лицевых счетов</caption>
+        </topicref>
+        <topicref type="topic" id="419345341969844" build="CHM,HTML,PDF" modified="2014-12-01T15:03:24.510Z" icon="0" href="administrirovanie_importi_import_socialnoi_poddergki">
+          <caption translate="true">Импорт социальной поддержки</caption>
+        </topicref>
+        <topicref type="topic" id="419707394859159" build="CHM,HTML,PDF" modified="2014-12-01T15:03:24.514Z" icon="0" href="administrirovanie_importi_import_obrashenii_v_gilishnyu_inspekciu">
+          <caption translate="true">Импорт обращений в жилищную инспекцию</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="419704749265033" build="CHM,HTML,PDF" modified="2014-12-01T15:03:24.518Z" icon="0" href="administrirovanie_import_gilih_domov">
+        <caption translate="true">Импорт жилых домов</caption>
+        <topicref type="topic" id="419708135037506" build="CHM,HTML,PDF" modified="2014-12-01T15:03:24.522Z" icon="0" href="administrirovanie_import_gilih_domov_import_gilih_domov_yniversalnii">
+          <caption translate="true">Импорт жилых домов (универсальный)</caption>
+        </topicref>
+      </topicref>
+    </topicref>
+  </topicref>
+</map>

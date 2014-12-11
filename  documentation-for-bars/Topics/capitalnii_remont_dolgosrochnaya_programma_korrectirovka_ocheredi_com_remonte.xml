@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="ilya.gladkov" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">При комплексном ремонте</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><link displaytype="text" defaultstyle="false" type="topiclink" href="capitalnii_remont" styleclass="Heading1" translate="true">Капитальный ремонт<title translate="true">Капитальный ремонт</title></link><text styleclass="Heading1" translate="true"> / </text><link displaytype="text" defaultstyle="false" type="topiclink" href="capitalnii_remont_dolgosrochnaya_programma_korrectirovka_ocheredi" styleclass="Heading1" translate="true">Корректировка очереди<title translate="true">Корректировка очереди</title></link><text styleclass="Heading1" translate="true"> / При комплексном ремонте</text></para>
+    </header>
+    <para styleclass="Heading3"><text styleclass="Heading3" translate="true">Субсидирование с корректировкой очереди при комплексном ремонте</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="text-decoration:underline;" translate="true">Условия выполнения</text><text styleclass="Normal" translate="true">: Период группировки ООИ (год) &gt; 0.</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="text-decoration:underline;" translate="true">Описание алгоритма</text><text styleclass="Normal" translate="true">: Выполняется проверка на не превышение стоимости ремонта записи над остатком бюджета за текущий год. Проверка записей проводится в приоритете, определенном очередностью (номер записи).</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="text-decoration:underline;" translate="true">Корректировка года ремонта</text><text styleclass="Normal" translate="true">: </text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <list id="4" type="ol" listtype="decimal" formatstring="&#37;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Tahoma; font-size:9pt; color:#565656;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Проверяется условие: стоимость ремонта записи не превышение остаток бюджета за текущий год. Проверка записей проводится в приоритете, определенном очередностью (номер записи). Условие: стоимости работ записи &lt; (Бюджет за год – стоимость ремонта записей за год с меньшим номером):</text></li>
+    </list>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <list id="5" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-indent:0px; margin-right:0px; margin-left:0px; tabstops:none; font-family:Symbol; font-size:9pt; color:#565656;">
+      <li styleclass="Normal" style="text-indent:0px; margin-right:0px; margin-left:0px; tabstops:none;"><text styleclass="Normal" translate="true">Если условие: стоимости работ записи &lt; (Бюджет за год – стоимость ремонта записей за год с меньшим номером) - выполняется, то Скорректированный год равен &#160;Плановому году записи.</text></li>
+      <li styleclass="Normal" style="text-indent:0px; margin-right:0px; margin-left:0px; tabstops:none;"><text styleclass="Normal" translate="true">Если условие: стоимости работ записи &lt; (Бюджет за год – стоимость ремонта записей за год с меньшим номером) – НЕ выполняется, то Скорректированный год равен Год, в котором выполнится условие.</text></li>
+    </list>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <list id="4" type="ol" listtype="decimal" formatstring="&#37;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Tahoma; font-size:9pt; color:#565656;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">При изменение года ремонта записи (Скорректированный год не = Плановый год) все записи с &#160;наибольшим номером сдвигаются вниз согласно приоритету.</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Если у записи Скорректированный год &gt; Год окончания программы, то Скорректированный год записи будет &#160;= Год окончания работ.</text></li>
+    </list>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+  </body>
+</topic>

@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="ilya.gladkov" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Критерии формирования очередности</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><link displaytype="text" defaultstyle="false" type="topiclink" href="capitalnii_remont_dolgosrochnaya_programma_formirovanie_dpkr_formirovanie_ocheredi_gilih_domov_parametri_ocherednosti" styleclass="Heading1" translate="true">Справочник Параметры очередности<title translate="true">Справочник Параметры очередности</title></link><text styleclass="Heading1" translate="true"> / Критерии формирования очередности</text></para>
+    </header>
+    <para styleclass="Heading3"><text styleclass="Heading3" translate="true">Критерии формирования очередности</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">1. Недоремонт (износ элемента)</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <list id="10" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#565656;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Значение критерия: отображает то количество лет, которое прошло с тех пор, как КЭ должен был быть отремонтирован;</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Формула расчета:</text></li>
+    </list>
+    <para styleclass="Normal" style="text-align:left; text-indent:13px; margin-right:0px; margin-left:0px; tabstops:none;"><text styleclass="Normal" translate="true">Недоремонт = Текущий год (2014) – «Плановый год» ремонта;</text></para>
+    <para styleclass="Normal" style="text-align:left; text-indent:13px; margin-right:0px; margin-left:0px; tabstops:none;"><text styleclass="Normal" translate="true">Плановый год = Год установки/последнего капремонта + Срок эксплуатации КЭ;</text></para>
+    <list id="10" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#565656;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Система получает значения:</text></li>
+    </list>
+    <para styleclass="Normal" style="text-align:left; text-indent:13px; margin-right:0px; margin-left:0px; tabstops:none;"><text styleclass="Normal" translate="true">по «Плановый год» из: Капитальный ремонт / Долгосрочная программа / Плановый год;</text></para>
+    <para styleclass="Normal" style="text-align:left; text-indent:13px; margin-right:0px; margin-left:0px; tabstops:none;"><text styleclass="Normal" translate="true">по «Год установки или последнего капремонта» из: Жилой дом / Конструктивные характеристики / поле «Год установки или последнего капремонта»;</text></para>
+    <list id="10" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#565656;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Сортировка полученных значений: чем больше значение показателя, тем выше запись в очереди.</text></li>
+    </list>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">2. Год постройки</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <list id="11" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#565656;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Значение критерия: отображает год постройки дома;</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Система получает значения из: Жилой дом / Общие сведения / поле «Год постройки дома»;</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Сортировка полученных значений: чем меньше значение показателя (года), тем выше записи по дому в очереди.</text></li>
+    </list>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">3. Значимость капремонта конструктивных элементов в плановом году</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <list id="12" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#565656;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Значение критерия: отображает значимость проведения ремонта КЭ на основании веса его ООИ;</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Система получает значения из: Справочники / Капитальный ремонт / ООИ / ООИ / поле «Вес»;</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Сортировка полученных значений: чем больше вес ООИ, тем выше запись в очереди.</text></li>
+    </list>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">4. Потребность в проведении капремонта на дату приватизации жилого помещения</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <list id="13" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#565656;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Значение критерия: отображает потребность в проведении капремонта на дату приватизации жилого помещения;</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Формула расчета: если [Год постройки](год посл. КР) + [Межремонтный срок] &lt;= Дата приватизации первого жилого помещения, то критерий = 1, иначе критерий = 0;</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Система получает значения:</text></li>
+    </list>
+    <para styleclass="Normal" style="text-align:left; text-indent:0px; margin-right:0px; margin-left:13px; tabstops:none;"><text styleclass="Normal" translate="true">по [Год постройки] (год посл. КР) из: Жилой дом / Конструктивные характеристики / поле «Год установки или последнего капремонта» (учитывается наибольшее значение года КЭ по ООИ дома, если все поля пустые, то система берет значение поля «Год постройки дома», если «Год постройки дома» пустой, то критерий = 0);</text></para>
+    <para styleclass="Normal" style="text-align:left; text-indent:0px; margin-right:0px; margin-left:13px; tabstops:none;"><text styleclass="Normal" translate="true">по [Межремонтный срок] из: Справочники / Капитальный ремонт / ООИ / КЭ / поле «Срок эксплуатации» - учитывать наибольшее значение КЭ по ООИ дома;</text></para>
+    <para styleclass="Normal" style="text-align:left; text-indent:0px; margin-right:0px; margin-left:13px; tabstops:none;"><text styleclass="Normal" translate="true">по «Дата приватизации первого жилого помещения» из Жилой дом / Общие сведения / поле «Дата приватизации первого жилого помещения».</text></para>
+    <list id="13" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#565656;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Сортировка полученных значений: чем больше значение критерия, тем выше записи по дому в очереди.</text></li>
+    </list>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">5. Год последнего капремонта</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <list id="14" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#565656;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Значение критерия: отображает дату последнего ремонта среди всех КЭ ООИ в рамках дома;</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Система получает значения из: Жилой дом / Конструктивные характеристики / поле «Год установки или последнего капремонта» из всех КЭ;</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Сортировка полученных значений: чем меньше год последнего ремонта КЭ, тем выше запись в очереди.</text></li>
+    </list>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">6. Плотность населения</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <list id="15" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#565656;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Значение критерия: отображает количество человек на кв.м. общей площади дома;</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Формула расчета: Плотность населения = «Количество проживающих» / «Общая площадь МКД»;</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Система получает значения: </text></li>
+    </list>
+    <para styleclass="Normal" style="text-align:left; text-indent:0px; margin-right:0px; margin-left:13px; tabstops:none;"><text styleclass="Normal" translate="true">по «Количество проживающих» из: Жилой дом / Общие сведения / поле «Количество проживающих»;</text></para>
+    <para styleclass="Normal" style="text-align:left; text-indent:0px; margin-right:0px; margin-left:13px; tabstops:none;"><text styleclass="Normal" translate="true">по «Общая площадь МКД» из: Жилой дом / Общие сведения / поле «Общая площадь МКД»;</text></para>
+    <list id="15" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-align:left; text-indent:10px; margin-right:0px; margin-left:0px; tabstops:none; font-family:Symbol; font-size:10pt; color:#565656;">
+      <li styleclass="Normal" style="text-align:left; text-indent:10px; margin-right:0px; margin-left:0px; tabstops:none;"><text styleclass="Normal" translate="true">Сортировка полученных значений: чем больше значение критерия, тем выше запись в очереди.</text></li>
+    </list>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">7. Количество работ в рамках комплексного ремонта</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <list id="15" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-align:left; text-indent:10px; margin-right:0px; margin-left:0px; tabstops:none; font-family:Symbol; font-size:10pt; color:#565656;">
+      <li styleclass="Normal" style="text-align:left; text-indent:10px; margin-right:0px; margin-left:0px; tabstops:none;"><text styleclass="Normal" translate="true">Значение критерия: отображает общее количество работ по дому;</text></li>
+      <li styleclass="Normal" style="text-align:left; text-indent:10px; margin-right:0px; margin-left:0px; tabstops:none;"><text styleclass="Normal" translate="true">Система получает значения из: Капитальный ремонт / Региональная программа / Долгосрочная программа</text></li>
+      <li styleclass="Normal" style="text-align:left; text-indent:10px; margin-right:0px; margin-left:0px; tabstops:none;"><text styleclass="Normal" translate="true">Сортировка полученных значений: чем больше работ (записей) по дому, тем выше записи по нему в очереди.</text></li>
+    </list>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">8. Степень износа объекта недвижимости</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <list id="16" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#565656;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Значение критерия: отображает физический износ дома;</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Система получает значения из: Жилой дом / Общие сведения / поле «Физический износ»;</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Сортировка полученных значений: чем больше значение данного показателя, тем выше записи по дому в очереди.</text></li>
+    </list>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">9. Дата инвентаризации</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <list id="17" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#565656;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Значение критерия: отображает дату последнего обследования дома;</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Система получает значения из: Жилой дом / Общие сведения / поле «Дата тех. обследования»;</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Сортировка полученных значений: чем меньше дата технического обследования дома, тем выше записи по нему в очереди.</text></li>
+    </list>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">10. Срок эксплуатации</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <list id="18" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#565656;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Значение критерия: отображает срок эксплуатации жилого дома (в днях);</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Формула расчета: срок эксплуатации (дней) = Текущая дата – Дата сдачи дома в эксплуатацию;</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Система получает значения из: Жилой дом / Общие сведения / поле «Дата сдачи в эксплуатацию»;</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Сортировка полученных значений: чем больше значение данного критерия, тем выше записи по дому в очереди.</text></li>
+    </list>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">11. Критерий приватизации (с весами)</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <list id="19" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#565656;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Значение критерия: отображает взаимосвязь между датой постройки жилого дома и датой его приватизации;</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Формула расчета: дата постройки (0,7*(Дата приватизации – Дата постройки);</text></li>
+    </list>
+    <para styleclass="Normal" style="text-align:left; text-indent:0px; margin-right:0px; margin-left:13px; tabstops:none;"><text styleclass="Normal" translate="true">если значение поля «Дата приватизации первого жилого помещения» не заполнено или = 0, то Дата приватизации = 0;</text></para>
+    <para styleclass="Normal" style="text-align:left; text-indent:0px; margin-right:0px; margin-left:13px; tabstops:none;"><text styleclass="Normal" translate="true">если значение поля «Год постройки» не заполнено или = 0, то Дата постройки = 0.</text></para>
+    <list id="19" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#565656;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Система получает значения из: </text></li>
+    </list>
+    <para styleclass="Normal" style="text-align:left; text-indent:0px; margin-right:0px; margin-left:13px; tabstops:none;"><text styleclass="Normal" translate="true">по «Дата постройки» - Жилой дом / Общие сведения / поле «Год постройки»;</text></para>
+    <para styleclass="Normal" style="text-align:left; text-indent:0px; margin-right:0px; margin-left:13px; tabstops:none;"><text styleclass="Normal" translate="true">по «Дата приватизации» - поле «Дата приватизации первого жилого помещения».</text></para>
+    <list id="19" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#565656;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Сортировка полученных значений: чем больше значение данного критерия, тем выше записи по дому в очереди.</text></li>
+    </list>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Heading2"><text styleclass="Heading2" translate="true">Формирование очередности по критериям</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">В случае если расчет осуществляется на основании данных критериев очередности, необходимо в разделе </text><link displaytype="text" defaultstyle="true" type="topiclink" href="capitalnii_remont_dolgosrochnaya_programma_formirovanie_dpkr_raschet_stoimosti_rabot" styleclass="Normal" style="font-weight:normal; text-decoration:underline; color:#57769e;" translate="true">«Долгосрочная программа»<title translate="true">Раздел «Долгосрочная программа».</title></link><text styleclass="Normal" translate="true"> нажать кнопку «Очередность». В результате выполнения операции на экране откроется окно «Очередность».</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="capitalnii_remont_dolgosrochnaya_programma_ocherednost.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Добавление очередности в программу ДПКР</title></image></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Кнопки используемые в окне «Очередность»:</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><table styleclass="Warning" rowcount="4" colcount="2" style="width:100%; cell-padding:0px; page-break-inside:avoid; border-width:1px; border-spacing:0px; cell-border-width:0px; border-color:#e2e2e2; border-style:solid; background-color:#f5f5f5; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:bottom; width:2%;">
+          <para styleclass="Normal" style="text-align:left; text-indent:0px; margin-right:6px; margin-left:0px; tabstops:none;"><image src="baton_add_small.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Добавить запись</title></image></para>
+        </td>
+        <td style="vertical-align:middle;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Нажать, если добавить запись</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:bottom; width:2%;">
+          <para styleclass="Normal" style="text-align:left; text-indent:0px; margin-right:6px; margin-left:0px; tabstops:none;"><image src="baton_vigruzka_small.png" scale="100.00%" styleclass="Image Caption"></image></para>
+        </td>
+        <td style="vertical-align:middle;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Нажать, если нужно применить настройки</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:bottom; width:2%;">
+          <para styleclass="Normal"><image src="baton_close_small.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Закрыть окно</title></image></para>
+        </td>
+        <td style="vertical-align:middle;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Нажать, если нужно закрыть окно без изменений</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:bottom; width:2%;">
+          <para styleclass="Normal" style="text-align:left; text-indent:0px; margin-right:6px; margin-left:0px; tabstops:none;"><image src="baton_delete.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Удалить запись</title></image></para>
+        </td>
+        <td style="vertical-align:middle;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Нажать, если нужно удалить все значения полей реестра</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Чтобы добавить новый критерий и порядок его применения следует нажать на кнопку «Добавить» и в выпадающем списке выбрать необходимый критерий.</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="capitalnii_remont_dolgosrochnaya_programma_ocherednost_add.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Добавление критерия в очередность</title></image></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для расчета и проставления очередности следует нажать кнопку «Применить». После этого запустится процесс формирования очередности Программы и на экране появится информационное сообщение о формировании очередности.</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="capitalnii_remont_dolgosrochnaya_programma_ocherednost_add_save.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Сообщение о создании очередности</title></image></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Обратите внимание, что на экране появится реестр домов, с указанием перечня объектов общего имущества, расчетного года проведения КР и стоимости капитального ремонта объекта общего имущества выстроенные по порядку, исходя из выбранных критериев. Для сохранения изменений в Программе следует нажать кнопку «Сохранить изменения».</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+  </body>
+</topic>

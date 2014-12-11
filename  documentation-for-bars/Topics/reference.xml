@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="ilya.gladkov" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Справочники</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Справочники</text></para>
+    </header>
+    <para styleclass="Heading3"><text styleclass="Heading3" translate="true">Справочники</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для обеспечения целостности и однообразия ввода данных вся информация в Системе, которая поддается классификации и кодированию, храниться и используется в виде справочников и классификаторов.</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для вызова раздела «Справочники» следует пройти по ссылке:</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><table styleclass="Put" rowcount="1" colcount="2" style="width:100%; cell-padding:2px; cell-spacing:0px;">
+      <tr style="vertical-align:middle">
+        <td style="vertical-align:middle; width:1%; height:25px;">
+          <para styleclass="Normal" style="text-align:center;"><conditional-text type="IF" value="CHM,HTML"/><html-code width="200" height="20" translate="true"><![CDATA[<img src="baton_dekstop_main.png" width="26" height="20" alt="Главное меню" title="Главное меню" style="border:none;padding-bottom: 0px;padding-top: 3px;padding-left: 3px;padding-right: 5px;">
+]]></html-code><conditional-text type="ELSE"/><image src="baton_dekstop_main.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Главное меню</title></image><conditional-text type="END"/></para>
+        </td>
+        <td style="vertical-align:middle; width:100%; height:23px;">
+          <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Главное Меню ›› Справочники</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Справочники можно заполнять как до начала работы в Системе, так и в процессе. Но содержимое некоторых справочников лучше продумать и внести заранее, чтобы впоследствии вести учет наиболее систематизировано.</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">При заполнении справочников не рекомендуется пропускать поля, в том числе белого цвета. В случае отсутствия в Системе всей необходимой информации последующее формирование отчетности может быть проведено с ошибками.</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Справочники бывают основные и подчиненные. Подчиненные справочники содержат объекты, принадлежащие основному справочнику. Например, для справочника группы «Общие» подчиненным справочником является справочник «Муниципальные образования». Один и тот же справочник одновременно может быть, как основным, так и подчиненным.</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Сначала заполняют наиболее простые справочники: единицы измерений, должности, организационно – правовые формы, инспекторы и др., так как на эти справочники будут ссылаться более сложные справочники. Например, при выборе конструктивных элементов, единицы измерений выбираются из справочника единиц измерений, поэтому будет удобнее, если последний справочник будет заполнен раньше, чем справочник конструктивных элементов.</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для выбора справочника необходимо в дереве групп справочников раскрыть соответствующую группу справочников и выбрать необходимое наименование справочника.</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><table styleclass="Warning" rowcount="1" colcount="1" style="width:100%; cell-padding:4px; cell-spacing:1px; page-break-inside:avoid;">
+      <tr style="vertical-align:middle">
+        <td style="height:23px;">
+          <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Внимание: в Системе предусмотрена возможность настройки прав доступа к справочникам для добавления, изменения и удаления записей.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Справочники представлены в виде следующих групп:</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="line-height:2.0; font-family:Symbol; font-size:10pt; color:#565656;">
+      <li styleclass="Normal" style="line-height:2.0;"><link displaytype="text" defaultstyle="true" type="topiclink" href="reference_obshie" styleclass="Normal" translate="true">Общие<title translate="true">Общие</title></link></li>
+      <li styleclass="Normal" style="line-height:2.0;"><link displaytype="text" defaultstyle="true" type="topiclink" href="reference_gkh" styleclass="Normal" translate="true">Жилищно-коммунальное хозяйство<title translate="true">Жилищно-куммунальное хозяйство</title></link></li>
+      <li styleclass="Normal" style="line-height:2.0;"><link displaytype="text" defaultstyle="true" type="topiclink" href="reference_programmi" styleclass="Normal" translate="true">Программы<title translate="true">Программы</title></link></li>
+      <li styleclass="Normal" style="line-height:2.0;"><link displaytype="text" defaultstyle="true" type="topiclink" href="reference_capiatalnii_remont" styleclass="Normal" translate="true">Капитальный ремонт<title translate="true">Капитальный ремонт</title></link></li>
+      <li styleclass="Normal" style="line-height:2.0;"><link displaytype="text" defaultstyle="true" type="topiclink" href="reference_gil_inspekciya" styleclass="Normal" translate="true">ГЖИ<title translate="true">ГЖИ</title></link></li>
+      <li styleclass="Normal" style="line-height:2.0;"><link displaytype="text" defaultstyle="true" type="topiclink" href="reference_raskritie_informacii" styleclass="Normal" translate="true">Раскрытие информации<title translate="true">Раскрытие информации</title></link></li>
+      <li styleclass="Normal" style="line-height:2.0;"><link displaytype="text" defaultstyle="true" type="topiclink" href="reference_otopitelnii_sezon" styleclass="Normal" translate="true">Отопительный сезон<title translate="true">Отопительный сезон</title></link></li>
+      <li styleclass="Normal" style="line-height:2.0;"><link displaytype="text" defaultstyle="true" type="topiclink" href="reference_deyatelnost_tsg" styleclass="Normal" translate="true">Деятельность ТСЖ<title translate="true">Деятельность ТСЖ</title></link></li>
+      <li styleclass="Normal" style="line-height:2.0;"><link displaytype="text" defaultstyle="true" type="topiclink" href="reference_strahovanie" styleclass="Normal" translate="true">Страхование<title translate="true">Страхование</title></link></li>
+      <li styleclass="Normal" style="line-height:2.0;"><link displaytype="text" defaultstyle="true" type="topiclink" href="reference_regionalnii_fond" styleclass="Normal" translate="true">Региональный фонд<title translate="true">Региональный фонд</title></link></li>
+      <li styleclass="Normal" style="line-height:2.0;"><link displaytype="text" defaultstyle="true" type="topiclink" href="reference_pasporta" styleclass="Normal" translate="true">Паспорта<title translate="true">Паспорта</title></link></li>
+      <li styleclass="Normal" style="line-height:2.0;"><link displaytype="text" defaultstyle="true" type="topiclink" href="reference_obrasheniya" styleclass="Normal" translate="true">Обращения<title translate="true">Обращения</title></link></li>
+    </list>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+  </body>
+</topic>

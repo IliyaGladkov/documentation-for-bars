@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="ilya.gladkov" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Капитальный ремонт</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><link displaytype="text" defaultstyle="false" type="topiclink" href="capitalnii_remont" styleclass="Heading1" translate="true">Капитальный ремонт<title translate="true">Капитальный ремонт</title></link></para>
+    </header>
+    <para styleclass="Heading3"><text styleclass="Heading3" translate="true">Капитальный ремонт</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Основной программой, проводимой в Жилищном фонде является программа капитального ремонта. Специально для автоматизации полного цикла работ, от подготовки до сдачи финальной отчетности о проделанной работе по капитальному ремонту жилого объекта, разработана система «БАРС.ЖКХ - Капитальный Ремонт».</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="capitalnii_remont_logo.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Капитальный ремонт</title></image></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Программное решение «БАРС.ЖКХ - Капитальный ремонт» является мощным инструментом для автоматизации процесса формирования фонда регионального оператора капитального ремонта, осуществления контроля его распределения, формирования программ капитального ремонта и контроля их исполнения.</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+  </body>
+</topic>

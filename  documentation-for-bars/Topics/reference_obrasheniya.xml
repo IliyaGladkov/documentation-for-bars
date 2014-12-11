@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="ilya.gladkov" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Обращения</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><link displaytype="text" defaultstyle="false" type="topiclink" href="reference" styleclass="Heading1" translate="true">Справочники<title translate="true">Справочники</title></link><text styleclass="Heading1" translate="true"> / Обращения</text></para>
+    </header>
+    <para styleclass="Heading3"><text styleclass="Heading3" translate="true">Обращения</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Данная группа справочников служит для формирования детализированной информационной базы обработки обращений.</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">На основании сформированной базы объектов, в Системе осуществляется учет обращений, в разрезе видов, источников и форм поступления, а также осуществляется интеграция с системой электронного документооборота.</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="gilishnii_fond_spravochniki_obrasheniya_main.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Группа справочников Обращения</title></image></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">На основании заполненных справочников данной группы можно производить поиск информации и делать выборки в различных разрезах данных.</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">В группе представлены следующие справочники:</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:2.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <list id="13" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="line-height:2.0; font-family:Symbol; font-size:10pt; color:#565656;">
+      <li styleclass="Normal" style="line-height:2.0;"><link displaytype="text" defaultstyle="true" type="topiclink" href="reference_obrasheniya_vidi_obrashenii" styleclass="Normal" translate="true">Виды обращений<title translate="true">Виды обращений</title></link></li>
+      <li styleclass="Normal" style="line-height:2.0;"><link displaytype="text" defaultstyle="true" type="topiclink" href="reference_obrasheniya_istochniki_postuplenii" styleclass="Normal" translate="true">Источники поступлений<title translate="true">Источники поступлений</title></link></li>
+      <li styleclass="Normal" style="line-height:2.0;"><link displaytype="text" defaultstyle="true" type="topiclink" href="reference_obrasheniya_formi_postuplenii" styleclass="Normal" translate="true">Формы поступлений<title translate="true">Формы поступлений</title></link></li>
+      <li styleclass="Normal" style="line-height:2.0;"><link displaytype="text" defaultstyle="true" type="topiclink" href="reference_obrasheniya_rezolucii" styleclass="Normal" translate="true">Резолюции<title translate="true">Резолюции</title></link></li>
+    </list>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+  </body>
+</topic>

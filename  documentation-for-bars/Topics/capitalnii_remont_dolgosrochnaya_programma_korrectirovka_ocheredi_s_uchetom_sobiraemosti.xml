@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="ilya.gladkov" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">С учетом собираемости по дому</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><link displaytype="text" defaultstyle="false" type="topiclink" href="capitalnii_remont" styleclass="Heading1" translate="true">Капитальный ремонт<title translate="true">Капитальный ремонт</title></link><text styleclass="Heading1" translate="true"> / </text><link displaytype="text" defaultstyle="false" type="topiclink" href="capitalnii_remont_dolgosrochnaya_programma_korrectirovka_ocheredi" styleclass="Heading1" translate="true">Корректировка очереди<title translate="true">Корректировка очереди</title></link><text styleclass="Heading1" translate="true"> / С учетом собираемости по дому</text></para>
+    </header>
+    <para styleclass="Heading3"><text styleclass="Heading3" translate="true">Субсидирование с корректировкой очереди с учетом собираемости по дому</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="text-decoration:underline;" translate="true">Условия выполнения</text><text styleclass="Normal" translate="true">:</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <list id="3" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#565656;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Период группировки ООИ (год) = 0.</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">В разделе «Доли финансирования» пусто.</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">В разделе: Параметры программы капитального ремонта—Настройка параметров—Субсидирование—поле «Учет собираемости по дому. Значение = Используется.</text></li>
+    </list>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="text-decoration:underline;" translate="true">Описание алгоритма</text><text styleclass="Normal" translate="true">: в программу включаются записи по дому, стоимость ремонта которых в совокупности не превышает сумму сбора средств с собственников за период Региональной программы. &#160;</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="text-decoration:underline;" translate="true">Корректировка очереди</text><text styleclass="Normal" translate="true">:</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <list id="4" type="ol" listtype="decimal" formatstring="&#37;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Tahoma; font-size:10pt; color:#565656;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">По дому определяется собираемость средств собственников на проведение капитального ремонта:</text></li>
+    </list>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-style:italic;" translate="true">Собираемость по дому = Тариф по типу дома * Площадь дома,</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Где:</text></para>
+    <list id="5" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#565656;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Тариф по типу дому - это значение из раздела «Тариф по типу домов» по типу дома, к которому относится дом. Для годов, в которых определен тариф, значение учитывается &#160;по соответствующему году. Для годов, для которых тариф не определен, учитывается по наибольшему году, по которому определен тариф.</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Площадь дома - значение из паспорта жилого дома по той площади, которая выбрана в Настройках ДПКР, в поле «Расчет тарифов и собираемости средств по».</text></li>
+    </list>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <list id="4" type="ol" listtype="decimal" formatstring="&#37;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Tahoma; font-size:10pt; color:#565656;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Проверяется условие: Стоимость работ записи &lt;= (Собираемость по дому – Стоимость ремонта записей по дому с меньшим номером):</text></li>
+    </list>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <list id="3" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#565656;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Если условие выполняется, то ООИ не исключается из программы.</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Если условие не выполняется, то этот ООИ и все следующие по очереди ООИ исключаются из региональной программы.</text></li>
+    </list>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Примечание: проверка ООИ осуществляется в зависимости от веса ООИ, который указан в справочнике ООИ, в карточке ООИ в поле «Вес». Чем больше вес, тем больше вес ООИ и тем выше очередь ООИ при проверке.</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <list id="4" type="ol" listtype="decimal" formatstring="&#37;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Tahoma; font-size:10pt; color:#565656;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">После выполнения пункта 2 провидится корректировка очереди по основному алгоритму (см. описание </text><link displaytype="text" defaultstyle="true" type="topiclink" href="capitalnii_remont_dolgosrochnaya_programma_korrectirovka_ocheredi_uchetom_srokov_ekspl" styleclass="Normal" style="font-weight:normal; text-decoration:underline; color:#57769e;" translate="true">«Субсидирование с корректировкой очереди с учетом сроков эксплуатации (основной алгоритм)»<title translate="true">Раздел «Субсидирование с корректировкой очереди с учетом сроков эксплуатации (основной алгоритм)»ю</title></link><text styleclass="Normal" translate="true">.</text></li>
+    </list>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+  </body>
+</topic>

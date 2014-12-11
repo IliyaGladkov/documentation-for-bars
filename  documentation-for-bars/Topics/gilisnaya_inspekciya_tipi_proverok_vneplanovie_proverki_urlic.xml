@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="ilya.gladkov" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Внеплановые проверки</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><link displaytype="text" defaultstyle="false" type="topiclink" href="gilisnaya_inspekciya" styleclass="Heading1" translate="true">Жилищная инспекция<title translate="true">Жилищная инспекция</title></link><text styleclass="Heading1" translate="true"> / </text><link displaytype="text" defaultstyle="false" type="topiclink" href="gilisnaya_inspekciya_tipi_proverok" styleclass="Heading1" translate="true">Типы проверок<title translate="true">Типы проверок</title></link><text styleclass="Heading1" translate="true"> / Внеплановые проверки</text></para>
+    </header>
+    <para styleclass="Heading3"><text styleclass="Heading3" translate="true">Внеплановые проверки</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Предметом внеплановой проверки является:</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <list id="180" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#565656;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Соблюдение юридическим лицом, индивидуальным предпринимателем в процессе осуществления деятельности обязательных требований;</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Выполнение предписаний органов государственного контроля;</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Проведение мероприятий по предотвращению причинения вреда жизни, здоровью граждан, вреда животным, растениям, окружающей среде, по обеспечению безопасности государства, по предупреждению возникновения чрезвычайных ситуаций природного и техногенного характера, по ликвидации последствий причинения такого вреда.</text></li>
+    </list>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Основанием для проведения внеплановой проверки является:</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <list id="181" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Tahoma; font-size:10pt; color:#565656;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Истечение срока исполнения юридическим лицом, индивидуальным предпринимателем ранее выданного предписания об устранении выявленного нарушения обязательных требований;</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Поступление в органы государственного контроля (надзора), органы муниципального контроля обращений и заявлений граждан, в том числе индивидуальных предпринимателей, юридических лиц, информации от органов государственной власти, органов местного самоуправления, из средств массовой информации о следующих фактах:</text></li>
+    </list>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <list id="182" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#565656;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Возникновение угрозы причинения вреда жизни, здоровью граждан, вреда животным, растениям, окружающей среде, объектам культурного наследия (памятникам истории и культуры) народов Российской Федерации, безопасности государства, а также угрозы чрезвычайных ситуаций природного и техногенного характера;</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Причинение вреда жизни, здоровью граждан, вреда животным, растениям, окружающей среде, объектам культурного наследия(памятникам истории и культуры) народов Российской Федерации, безопасности государства, а также возникновение чрезвычайных ситуаций природного и техногенного характера;</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Нарушение прав потребителей (в случае обращения граждан, права которых нарушены).</text></li>
+    </list>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <list id="181" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Tahoma; font-size:10pt; color:#565656;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Приказ (распоряжение) руководителя органа государственного контроля (надзора), изданный в соответствии с поручениями Президента Российской Федерации, Правительства Российской Федерации и на основании требования прокурора о проведении внеплановой проверки в рамках надзора за исполнением законов по поступившим в органы прокуратуры материалам и обращениям.</text></li>
+    </list>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Внеплановая проверка субъектов малого и среднего предпринимательства в обязательном порядке должна быть согласована с прокуратурой (за исключением проверки нарушения прав потребителей). В противном случае ее проведение незаконно.</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">По результатам проверки составляется акт по установленной форме в двух экземплярах, один из которых вручается предпринимателю.</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+  </body>
+</topic>

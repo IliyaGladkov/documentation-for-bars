@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="ilya.gladkov" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd" status="Out Of Date">
+  <title translate="true">Реестр акта выполненных работ</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><link displaytype="text" defaultstyle="false" type="topiclink" href="regionalnii_operator" styleclass="Heading1" translate="true">Региональный оператор<title translate="true">Региональный оператор</title></link><text styleclass="Heading1" translate="true"> / </text><link displaytype="text" defaultstyle="false" type="topiclink" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov" styleclass="Heading1" translate="true">Обслуживание лицевых счетов абонентов<title translate="true">Обслуживание лицевых счетов абонентов</title></link><text styleclass="Heading1" translate="true"> / Реестр акта выполненных работ</text></para>
+    </header>
+    <para styleclass="Heading3"><text styleclass="Heading3" translate="true">Реестр акта выполненных работ</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Вкладка «Оплата акта выполненных работ» – Сформировать распоряжение. Распоряжение на нулевую сумму сформировать нельзя.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">После формирования, появляется сумма в реестре НВС (невыясненных сумм). Выбираем запись, выбираем акт, распоряжение, распределяем.</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">После проведения оплаты появится запись в «Обороте по кредиту» в разделе «Счет расчетов с поставщиками» и в «Счете оплат». И появится запись в акте выполненных работ – вкладка Оплата акта выполненных работ – поля «Дата оплаты», «Оплачено, руб».</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+  </body>
+</topic>

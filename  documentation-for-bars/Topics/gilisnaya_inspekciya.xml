@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="ilya.gladkov" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Жилищная инспекция</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Жилищная инспекция</text></para>
+    </header>
+    <para styleclass="Heading3"><text styleclass="Heading3" translate="true">Жилищная инспекция</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Решение «БАРС.ЖКХ-Жилищный Надзор» является модулем программного комплекса «БАРС.ЖКХ» и предназначен для автоматизации работы Государственной жилищной инспекции с единой базой жилых объектов, содержащих сведения по техническим, энергетическим и аварийным показателям по каждому объекту.</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="gilishnii_nadzor_logo.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Схема работы жилищной инспекции</title></image></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Инспектору в режиме Онлайн доступны формы протоколов и предписаний по выявленным нарушениям, а также распоряжений, актов обследования, постановлений и других документов. Из любого места, имеющего выход в Интернет, можно подключиться к системе и сообщить о факте нарушения, получить документы в унифицированной форме.</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Единая база данных инспекторской деятельности Государственной жилищной инспекции позволяет оперативно формировать отчетность, составлять планы и осуществлять мониторинг жилого фонда.</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true"> Электронный сервис соответствует требованиям Постановления Правительства РФ № 493-ФЗ от 11 июня 2013 г. и предназначен для автоматизации работы инспекторов с единой базой жилых объектов.</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+  </body>
+</topic>

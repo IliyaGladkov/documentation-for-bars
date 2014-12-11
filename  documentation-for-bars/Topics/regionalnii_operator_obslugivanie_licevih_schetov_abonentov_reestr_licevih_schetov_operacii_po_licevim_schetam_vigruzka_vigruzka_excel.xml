@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="ilya.gladkov" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Выгрузка в Excel</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><link displaytype="text" defaultstyle="false" type="topiclink" href="regionalnii_operator" styleclass="Heading1" translate="true">Региональный оператор<title translate="true">Региональный оператор</title></link><text styleclass="Heading1" translate="true"> / </text><link displaytype="text" defaultstyle="false" type="topiclink" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov" styleclass="Heading1" translate="true">Обслуживание лицевых счетов абонентов<title translate="true">Обслуживание лицевых счетов абонентов</title></link><text styleclass="Heading1" translate="true"> / </text><link displaytype="text" defaultstyle="false" type="topiclink" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov" styleclass="Heading1" translate="true">Реестр лицевых счетов<title translate="true">Реестр лицевых счетов</title></link><text styleclass="Heading1" translate="true"> / </text><link displaytype="text" defaultstyle="false" type="topiclink" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov_operacii_po_licevim_schetam" styleclass="Heading1" translate="true">Операции по лицевым счетам<title translate="true">Операции по лицевым счетам</title></link><text styleclass="Heading1" translate="true"> / </text><link displaytype="text" defaultstyle="false" type="topiclink" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_reestr_licevih_schetov_operacii_po_licevim_schetam_vigruzka" styleclass="Heading1" translate="true">Выгрузка<title translate="true">Выгрузка</title></link><text styleclass="Heading1" translate="true"> / Выгрузка в Excel</text></para>
+    </header>
+    <para styleclass="Heading3"><text styleclass="Heading3" translate="true">Выгрузка в Excel</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">В реестре лицевых счетов предусмотрена возможность выгрузки записей реестра в виде файла формата *.xlsx. Для этого следует нажать кнопку «Выгрузка в Excel», расположенную на панели инструментов.</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="reginalnii_operator_reestr_licevih_schetov_vigruzka_excel.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Выгрузка документов в Excel</title></image></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">В результате выполнения операции на экране откроется диалоговое окно сохранения файла, где выбрать пункт «Сохранить файл» и нажать кнопку «ОК».</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><table styleclass="Warning" rowcount="1" colcount="1" style="width:100%; cell-padding:6px; cell-spacing:1px; page-break-inside:avoid;">
+      <tr style="vertical-align:middle">
+        <td style="height:23px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Внимание: выгрузка осуществляется с учетом параметров фильтрации. Аналогичная выгрузка реализована в реестре жилых домов.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Далее следует открыть директорию на компьютере, в которую был сохранен файл и открыть его. В результате выполнения операции на экране откроется окно редактора Excel, содержащее документ по оплатам лицевых счетов, в экспортированном виде.</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+  </body>
+</topic>

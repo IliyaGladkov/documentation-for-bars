@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="ilya.gladkov" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Программы</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><link displaytype="text" defaultstyle="false" type="topiclink" href="reference" styleclass="Heading1" translate="true">Справочники<title translate="true">Справочники</title></link><text styleclass="Heading1" translate="true"> / Программы</text></para>
+    </header>
+    <para styleclass="Heading3"><text styleclass="Heading3" translate="true">Программы</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Данная группа справочников служит для формирования детализированной информационной базы о программах капитального ремонта, сформированных в Системе.</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="gilishnii_fond_spravochniki_programmi_main.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Группа справочников Программы</title></image></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">На основании сформированной базы объектов, в Системе осуществляется учет сведений о:</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <list id="2" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#565656;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Периодах проведения программ;</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Вариантах дальнейшего использования объектов жилищного фонда;</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Основании нецелесообразности проведения капитального ремонта;</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Источниках по программам переселения.</text></li>
+    </list>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">На основании заполненных справочников данной группы происходит расчет программы капитального ремонта.</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">В группе представлены следующие справочники:</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <list id="3" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="line-height:2.0; font-family:Symbol; font-size:10pt; color:#565656;">
+      <li styleclass="Normal" style="line-height:2.0;"><link displaytype="text" defaultstyle="true" type="topiclink" href="reference_programmi_periodi_programm" styleclass="Normal" translate="true">Периоды программ<title translate="true">Периоды программ</title></link></li>
+      <li styleclass="Normal" style="line-height:2.0;"><link displaytype="text" defaultstyle="true" type="topiclink" href="reference_programmi_varianti_dalneishego_ispolzovaniya" styleclass="Normal" translate="true">Варианты дальнейшего использования<title translate="true">Варианты дальнейшего использования</title></link></li>
+      <li styleclass="Normal" style="line-height:2.0;"><link displaytype="text" defaultstyle="true" type="topiclink" href="reference_programmi_istochniki_po_programmam_pereseleniya" styleclass="Normal" translate="true">Источники по программам переселения<title translate="true">Источники по программам переселения</title></link></li>
+    </list>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+  </body>
+</topic>

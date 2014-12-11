@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="ilya.gladkov" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Поставщики коммунальных услуг</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><link displaytype="text" defaultstyle="false" type="topiclink" href="uchastniki_processa" styleclass="Heading1" translate="true">Участники процесса<title translate="true">Участники процесса</title></link><text styleclass="Heading1" translate="true"> / </text><link displaytype="text" defaultstyle="false" type="topiclink" href="uchastniki_processa_roli_kontragenta" styleclass="Heading1" translate="true">Роли контрагента<title translate="true">Роли контрагента</title></link><text styleclass="Heading1" translate="true"> / Поставщики коммунальных услуг</text></para>
+    </header>
+    <para styleclass="Heading3"><text styleclass="Heading3" translate="true">Поставщики коммунальных услуг</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">В разработке</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>
