@@ -16,6 +16,9 @@
       <topicref type="topic" id="419834627940753" build="CHM,HTML,PDF" modified="2014-12-10T11:36:48.831Z" icon="0" href="nachalo_raboti_windows">
         <caption translate="true">Окна</caption>
       </topicref>
+      <topicref type="topic" id="419844371477834" build="CHM,HTML,PDF" modified="2014-12-11T16:08:13.224Z" icon="0" href="nachalo_raboti_windows_table">
+        <caption translate="true">Таблицы</caption>
+      </topicref>
       <topicref type="topic" id="419833067325764" build="CHM,HTML,PDF" modified="2014-12-10T11:36:54.094Z" icon="0" href="nachalo_raboti_search">
         <caption translate="true">Поиск</caption>
       </topicref>
@@ -752,6 +755,33 @@
         <caption translate="true">Роли контрагента</caption>
         <topicref type="topic" id="419558360785104" build="CHM,HTML,PDF" modified="2014-12-01T14:59:55.591Z" icon="0" href="uchastniki_processa_roli_kontragenta_upravlyaushie_organizacii">
           <caption translate="true">Управляющие организации</caption>
+          <topicref type="topic" id="419846422750160" build="ALL" modified="2014-12-11T16:44:42.773Z" icon="0" href="uchastniki_processa_roli_kontragenta_upravlyaushie_organizacii_obshie_svedeniya">
+            <caption translate="true">Общие сведения</caption>
+          </topicref>
+          <topicref type="topic" id="419848876840011" build="ALL" modified="2014-12-11T16:44:47.528Z" icon="0" href="uchastniki_processa_roli_kontragenta_upravlyaushie_organizacii_municipalnie_obrazovaniya">
+            <caption translate="true">Муниципальные образования</caption>
+          </topicref>
+          <topicref type="topic" id="419846928329416" build="ALL" modified="2014-12-11T16:44:51.803Z" icon="0" href="uchastniki_processa_roli_kontragenta_upravlyaushie_organizacii_gilie_doma">
+            <caption translate="true">Жилые дома</caption>
+          </topicref>
+          <topicref type="topic" id="419845377336369" build="ALL" modified="2014-12-11T16:44:56.173Z" icon="0" href="uchastniki_processa_roli_kontragenta_upravlyaushie_organizacii_upravlenie_domami">
+            <caption translate="true">Управление домами</caption>
+          </topicref>
+          <topicref type="topic" id="419845093125745" build="ALL" modified="2014-12-11T16:45:00.363Z" icon="0" href="uchastniki_processa_roli_kontragenta_upravlyaushie_organizacii_documenti">
+            <caption translate="true">Документы</caption>
+          </topicref>
+          <topicref type="topic" id="419845422548320" build="ALL" modified="2014-12-11T16:45:04.825Z" icon="0" href="uchastniki_processa_roli_kontragenta_upravlyaushie_organizacii_regimi_raboti">
+            <caption translate="true">Режимы работы</caption>
+          </topicref>
+          <topicref type="topic" id="419846438129817" build="ALL" modified="2014-12-11T16:45:09.934Z" icon="0" href="uchastniki_processa_roli_kontragenta_upravlyaushie_organizacii_chlenstvo_v_objedineniyah">
+            <caption translate="true">Членство в обьединениях</caption>
+          </topicref>
+          <topicref type="topic" id="419848133817862" build="ALL" modified="2014-12-11T16:45:16.603Z" icon="0" href="uchastniki_processa_roli_kontragenta_upravlyaushie_organizacii_raboti_i_uslugi">
+            <caption translate="true">Работы и услуги</caption>
+          </topicref>
+          <topicref type="topic" id="419848628940758" build="ALL" modified="2014-12-11T16:45:20.881Z" icon="0" href="uchastniki_processa_roli_kontragenta_upravlyaushie_organizacii_prekrashenie_deyatelnosti">
+            <caption translate="true">Прекращение деятельности</caption>
+          </topicref>
         </topicref>
         <topicref type="topic" id="41966629780889" build="CHM,HTML,PDF" modified="2014-12-01T14:59:55.597Z" icon="0" href="uchastniki_processa_roli_kontragenta_postavshiki_gilishnih_uslug">
           <caption translate="true">Поставщики жилишных услуг</caption>
