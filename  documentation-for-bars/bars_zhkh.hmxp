@@ -1044,6 +1044,31 @@ document.write('</frameset>');
       <file-mod href="nachalo_raboti_search.xml" build="CHM,HTML,PDF"/>
       <file-mod href="nachalo_rabot_exit.xml" build="CHM,HTML,PDF"/>
       <file-mod href="nachalo_raboti_windows_table.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_upravlyaushie_organizacii_obshie_svedeniya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_upravlyaushie_organizacii_municipalnie_obrazovaniya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_upravlyaushie_organizacii_gilie_doma.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_upravlyaushie_organizacii_upravlenie_domami.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_upravlyaushie_organizacii_documenti.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_upravlyaushie_organizacii_regimi_raboti.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_upravlyaushie_organizacii_chlenstvo_v_objedineniyah.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_upravlyaushie_organizacii_raboti_i_uslugi.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_upravlyaushie_organizacii_prekrashenie_deyatelnosti.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_podryadnie_organizacii_obshie_svedeniya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_podryadnie_organizacii_documenti.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_podryadnie_organizacii_otzivi_zakazchikov.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_podryadnie_organizacii_zaimi.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_podryadnie_organizacii_proizvodstvennie_bazi.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_podryadnie_organizacii_svedeniya_ob_uchastii_v_sro.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_podryadnie_organizacii_technika_instrumenti.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_podryadnie_organizacii_sostav_trudovih_resursov.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_podryadnie_organizacii_deyatelnost.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_organi_mestnogo_samoupravleniya_obshie_svedeniya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_organi_mestnogo_samoupravleniya_vremya_priema.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_kontragenti_kontragenti_obshie_svedeniya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_kontragenti_kontragenti_municipalnie_obrazovaniya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_kontragenti_kontragenti_kontakti.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_kontragenti_kontragenti_raschetnie_scheta.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_kontragenti_kontragenti_padegi.xml" build="CHM,HTML,PDF"/>
     </file>
     <file href="Baggage/*.*" build="ALL" filetype="baggage"/>
   </project-files>
