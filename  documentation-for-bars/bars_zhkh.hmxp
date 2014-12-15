@@ -550,7 +550,7 @@ document.write('</frameset>');
       <config-group name="ilya">
         <config-group name="gladkov">
           <config-group name="project">
-            <config-value name="lastexport">0</config-value>
+            <config-value name="lastexport">5</config-value>
           </config-group>
           <config-group name="report">
             <config-value name="type">0</config-value>
@@ -585,36 +585,36 @@ document.write('</frameset>');
       <config-value name="textasglyphs">0</config-value>
     </config-group>
     <config-group name="rtf">
-      <config-value name="papersize">A4 210 x 297 mm</config-value>
+      <config-value name="papersize">Custom Size</config-value>
       <config-value name="pageorientation">Portrait</config-value>
       <config-value name="topmargin">720</config-value>
       <config-value name="bottommargin">720</config-value>
       <config-value name="leftmargin">720</config-value>
       <config-value name="rightmargin">720</config-value>
       <config-value name="flipmargin">0</config-value>
-      <config-value name="headerfont">font-family:Arial; font-size:10pt; font-weight:normal; font-style:normal; text-decoration:none; color:#000000; </config-value>
-      <config-value name="footerfont">font-family:Arial; font-size:10pt; font-weight:normal; font-style:normal; text-decoration:none; color:#000000; </config-value>
-      <config-value name="pagenumfont">font-family:Arial; font-size:10pt; font-weight:normal; font-style:normal; text-decoration:none; color:#000000; </config-value>
-      <config-value name="chapterfont1">font-family:Arial; font-size:10pt; font-weight:normal; font-style:normal; text-decoration:none; color:#000000; </config-value>
-      <config-value name="chapternumbering1">None</config-value>
-      <config-value name="chapterbreak1">No</config-value>
-      <config-value name="chapterfont2">font-family:Arial; font-size:10pt; font-weight:normal; font-style:normal; text-decoration:none; color:#000000; </config-value>
-      <config-value name="chapternumbering2">None</config-value>
-      <config-value name="chapterbreak2">No</config-value>
-      <config-value name="chapterfont3">font-family:Arial; font-size:10pt; font-weight:normal; font-style:normal; text-decoration:none; color:#000000; </config-value>
-      <config-value name="chapternumbering3">None</config-value>
-      <config-value name="chapterbreak3">No</config-value>
-      <config-value name="chapterfont4">font-family:Arial; font-size:10pt; font-weight:normal; font-style:normal; text-decoration:none; color:#000000; </config-value>
-      <config-value name="chapternumbering4">None</config-value>
+      <config-value name="headerfont">font-family:'Times New Roman'; font-size:10pt; font-weight:normal; font-style:normal; text-decoration:none; color:#000000; </config-value>
+      <config-value name="footerfont">font-family:'Times New Roman'; font-size:10pt; font-weight:normal; font-style:normal; text-decoration:none; color:#000000; </config-value>
+      <config-value name="pagenumfont">font-family:'Times New Roman'; font-size:10pt; font-weight:normal; font-style:normal; text-decoration:none; color:#000000; </config-value>
+      <config-value name="chapterfont1">font-family:'Times New Roman'; font-size:10pt; font-weight:normal; font-style:normal; text-decoration:none; color:#000000; </config-value>
+      <config-value name="chapternumbering1">1.2.3</config-value>
+      <config-value name="chapterbreak1">Да</config-value>
+      <config-value name="chapterfont2">font-family:'Times New Roman'; font-size:10pt; font-weight:normal; font-style:normal; text-decoration:none; color:#000000; </config-value>
+      <config-value name="chapternumbering2">1.2.3</config-value>
+      <config-value name="chapterbreak2">Да</config-value>
+      <config-value name="chapterfont3">font-family:'Times New Roman'; font-size:10pt; font-weight:normal; font-style:normal; text-decoration:none; color:#000000; </config-value>
+      <config-value name="chapternumbering3">1.2.3</config-value>
+      <config-value name="chapterbreak3">Да</config-value>
+      <config-value name="chapterfont4">font-family:'Times New Roman'; font-size:10pt; font-weight:normal; font-style:normal; text-decoration:none; color:#000000; </config-value>
+      <config-value name="chapternumbering4">1.2.3</config-value>
       <config-value name="chapterbreak4">No</config-value>
       <config-value name="chapterfont5">font-family:Arial; font-size:10pt; font-weight:normal; font-style:normal; text-decoration:none; color:#000000; </config-value>
-      <config-value name="chapternumbering5">None</config-value>
+      <config-value name="chapternumbering5">1.2.3</config-value>
       <config-value name="chapterbreak5">No</config-value>
       <config-value name="chapterfont6">font-family:Arial; font-size:10pt; font-weight:normal; font-style:normal; text-decoration:none; color:#000000; </config-value>
       <config-value name="chapternumbering6">None</config-value>
       <config-value name="chapterbreak6">No</config-value>
       <config-value name="imagemarker">0</config-value>
-      <config-value name="activehyperlinks">1</config-value>
+      <config-value name="activehyperlinks">0</config-value>
       <config-value name="outputfile">..\..\..\Desktop\Projects\RTF\bars_zhkh_manual.rtf</config-value>
     </config-group>
     <variables/>
@@ -1069,6 +1069,15 @@ document.write('</frameset>');
       <file-mod href="uchastniki_processa_kontragenti_kontragenti_kontakti.xml" build="CHM,HTML,PDF"/>
       <file-mod href="uchastniki_processa_kontragenti_kontragenti_raschetnie_scheta.xml" build="CHM,HTML,PDF"/>
       <file-mod href="uchastniki_processa_kontragenti_kontragenti_padegi.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_agenti_dostavki_obshie_svedeniya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_agenti_dostavki_municipalnie_obrazovaniya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_agenti_dostavki_gilie_doma.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_raschetno_kassovie_centri_obshie_svedeniya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_raschetno_kassovie_centri_municipalnie_obrazovaniya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_raschetno_kassovie_centri_gilie_doma.xml"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_regionalnie_operatori_obshie_svedeniya.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_regionalnie_operatori_municipalnoe_obrazovanie.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="uchastniki_processa_roli_kontragenta_regionalnie_operatori_scheta.xml" build="CHM,HTML,PDF"/>
     </file>
     <file href="Baggage/*.*" build="ALL" filetype="baggage"/>
   </project-files>

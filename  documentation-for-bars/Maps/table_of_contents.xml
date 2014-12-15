@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <map xmlns:xsi="http://www.w3.org/2001/XInclude">
-  <topicref type="topic" id="419334265329424" build="CHM,HTML,PDF" modified="2014-12-01T14:54:21.155Z" icon="0" href="index">
+  <topicref type="topic" id="419334265329424" build="CHM,HTML,PDF" modified="2014-12-12T17:30:07.328Z" icon="0" href="index">
     <caption translate="true">Комплексное решение «БАРС.ЖКХ»</caption>
-    <topicref type="topic" id="419826928694203" build="CHM,HTML,PDF" modified="2014-12-09T16:20:41.093Z" icon="0" href="nachalo_raboti">
+    <topicref type="topic" id="419826928694203" build="CHM,HTML,PDF" modified="2014-12-12T17:30:13.296Z" icon="0" href="nachalo_raboti">
       <caption translate="true">Начало работы</caption>
       <topicref type="topic" id="419824679473595" build="CHM,HTML,PDF" modified="2014-12-09T16:20:49.076Z" icon="0" href="nachalo_raboti_dekstop">
         <caption translate="true">Рабочий стол</caption>
@@ -875,12 +875,39 @@
         </topicref>
         <topicref type="topic" id="419647641817321" build="CHM,HTML,PDF" modified="2014-12-01T14:59:55.617Z" icon="0" href="uchastniki_processa_roli_kontragenta_agenti_dostavki">
           <caption translate="true">Агенты доставки</caption>
+          <topicref type="topic" id="41986724605202" build="CHM,HTML,PDF" modified="2014-12-15T16:33:53.076Z" icon="0" href="uchastniki_processa_roli_kontragenta_agenti_dostavki_obshie_svedeniya">
+            <caption translate="true">Общие сведения</caption>
+          </topicref>
+          <topicref type="topic" id="419885827475793" build="CHM,HTML,PDF" modified="2014-12-15T16:33:53.091Z" icon="0" href="uchastniki_processa_roli_kontragenta_agenti_dostavki_municipalnie_obrazovaniya">
+            <caption translate="true">Муниципальные образования</caption>
+          </topicref>
+          <topicref type="topic" id="419888123403541" build="CHM,HTML,PDF" modified="2014-12-15T16:33:53.105Z" icon="0" href="uchastniki_processa_roli_kontragenta_agenti_dostavki_gilie_doma">
+            <caption translate="true">Жилые дома</caption>
+          </topicref>
         </topicref>
         <topicref type="topic" id="419644507846764" build="CHM,HTML,PDF" modified="2014-12-01T14:59:55.620Z" icon="0" href="uchastniki_processa_roli_kontragenta_raschetno_kassovie_centri">
           <caption translate="true">Расчетно-кассовые центры</caption>
+          <topicref type="topic" id="419886002396605" build="CHM,HTML,PDF" modified="2014-12-15T16:49:19.744Z" icon="0" href="uchastniki_processa_roli_kontragenta_raschetno_kassovie_centri_obshie_svedeniya">
+            <caption translate="true">Общие сведения</caption>
+          </topicref>
+          <topicref type="topic" id="41990016274342" build="CHM,HTML,PDF" modified="2014-12-15T16:49:19.760Z" icon="0" href="uchastniki_processa_roli_kontragenta_raschetno_kassovie_centri_municipalnie_obrazovaniya">
+            <caption translate="true">Муниципальные образования</caption>
+          </topicref>
+          <topicref type="topic" id="419886373617987" modified="2014-12-15T16:49:36.304Z" icon="0" href="uchastniki_processa_roli_kontragenta_raschetno_kassovie_centri_gilie_doma">
+            <caption translate="true">Жилые дома</caption>
+          </topicref>
         </topicref>
         <topicref type="topic" id="419645037304183" build="CHM,HTML,PDF" modified="2014-12-01T14:59:55.623Z" icon="0" href="uchastniki_processa_roli_kontragenta_regionalnie_operatori">
           <caption translate="true">Региональные операторы</caption>
+          <topicref type="topic" id="41989511418139" build="CHM,HTML,PDF" modified="2014-12-15T17:13:43.661Z" icon="0" href="uchastniki_processa_roli_kontragenta_regionalnie_operatori_obshie_svedeniya">
+            <caption translate="true">Общие сведения</caption>
+          </topicref>
+          <topicref type="topic" id="419888991809638" build="CHM,HTML,PDF" modified="2014-12-15T17:17:14.807Z" icon="0" href="uchastniki_processa_roli_kontragenta_regionalnie_operatori_municipalnoe_obrazovanie">
+            <caption translate="true">Муниципальные образования</caption>
+          </topicref>
+          <topicref type="topic" id="419885306807276" build="CHM,HTML,PDF" modified="2014-12-15T17:13:43.691Z" icon="0" href="uchastniki_processa_roli_kontragenta_regionalnie_operatori_scheta">
+            <caption translate="true">Счета</caption>
+          </topicref>
         </topicref>
         <topicref type="topic" id="419647455015662" build="CHM,HTML,PDF" modified="2014-12-01T14:59:55.626Z" icon="0" href="uchastniki_processa_roli_kontragenta_usloviya_obslugivaniya_kred_organizaciyami">
           <caption translate="true">Условия обслуживания кредитными организациями</caption>
