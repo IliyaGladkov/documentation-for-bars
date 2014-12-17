@@ -1042,7 +1042,6 @@ document.write('</frameset>');
       <file-mod href="nachalo_raboti_navigaciya.xml" build="CHM,HTML,PDF"/>
       <file-mod href="nachalo_raboti_windows.xml" build="CHM,HTML,PDF"/>
       <file-mod href="nachalo_raboti_search.xml" build="CHM,HTML,PDF"/>
-      <file-mod href="nachalo_rabot_exit.xml" build="CHM,HTML,PDF"/>
       <file-mod href="uchastniki_processa_roli_kontragenta_upravlyaushie_organizacii_obshie_svedeniya.xml" build="CHM,HTML,PDF"/>
       <file-mod href="uchastniki_processa_roli_kontragenta_upravlyaushie_organizacii_municipalnie_obrazovaniya.xml" build="CHM,HTML,PDF"/>
       <file-mod href="uchastniki_processa_roli_kontragenta_upravlyaushie_organizacii_gilie_doma.xml" build="CHM,HTML,PDF"/>
@@ -1078,6 +1077,7 @@ document.write('</frameset>');
       <file-mod href="uchastniki_processa_roli_kontragenta_regionalnie_operatori_municipalnoe_obrazovanie.xml" build="CHM,HTML,PDF"/>
       <file-mod href="uchastniki_processa_roli_kontragenta_regionalnie_operatori_scheta.xml" build="CHM,HTML,PDF"/>
       <file-mod href="nachalo_raboti_tablici.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="nachalo_raboti_exit.xml" build="CHM,HTML,PDF"/>
     </file>
     <file href="Baggage/*.*" build="ALL" filetype="baggage"/>
   </project-files>
