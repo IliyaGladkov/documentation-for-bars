@@ -914,6 +914,18 @@
         </topicref>
         <topicref type="topic" id="419644273443649" build="CHM,HTML,PDF" modified="2014-12-01T14:59:55.630Z" icon="0" href="uchastniki_processa_roli_kontragenta_postavshiki_resursov">
           <caption translate="true">Поставщики ресурсов</caption>
+          <topicref type="topic" id="419925922881636" build="CHM,HTML,PDF" modified="2014-12-19T15:09:47.753Z" icon="0" href="uchastniki_processa_roli_kontragenta_postavshiki_resursov_obshie_svedeniya">
+            <caption translate="true">Общие сведения</caption>
+          </topicref>
+          <topicref type="topic" id="419925134881088" build="CHM,HTML,PDF" modified="2014-12-19T15:09:47.768Z" icon="0" href="uchastniki_processa_roli_kontragenta_postavshiki_resursov_municipalnie_obrazovaniya">
+            <caption translate="true">Муниципальные образования</caption>
+          </topicref>
+          <topicref type="topic" id="419924763623947" build="CHM,HTML,PDF" modified="2014-12-19T15:09:47.783Z" icon="0" href="uchastniki_processa_roli_kontragenta_postavshiki_resursov_gilie_doma">
+            <caption translate="true">Жилые дома</caption>
+          </topicref>
+          <topicref type="topic" id="419924624967568" build="CHM,HTML,PDF" modified="2014-12-19T15:09:47.795Z" icon="0" href="uchastniki_processa_roli_kontragenta_postavshiki_resursov_dogovora_s_gilimi_domami">
+            <caption translate="true">Договора с жилыми домами</caption>
+          </topicref>
         </topicref>
       </topicref>
     </topicref>
