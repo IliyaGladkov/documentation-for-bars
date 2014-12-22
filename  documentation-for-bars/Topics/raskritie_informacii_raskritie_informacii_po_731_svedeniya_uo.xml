@@ -39,7 +39,7 @@
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">В данной вкладке отображаются общие сведения об управляющей организации.</text></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для заполнения общих сведений необходимо нажать на кнопку «Заполнить», расположенную в основной рабочей области раздела, на экране появится окно «Общие сведения». Список полей подлежащих заполнению приведен в таблице - Таблице 146. Переход к заполнению раздела осуществляется двойным щелчком мыши по его названию.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для заполнения общих сведений необходимо нажать на кнопку «Заполнить», расположенную в основной рабочей области раздела, на экране появится окно «Общие сведения». Список полей подлежащих заполнению приведен в таблице ниже. Переход к заполнению раздела осуществляется двойным щелчком мыши по его названию.</text></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal"><table styleclass="Warning" rowcount="1" colcount="1" style="width:100%; cell-padding:4px; cell-spacing:1px; page-break-inside:avoid;">
       <tr style="vertical-align:middle">
@@ -75,7 +75,7 @@
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><table styleclass="Default" rowcount="15" colcount="3" style="cell-padding:5px; page-break-inside:auto;">
       <thead style="vertical-align:top">
         <td colspan="3" style="vertical-align:middle; height:23px;">
-          <para styleclass="Normal" style="text-align:center;"><text styleclass="Normal" translate="true">Таблица 146 - Список полей окна «Общие сведения».</text></para>
+          <para styleclass="Normal" style="text-align:center;"><text styleclass="Normal" translate="true">Список полей окна «Общие сведения».</text></para>
         </td>
       </thead>
       <thead style="vertical-align:top">
@@ -251,7 +251,7 @@
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Для рейтинга управляющих организаций</text></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Во вкладке реализована возможность настройки показателей, для последующего формирования отчетности при оценке рейтинга управляющих организаций. Список полей подлежащих заполнению приведен в таблице - Таблице 147.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Во вкладке реализована возможность настройки показателей, для последующего формирования отчетности при оценке рейтинга управляющих организаций. Список полей подлежащих заполнению приведен в таблице ниже.</text></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal" style="text-align:center;"><image src="raskritie_informacii_obshie_svedeniya_dlya_reitinga.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Для рейтинга управляющих организации</title></image></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
@@ -271,7 +271,7 @@
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><table styleclass="Default" rowcount="12" colcount="3" style="cell-padding:5px; page-break-inside:auto;">
       <thead style="vertical-align:top">
         <td colspan="3" style="vertical-align:middle; height:23px;">
-          <para styleclass="Normal" style="text-align:center;"><text styleclass="Normal" translate="true">Таблица 147 - Список полей окна «Для рейтинга управляющих организаций».</text></para>
+          <para styleclass="Normal" style="text-align:center;"><text styleclass="Normal" translate="true">Список полей окна «Для рейтинга управляющих организаций».</text></para>
         </td>
       </thead>
       <thead style="vertical-align:top">
@@ -459,7 +459,7 @@
       </tr>
     </table></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Heading1"><text styleclass="Normal" translate="true">В результате выполнения операции на экране появится окно «Форма редактирования договора управления (с собственниками)». Список полей подлежащих заполнению приведен в таблице - Таблице 148.</text></para>
+    <para styleclass="Heading1"><text styleclass="Normal" translate="true">В результате выполнения операции на экране появится окно «Форма редактирования договора управления (с собственниками)». Список полей подлежащих заполнению приведен в таблице ниже.</text></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Heading1" style="text-align:center;"><image src="raskritie_informacii_svedeniya_o_rastorgnutih_dogovorah_upravlenie_domami_forma_redaktirovaniya_dogovora_upravleniya.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Форма редактирования договора управления (с собственниками)</title></image></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
@@ -527,7 +527,7 @@
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><table styleclass="Default" rowcount="13" colcount="3" style="cell-padding:5px; page-break-inside:auto;">
       <thead style="vertical-align:top">
         <td colspan="3" style="vertical-align:middle; height:23px;">
-          <para styleclass="Normal" style="text-align:center;"><text styleclass="Normal" translate="true">Таблица 148 - Список полей окна «Форма редактирования договора управления (с собственниками)».</text></para>
+          <para styleclass="Normal" style="text-align:center;"><text styleclass="Normal" translate="true">Список полей окна «Форма редактирования договора управления (с собственниками)».</text></para>
         </td>
       </thead>
       <thead style="vertical-align:top">
@@ -736,7 +736,7 @@
       </tr>
     </table></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для добавления организации, состоящую в каком-либо объединении, необходимо нажать на кнопку «Добавить». Откроется окно «Членство в объединениях». Список полей подлежащих заполнению приведен в таблице - Таблице 149.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для добавления организации, состоящую в каком-либо объединении, необходимо нажать на кнопку «Добавить». Откроется окно «Членство в объединениях». Список полей подлежащих заполнению приведен в таблице ниже.</text></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal" style="text-align:center;"><image src="raskritie_informacii_chlenstvo_v_obedineniyah_forma_chlenstvo_v_obedineniyah.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Членство в обьединениях</title></image></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
@@ -772,7 +772,7 @@
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><table styleclass="Default" rowcount="9" colcount="3" style="cell-padding:5px; page-break-inside:auto;">
       <thead style="vertical-align:top">
         <td colspan="3" style="vertical-align:middle; height:23px;">
-          <para styleclass="Normal" style="text-align:center;"><text styleclass="Normal" translate="true">Таблица 149 - Список полей окна «Членство в объединениях».</text></para>
+          <para styleclass="Normal" style="text-align:center;"><text styleclass="Normal" translate="true">Список полей окна «Членство в объединениях».</text></para>
         </td>
       </thead>
       <thead style="vertical-align:top">
@@ -911,7 +911,7 @@
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Перед добавлением данных по аудиторским проверкам необходимо выбрать систему налогообложения организации. Для этого в соответствующем поле следует нажать кнопку </text><image src="baton_search.png" scale="100.00%" styleclass="Normal"><title translate="true">Выбор элемента</title></image><text styleclass="Normal" translate="true">, на экране появится окно выбора элемента, где выбрать соответствующий тип налогообложения. Если окно не активно, то нужно загрузить документы аудиторских проверок за отчетный период.</text></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Чтобы добавить данные по аудиторским проверкам необходимо нажать на кнопку «Добавить», на экране появится окно «Форма редактирования аудиторской проверки». Список полей подлежащих заполнению приведен в таблице - Таблице 150.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Чтобы добавить данные по аудиторским проверкам необходимо нажать на кнопку «Добавить», на экране появится окно «Форма редактирования аудиторской проверки». Список полей подлежащих заполнению приведен в таблице ниже.</text></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal" style="text-align:center;"><image src="raskritie_informacii_finansovaya_deyatelnost_forma_redaktirovaniya_au_proverki.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Форма редактирования аудиторской проверки</title></image></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
@@ -971,7 +971,7 @@
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><table styleclass="Default" rowcount="5" colcount="3" style="cell-padding:5px; page-break-inside:auto;">
       <thead style="vertical-align:top">
         <td colspan="3" style="vertical-align:middle; height:23px;">
-          <para styleclass="Normal" style="text-align:center;"><text styleclass="Normal" translate="true">Таблица 150 - Список полей окна «Форма редактирования аудиторской проверки».</text></para>
+          <para styleclass="Normal" style="text-align:center;"><text styleclass="Normal" translate="true">Список полей окна «Форма редактирования аудиторской проверки».</text></para>
         </td>
       </thead>
       <thead style="vertical-align:top">
@@ -1023,7 +1023,7 @@
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><table styleclass="Default" rowcount="7" colcount="3" style="cell-padding:5px; page-break-inside:auto;">
       <thead style="vertical-align:top">
         <td colspan="3" style="vertical-align:middle; height:23px;">
-          <para styleclass="Normal" style="text-align:center;"><text styleclass="Normal" translate="true">Таблица 151 - Список полей нижней части «Для рейтинга».</text></para>
+          <para styleclass="Normal" style="text-align:center;"><text styleclass="Normal" translate="true">Список полей нижней части «Для рейтинга».</text></para>
         </td>
       </thead>
       <thead style="vertical-align:top">
@@ -1101,7 +1101,7 @@
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Документы</text></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Вкладка предназначена для загрузки документов бухгалтерской отчетности в Систему. Список полей подлежащих заполнению приведен в таблице - Таблице 152.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Вкладка предназначена для загрузки документов бухгалтерской отчетности в Систему. Список полей подлежащих заполнению приведен в таблице ниже.</text></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal"><table styleclass="Warning" rowcount="1" colcount="1" style="width:100%; cell-padding:2px; cell-spacing:1px; page-break-inside:avoid;">
       <tr style="vertical-align:middle">
@@ -1169,7 +1169,7 @@
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><table styleclass="Default" rowcount="5" colcount="3" style="cell-padding:5px; page-break-inside:auto;">
       <thead style="vertical-align:top">
         <td colspan="3" style="vertical-align:middle; height:23px;">
-          <para styleclass="Normal" style="text-align:center;"><text styleclass="Normal" translate="true">Таблица 152 - Список полей окна «Документы».</text></para>
+          <para styleclass="Normal" style="text-align:center;"><text styleclass="Normal" translate="true">Список полей окна «Документы».</text></para>
         </td>
       </thead>
       <thead style="vertical-align:top">
@@ -1399,7 +1399,7 @@
       </tr>
     </table></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для ввода сведений необходимо нажать на кнопку «Добавить», на экране появится окно «Редактирование записи», где заполнить нужные поля. Список полей подлежащих заполнению приведен в таблице - Таблице 153.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для ввода сведений необходимо нажать на кнопку «Добавить», на экране появится окно «Редактирование записи», где заполнить нужные поля. Список полей подлежащих заполнению приведен в таблице ниже.</text></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal" style="text-align:center;"><image src="raskritie_informacii_administrativnaya_otvetstvennost_redaktirovanie_zapisi.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Редактирование записи</title></image></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
@@ -1459,7 +1459,7 @@
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><table styleclass="Default" rowcount="9" colcount="3" style="cell-padding:5px; page-break-inside:auto;">
       <thead style="vertical-align:top">
         <td colspan="3" style="vertical-align:middle; height:23px;">
-          <para styleclass="Normal" style="text-align:center;"><text styleclass="Normal" translate="true">Таблица 153 - Список полей окна «Редактирование записи».</text></para>
+          <para styleclass="Normal" style="text-align:center;"><text styleclass="Normal" translate="true">Список полей окна «Редактирование записи».</text></para>
         </td>
       </thead>
       <thead style="vertical-align:top">
@@ -1556,7 +1556,7 @@
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Heading2"><text styleclass="Heading2" translate="true">Документы</text></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">В разделе «Документы» осуществляется загрузка основных нормативных документов управляющей организации. Список полей подлежащих заполнению приведен в таблице - Таблице 154.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">В разделе «Документы» осуществляется загрузка основных нормативных документов управляющей организации. Список полей подлежащих заполнению приведен в таблице ниже.</text></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal" style="text-align:center;"><image src="raskritie_informacii_documenti_main.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Документы</title></image></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
@@ -1608,7 +1608,7 @@
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><table styleclass="Default" rowcount="12" colcount="3" style="cell-padding:5px; page-break-inside:auto;">
       <thead style="vertical-align:top">
         <td colspan="3" style="vertical-align:middle; height:23px;">
-          <para styleclass="Normal" style="text-align:center;"><text styleclass="Normal" translate="true">Таблица 154 - Список полей окна «Документы».</text></para>
+          <para styleclass="Normal" style="text-align:center;"><text styleclass="Normal" translate="true">Список полей окна «Документы».</text></para>
         </td>
       </thead>
       <thead style="vertical-align:top">

@@ -119,7 +119,7 @@
       <li styleclass="Normal"><text styleclass="Normal" translate="true">Поиск по адресу дома (записи из реестра жилых домов) осуществляется путем выбора соответствующего наименования в поле «Жилой дом».</text></li>
     </list>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для добавления нового протокола МВД в реестр необходимо в окне реестра нажать кнопку «Добавить», на экране появится окно «Протокол МВД», где заполнить необходимые поля. Список полей подлежащих заполнению приведен в таблице - Таблице 137.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для добавления нового протокола МВД в реестр необходимо в окне реестра нажать кнопку «Добавить», на экране появится окно «Протокол МВД», где заполнить необходимые поля. Список полей подлежащих заполнению приведен в таблице ниже.</text></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal" style="text-align:center;"><image src="gilinspekciya_protokoli_mvd_add.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Протокол МВД</title></image></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
@@ -179,7 +179,7 @@
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><table styleclass="Default" rowcount="6" colcount="3" style="cell-padding:5px; page-break-inside:auto;">
       <thead style="vertical-align:top">
         <td colspan="3" style="vertical-align:middle; height:23px;">
-          <para styleclass="Normal" style="text-align:center;"><text styleclass="Normal" translate="true">Таблица 137 - Список полей окна «Протоколы МВД».</text></para>
+          <para styleclass="Normal" style="text-align:center;"><text styleclass="Normal" translate="true">Список полей окна «Протоколы МВД».</text></para>
         </td>
       </thead>
       <thead style="vertical-align:top">
@@ -239,7 +239,7 @@
       </tr>
     </table></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для сохранения изменений нажать кнопку «Сохранить», на экране откроется новый раздел «Протокол МВД». Список полей подлежащих заполнению приведен в таблице - Таблице 138.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для сохранения изменений нажать кнопку «Сохранить», на экране откроется новый раздел «Протокол МВД». Список полей подлежащих заполнению приведен в таблице ниже.</text></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal" style="text-align:center;"><image src="gilinspekciya_protokoli_mvd_open_protokol_mvd_main.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Протокол МВД</title></image></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
@@ -315,7 +315,7 @@
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><table styleclass="Default" rowcount="4" colcount="3" style="cell-padding:5px; page-break-inside:auto;">
       <thead style="vertical-align:top">
         <td colspan="3" style="vertical-align:middle; height:23px;">
-          <para styleclass="Normal" style="text-align:center;"><text styleclass="Normal" translate="true">Таблица 138 - Список полей раздела «Протокол МВД».</text></para>
+          <para styleclass="Normal" style="text-align:center;"><text styleclass="Normal" translate="true">Список полей раздела «Протокол МВД».</text></para>
         </td>
       </thead>
       <thead style="vertical-align:top">

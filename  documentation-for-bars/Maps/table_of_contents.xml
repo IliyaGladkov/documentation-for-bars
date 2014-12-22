@@ -28,14 +28,8 @@
     </topicref>
     <topicref type="topic" id="418844927505181" build="CHM,HTML,PDF" modified="2014-12-01T14:54:32.852Z" icon="0" href="housing">
       <caption translate="true">Жилищный фонд</caption>
-      <topicref type="topic" id="418846840776402" build="CHM,HTML,PDF" modified="2014-11-28T16:59:24.834Z" icon="0" href="podgotovka_sistemi_k_raschety_programmi">
-        <caption translate="true">Подготовка системы к расчету Программы</caption>
-      </topicref>
-      <topicref type="topic" id="418845447468557" build="CHM,HTML,PDF" modified="2014-11-28T16:59:24.843Z" icon="0" href="pasportizaciya_objectov_gilishnogo_fonda">
-        <caption translate="true">Паспортизация обьектов жилищного фонда</caption>
-        <topicref type="topic" id="418846167889439" build="CHM,HTML,PDF" modified="2014-11-28T16:59:24.853Z" icon="0" href="spravochnic_oktmo">
-          <caption translate="true">Справочник ОКТМО</caption>
-        </topicref>
+      <topicref type="topic" id="418846840776402" build="CHM,HTML,PDF" modified="2014-12-22T14:46:14.876Z" icon="0" href="podgotovka_modulya_k_rabote">
+        <caption translate="true">Подготовка модуля к работе</caption>
       </topicref>
       <topicref type="topic" id="418846207226588" build="CHM,HTML,PDF" modified="2014-11-28T16:59:24.859Z" icon="0" href="rabota_s_reestrom_gilih_domov">
         <caption translate="true">Работа с реестром жилых домов</caption>
@@ -101,7 +95,7 @@
           <topicref type="topic" id="418912531373517" build="CHM,HTML,PDF" modified="2014-11-28T17:00:00.061Z" icon="0" href="pasport_gilogo_doma_protokoli_reshenii">
             <caption translate="true">Протоколы решений</caption>
           </topicref>
-          <topicref type="topic" id="419704560002112" build="PDF" modified="2014-11-28T17:00:00.068Z" icon="0" href="pasport_gilogo_doma_protokol_reshenii_organa_gosvlasti">
+          <topicref type="topic" id="419704560002112" build="CHM,HTML,PDF" modified="2014-12-22T14:19:51.484Z" icon="0" href="pasport_gilogo_doma_protokol_reshenii_organa_gosvlasti">
             <caption translate="true">Протокол решений органа гос. власти</caption>
           </topicref>
           <topicref type="topic" id="419053924518777" build="CHM,HTML,PDF" modified="2014-11-28T17:00:00.075Z" icon="0" href="pasport_gilogo_doma_protokoli_reshenii_deistvyushie_resheniya">

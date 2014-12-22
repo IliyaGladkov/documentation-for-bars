@@ -126,6 +126,7 @@
       <config-value name="lastedited">-1</config-value>
       <config-value name="make5include">PRINT</config-value>
       <config-value name="make5status">*</config-value>
+      <config-group name="bookmarks"/>
     </config-group>
     <config-group name="html">
       <config-value name="topiceditor">1</config-value>
@@ -545,12 +546,14 @@ document.write('</frameset>');
       <config-value name="outputfile">..\..\..\Desktop\Projects\CHM\BARS_ZHKH.chm</config-value>
       <config-value name="deletetemp">1</config-value>
       <config-value name="usesecondarywindows">0</config-value>
+      <config-value name="htmlpopuptextfile">CSHelp.txt</config-value>
+      <config-value name="hhcwindowstyles">8389669</config-value>
     </config-group>
     <config-group name="user">
       <config-group name="ilya">
         <config-group name="gladkov">
           <config-group name="project">
-            <config-value name="lastexport">4</config-value>
+            <config-value name="lastexport">3</config-value>
           </config-group>
           <config-group name="report">
             <config-value name="type">0</config-value>
@@ -577,7 +580,7 @@ document.write('</frameset>');
       <config-value name="userprint">1</config-value>
       <config-value name="usercopy">0</config-value>
       <config-value name="userchange">0</config-value>
-      <config-value name="encrypt128bit">0</config-value>
+      <config-value name="encrypt128bit">1</config-value>
       <config-value name="title" translate="true">Комплексное решение «БАРС.ЖКХ»</config-value>
       <config-value name="embedfonts">0</config-value>
       <config-value name="cidfontmode">0</config-value>
@@ -632,9 +635,6 @@ document.write('</frameset>');
       <file-mod href="gilisnaya_inspekciya.xml" build="CHM,HTML,PDF"/>
       <file-mod href="reference.xml" build="CHM,HTML,PDF"/>
       <file-mod href="raskritie_informacii.xml" build="CHM,HTML,PDF"/>
-      <file-mod href="podgotovka_sistemi_k_raschety_programmi.xml" build="CHM,HTML,PDF"/>
-      <file-mod href="pasportizaciya_objectov_gilishnogo_fonda.xml" build="CHM,HTML,PDF"/>
-      <file-mod href="spravochnic_oktmo.xml" build="CHM,HTML,PDF"/>
       <file-mod href="rabota_s_reestrom_gilih_domov.xml" build="CHM,HTML,PDF"/>
       <file-mod href="dobavlenie_doma_v_reestr.xml" build="CHM,HTML,PDF"/>
       <file-mod href="pasport_gilogo_doma.xml" build="CHM,HTML,PDF"/>
@@ -1003,7 +1003,7 @@ document.write('</frameset>');
       <file-mod href="administrirovanie_import_gilih_domov.xml" build="CHM,HTML,PDF"/>
       <file-mod href="administrirovanie_import_gilih_domov_import_gilih_domov_yniversalnii.xml" build="CHM,HTML,PDF"/>
       <file-mod href="otcheti_OLAP_analitika.xml"/>
-      <file-mod href="pasport_gilogo_doma_protokol_reshenii_organa_gosvlasti.xml" build="PDF"/>
+      <file-mod href="pasport_gilogo_doma_protokol_reshenii_organa_gosvlasti.xml" build="CHM,HTML,PDF"/>
       <file-mod href="obrasheniya_mesta_problemi.xml" build="CHM,HTML,PDF"/>
       <file-mod href="reference_gkh_formi_sobstvennosti.xml" build="CHM,HTML,PDF"/>
       <file-mod href="reference_gkh_gruppi_kapitalnosti.xml" build="CHM,HTML,PDF"/>
@@ -1082,6 +1082,7 @@ document.write('</frameset>');
       <file-mod href="uchastniki_processa_roli_kontragenta_postavshiki_resursov_municipalnie_obrazovaniya.xml" build="CHM,HTML,PDF"/>
       <file-mod href="uchastniki_processa_roli_kontragenta_postavshiki_resursov_gilie_doma.xml" build="CHM,HTML,PDF"/>
       <file-mod href="uchastniki_processa_roli_kontragenta_postavshiki_resursov_dogovora_s_gilimi_domami.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="podgotovka_modulya_k_rabote.xml" build="CHM,HTML,PDF"/>
     </file>
     <file href="Baggage/*.*" build="ALL" filetype="baggage"/>
   </project-files>

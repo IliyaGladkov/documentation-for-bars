@@ -141,7 +141,7 @@
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Чтобы показать закрытые обращения следует установить «флажок» в поле выбора параметра «Показать закрытые обращения».</text></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для добавления нового обращения в реестр обращений необходимо в реестра обращений нажать кнопку «Добавить», на экране появится окно «Обращение», где заполнить необходимые поля. Список полей подлежащих заполнению приведен в таблице - Таблице 125.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для добавления нового обращения в реестр обращений необходимо в реестра обращений нажать кнопку «Добавить», на экране появится окно «Обращение», где заполнить необходимые поля. Список полей подлежащих заполнению приведен в таблице ниже.</text></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal"><table styleclass="Warning" rowcount="1" colcount="1" style="width:100%; cell-padding:2px; cell-spacing:1px; page-break-inside:avoid;">
       <tr style="vertical-align:middle">
@@ -217,7 +217,7 @@
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><table styleclass="Default" rowcount="9" colcount="3" style="cell-padding:5px; page-break-inside:auto;">
       <thead style="vertical-align:top">
         <td colspan="3" style="vertical-align:top; height:23px;">
-          <para styleclass=" " style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Таблица 125 - Список полей окна </text><text styleclass="Normal" translate="true">«</text><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Обращения</text><text styleclass="Normal" translate="true">».</text></para>
+          <para styleclass=" " style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Список полей окна </text><text styleclass="Normal" translate="true">«</text><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Обращения</text><text styleclass="Normal" translate="true">».</text></para>
         </td>
       </thead>
       <thead style="vertical-align:top">
@@ -323,12 +323,12 @@
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Heading2"><text styleclass="Heading2" translate="true">Реквизиты</text></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">В данной вкладке необходимо заполнить основные реквизиты, указанные в обращении. Список полей подлежащих заполнению приведен в таблице - Таблице 126.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">В данной вкладке необходимо заполнить основные реквизиты, указанные в обращении. Список полей подлежащих заполнению приведен в таблице ниже.</text></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><table styleclass="Default" rowcount="17" colcount="3" style="cell-padding:5px; page-break-inside:auto;">
       <thead style="vertical-align:top">
         <td colspan="3" style="vertical-align:top; height:23px;">
-          <para styleclass=" " style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Таблица 126 - Список полей окна </text><text styleclass="Normal" translate="true">«</text><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Реквизиты</text><text styleclass="Normal" translate="true">».</text></para>
+          <para styleclass=" " style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Список полей окна </text><text styleclass="Normal" translate="true">«</text><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Реквизиты</text><text styleclass="Normal" translate="true">».</text></para>
         </td>
       </thead>
       <thead style="vertical-align:top">
@@ -577,12 +577,12 @@
       </tr>
     </table></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для ввода источника поступления необходимо нажать кнопку «Добавить», на экране появится окно «Форма редактирования источника поступления», где указать источник поступления обращения. Список полей подлежащих заполнению приведен в таблице - Таблице 127.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для ввода источника поступления необходимо нажать кнопку «Добавить», на экране появится окно «Форма редактирования источника поступления», где указать источник поступления обращения. Список полей подлежащих заполнению приведен в таблице ниже.</text></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><table styleclass="Default" rowcount="6" colcount="3" style="cell-padding:5px; page-break-inside:auto;">
       <thead style="vertical-align:top">
         <td colspan="3" style="vertical-align:middle; height:23px;">
-          <para styleclass="Normal" style="text-align:center;"><text styleclass="Normal" translate="true">Таблица 127 - Список полей окна «Форма редактирования источника поступления».</text></para>
+          <para styleclass="Normal" style="text-align:center;"><text styleclass="Normal" translate="true">Список полей окна «Форма редактирования источника поступления».</text></para>
         </td>
       </thead>
       <thead style="vertical-align:top">
@@ -738,7 +738,7 @@
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Heading2"><text styleclass="Heading2" translate="true">Рассмотрение</text></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">В данной вкладке необходимо указать поручителя, выдавшего распоряжение на исполнение обращения, а также исполнителя, осуществляющего его исполнение. Список полей подлежащих заполнению приведен в таблице - Таблице 128.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">В данной вкладке необходимо указать поручителя, выдавшего распоряжение на исполнение обращения, а также исполнителя, осуществляющего его исполнение. Список полей подлежащих заполнению приведен в таблице ниже.</text></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal" style="text-align:center;"><image src="gilinspekciya_reestr_obrashenii_add_rassmotrenie.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Рассмотрение</title></image></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
@@ -774,7 +774,7 @@
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><table styleclass="Default" rowcount="12" colcount="3" style="cell-padding:5px; page-break-inside:auto;">
       <thead style="vertical-align:top">
         <td colspan="3" style="vertical-align:middle; height:23px;">
-          <para styleclass="Normal" style="text-align:center;"><text styleclass="Normal" translate="true">Таблица 128 - Список полей окна «Рассмотрение».</text></para>
+          <para styleclass="Normal" style="text-align:center;"><text styleclass="Normal" translate="true">Список полей окна «Рассмотрение».</text></para>
         </td>
       </thead>
       <thead style="vertical-align:top">
@@ -931,7 +931,7 @@
       </tr>
     </table></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для ввода данных необходимо нажать кнопку «Добавить», на экране появится окно «Проверка по обращению», где заполнить необходимые данные. Список полей подлежащих заполнению приведен в таблице - Таблице 129.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для ввода данных необходимо нажать кнопку «Добавить», на экране появится окно «Проверка по обращению», где заполнить необходимые данные. Список полей подлежащих заполнению приведен в таблице ниже.</text></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass=" " style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><image src="gilinspekciya_reestr_obrashenii_add_proverki_add_proverka.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Проверка по обращению</title></image></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
@@ -999,7 +999,7 @@
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><table styleclass="Default" rowcount="7" colcount="3" style="cell-padding:5px; page-break-inside:auto;">
       <thead style="vertical-align:top">
         <td colspan="3" style="vertical-align:middle; height:23px;">
-          <para styleclass="Normal" style="text-align:center;"><text styleclass="Normal" translate="true">Таблица 129 - Список полей окна «Проверка по обращению».</text></para>
+          <para styleclass="Normal" style="text-align:center;"><text styleclass="Normal" translate="true">Список полей окна «Проверка по обращению».</text></para>
         </td>
       </thead>
       <thead style="vertical-align:top">
@@ -1115,7 +1115,7 @@
       </tr>
     </table></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для ввода данных необходимо нажать кнопку «Добавить», на экране появится окно «Форма редактирования запроса», где заполнить необходимые поля. Список полей подлежащих заполнению приведен в таблице - Таблице 130.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для ввода данных необходимо нажать кнопку «Добавить», на экране появится окно «Форма редактирования запроса», где заполнить необходимые поля. Список полей подлежащих заполнению приведен в таблице ниже.</text></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal" style="text-align:center;"><image src="gilinspekciya_reestr_obrashenii_add_zaprosi_add.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Форма редактирования запроса</title></image></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
@@ -1175,7 +1175,7 @@
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><table styleclass="Default" rowcount="10" colcount="3" style="cell-padding:5px; page-break-inside:auto;">
       <thead style="vertical-align:top">
         <td colspan="3" style="vertical-align:middle; height:23px;">
-          <para styleclass="Normal" style="text-align:center;"><text styleclass="Normal" translate="true">Таблица 130 - Список полей окна «Форма редактирования запроса».</text></para>
+          <para styleclass="Normal" style="text-align:center;"><text styleclass="Normal" translate="true">Список полей окна «Форма редактирования запроса».</text></para>
         </td>
       </thead>
       <thead style="vertical-align:top">
@@ -1322,7 +1322,7 @@
       </tr>
     </table></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для формирования ответа по рассмотрению обращения нажать кнопку «Добавить», на экране появится окно «Ответ», где заполнить необходимые поля. Список полей подлежащих заполнению приведен в таблице - Таблице 131.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для формирования ответа по рассмотрению обращения нажать кнопку «Добавить», на экране появится окно «Ответ», где заполнить необходимые поля. Список полей подлежащих заполнению приведен в таблице ниже.</text></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal" style="text-align:center;"><image src="gilinspekciya_reestr_obrashenii_add_otveti_add.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Ответ</title></image></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
@@ -1382,7 +1382,7 @@
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><table styleclass="Default" rowcount="10" colcount="3" style="cell-padding:5px; page-break-inside:auto;">
       <thead style="vertical-align:top">
         <td colspan="3" style="vertical-align:middle; height:23px;">
-          <para styleclass="Normal" style="text-align:center;"><text styleclass="Normal" translate="true">Таблица 131 - Список полей окна «Ответ».</text></para>
+          <para styleclass="Normal" style="text-align:center;"><text styleclass="Normal" translate="true">Список полей окна «Ответ».</text></para>
         </td>
       </thead>
       <thead style="vertical-align:top">

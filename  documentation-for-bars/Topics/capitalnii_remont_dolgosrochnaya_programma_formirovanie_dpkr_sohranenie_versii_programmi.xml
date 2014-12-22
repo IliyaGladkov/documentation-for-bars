@@ -12,7 +12,7 @@
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Количество версий программы в рамках одного МО не ограничено, но все последующие этапы (</text><link displaytype="text" defaultstyle="true" type="topiclink" href="capitalnii_remont_dolgosrochnaya_programma_subsidirovanie" styleclass="Normal" style="font-weight:normal; text-decoration:underline; color:#57769e;" translate="true">Субсидирование<title translate="true">Раздел Субсидирование</title></link><text styleclass="Normal" translate="true"> и </text><link displaytype="text" defaultstyle="true" type="topiclink" href="capitalnii_remont_dolgosrochnaya_programma_publikaciya_programmi" styleclass="Normal" style="font-weight:normal; text-decoration:underline; color:#57769e;" translate="true">Опубликование<title translate="true">Раздел Публикация программы</title></link><text styleclass="Normal" translate="true">) будут проводиться в рамках основной версии программы. Версия является основной в том случае, если в поле «Основная» у нее стоит значение «Да».</text></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для сохранения версии Программы необходимо в разделе «Долгосрочной программы» нажать на кнопку «Сохранить версию программы». В результате выполнения операции на экране откроется окно «Новая версия программы», где заполнить поля данными. Список полей подлежащих заполнению приведен в таблице – Таблица 53.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для сохранения версии Программы необходимо в разделе «Долгосрочной программы» нажать на кнопку «Сохранить версию программы». В результате выполнения операции на экране откроется окно «Новая версия программы», где заполнить поля данными. Список полей подлежащих заполнению приведен в таблице ниже.</text></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal" style="text-align:center;"><image src="capitalnii_remont_dolgosrochnaya_programma_sohranit_versiu_programmi.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Сохранение версии программы</title></image></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
@@ -24,7 +24,7 @@
           <para styleclass="Normal"><image src="buton_save_small.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Сохранить изменения</title></image></para>
         </td>
         <td style="vertical-align:middle;">
-          <para styleclass="Normal" style="text-align:left;"><text styleclass="Normal" translate="true">Нажать, если нужно сохранить все изменения</text></para>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Нажать, если нужно сохранить все изменения</text></para>
         </td>
       </thead>
       <tr style="vertical-align:top">
@@ -32,7 +32,7 @@
           <para styleclass="Normal"><image src="baton_close_small.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Закрыть окно</title></image></para>
         </td>
         <td style="vertical-align:middle;">
-          <para styleclass="Normal" style="text-align:left;"><text styleclass="Normal" translate="true">Нажать, если нужно закрыть окно без изменений</text></para>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Нажать, если нужно закрыть окно без изменений</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
@@ -40,7 +40,7 @@
           <para styleclass="Normal"><image src="baton_data_small.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Выбрать дату</title></image></para>
         </td>
         <td style="vertical-align:middle;">
-          <para styleclass="Normal" style="text-align:left;"><text styleclass="Normal" translate="true">Нажать, если нужно выбрать дату</text></para>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Нажать, если нужно выбрать дату</text></para>
         </td>
       </tr>
     </table></para>
@@ -52,7 +52,7 @@
     <para styleclass="Normal"><table styleclass="Default" rowcount="5" colcount="3" style="cell-padding:5px;">
       <thead style="vertical-align:middle">
         <td colspan="3" style="height:23px;">
-          <para styleclass=" " style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Таблица 53 - Состав полей окна «Новая версия программы».</text></para>
+          <para styleclass=" " style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Состав полей окна «Новая версия программы».</text></para>
         </td>
       </thead>
       <thead style="vertical-align:top">

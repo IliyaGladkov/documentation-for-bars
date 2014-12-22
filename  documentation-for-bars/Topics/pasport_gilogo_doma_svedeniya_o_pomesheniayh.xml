@@ -49,7 +49,7 @@
       </tr>
     </table></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для добавления данных, следует в разделе «Сведения о помещениях» нажать кнопку «Добавить», после чего в открывшемся окне «Сведения о помещениях» заполнить соответствующие поля. Список полей подлежащих заполнению приведен в таблице – Таблица 10.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для добавления данных, следует в разделе «Сведения о помещениях» нажать кнопку «Добавить», после чего в открывшемся окне «Сведения о помещениях» заполнить соответствующие поля. Список полей подлежащих заполнению приведен в таблице ниже.</text></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal"><table styleclass="Warning" rowcount="1" colcount="1" style="width:100%; cell-padding:1px; cell-spacing:1px; page-break-inside:avoid;">
       <tr style="vertical-align:middle">
@@ -99,7 +99,7 @@
     <para styleclass="Normal"><table styleclass="Default" rowcount="13" colcount="3" style="width:100%; cell-padding:5px;">
       <thead style="vertical-align:middle">
         <td colspan="3" style="height:23px;">
-          <para styleclass=" " style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Таблица 10 - Состав полей формы «Сведения о помещениях».</text></para>
+          <para styleclass=" " style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Состав полей формы «Сведения о помещениях».</text></para>
         </td>
       </thead>
       <thead style="vertical-align:top">
