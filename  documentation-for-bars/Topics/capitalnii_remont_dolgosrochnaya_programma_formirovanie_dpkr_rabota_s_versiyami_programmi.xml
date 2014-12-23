@@ -136,9 +136,9 @@
       </tr>
     </table></para>
     <para styleclass="Normal"></para>
-    <para styleclass="Normal"><table styleclass="Default" rowcount="18" colcount="3" style="cell-padding:5px;">
+    <para styleclass="Normal"><table styleclass="Default" rowcount="18" colcount="2" style="cell-padding:5px;">
       <thead style="vertical-align:middle">
-        <td colspan="3" style="height:23px;">
+        <td colspan="2" style="height:23px;">
           <para styleclass="Normal" style="text-align:center;"><text styleclass="Normal" translate="true">Структура реестра «Версия программы».</text></para>
         </td>
       </thead>
@@ -146,24 +146,18 @@
         <td style="vertical-align:middle; width:20%; height:20px;">
           <para styleclass="Normal" style="text-align:center;"><text styleclass="Normal" style="font-weight:bold; color:#595959;" translate="true">Название поля</text></para>
         </td>
-        <td style="vertical-align:middle; width:15%; height:20px;">
-          <para styleclass="Normal" style="text-align:center;"><text styleclass="Normal" style="font-weight:bold; color:#595959;" translate="true">Тип поля</text></para>
-        </td>
         <td style="vertical-align:middle; height:20px;">
           <para styleclass="Normal" style="text-align:center;"><text styleclass="Normal" style="font-weight:bold; color:#595959;" translate="true">Комментарий</text></para>
         </td>
       </thead>
       <tr style="vertical-align:top">
-        <td colspan="3" style="vertical-align:middle; height:23px;">
+        <td colspan="2" style="vertical-align:middle; height:23px;">
           <para styleclass=" " style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:bold; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#595959; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Вкладка: Долгосрочная программа</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
         <td style="vertical-align:top;">
           <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Очередность</text></para>
-        </td>
-        <td style="vertical-align:top;">
-          <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Кнопка</text></para>
         </td>
         <td style="vertical-align:top;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">При нажатии на </text><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">кнопку</text><text styleclass="Normal" translate="true"> в новом окне отражается тот перечень критериев, на основании которого была сформирована очередь.</text></para>
@@ -174,18 +168,12 @@
           <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Выгрузка в Excel</text></para>
         </td>
         <td style="vertical-align:top;">
-          <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Кнопка</text></para>
-        </td>
-        <td style="vertical-align:top;">
           <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">При нажатии на кнопку выполняется выгрузка в Excel текущей версии программы</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
         <td style="vertical-align:top;">
           <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Актуализировать ДПКР</text></para>
-        </td>
-        <td style="vertical-align:top;">
-          <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Кнопка</text></para>
         </td>
         <td style="vertical-align:top;">
           <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">При нажатии на кнопку запускается процесс </text><link displaytype="text" defaultstyle="true" type="topiclink" href="capitalnii_remont_dolgosrochnaya_programma_actualizaciya_dpkr" styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">актуализации ДПКР<title translate="true">Актуализация ДПКР</title></link><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true"> (алгоритмы которого подробно рассмотрены в отдельном разделе)</text></para>
@@ -196,18 +184,12 @@
           <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Номер</text></para>
         </td>
         <td style="vertical-align:top;">
-          <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Столбец</text></para>
-        </td>
-        <td style="vertical-align:top;">
           <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Содержит порядковый номер записи в Долгосрочной программе КР</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
         <td style="vertical-align:top;">
           <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Адрес</text></para>
-        </td>
-        <td style="vertical-align:top;">
-          <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Столбец</text></para>
         </td>
         <td style="vertical-align:top;">
           <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Содержит адрес жилого дома</text></para>
@@ -218,18 +200,12 @@
           <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Объекты общего имущества</text></para>
         </td>
         <td style="vertical-align:top;">
-          <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Столбец</text></para>
-        </td>
-        <td style="vertical-align:top;">
           <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Содержит перечень ООИ, по которым должен быть проведен капитальный ремонт</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
         <td style="vertical-align:top;">
           <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Плановый год</text></para>
-        </td>
-        <td style="vertical-align:top;">
-          <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Столбец</text></para>
         </td>
         <td style="vertical-align:top;">
           <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Содержит значение планового года ремонта ООИ</text></para>
@@ -240,9 +216,6 @@
           <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Сумма</text></para>
         </td>
         <td style="vertical-align:top;">
-          <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Столбец</text></para>
-        </td>
-        <td style="vertical-align:top;">
           <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Содержит сумму работ по ремонту ООИ</text></para>
         </td>
       </tr>
@@ -251,39 +224,36 @@
           <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Изменения</text></para>
         </td>
         <td style="vertical-align:top;">
-          <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Столбец</text></para>
-        </td>
-        <td style="vertical-align:top;">
           <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Содержит отметки о изменениях, которые были внесены в запись</text></para>
         </td>
       </tr>
       <tr style="vertical-align:middle">
-        <td colspan="3" style="vertical-align:middle; height:23px;">
+        <td colspan="2" style="vertical-align:middle; height:23px;">
           <para styleclass=" " style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:bold; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Вкладка «Субсидирование»</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
-        <td colspan="3" style="vertical-align:top;">
+        <td colspan="2" style="vertical-align:top;">
           <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Содержит сведения из раздела Капитальный ремонт / Региональная программа / Субсидирование / Субсидирование</text></para>
         </td>
       </tr>
       <tr style="vertical-align:middle">
-        <td colspan="3" style="vertical-align:middle; height:23px;">
+        <td colspan="2" style="vertical-align:middle; height:23px;">
           <para styleclass=" " style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:bold; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Вкладка «Результат корректировки»</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
-        <td colspan="3" style="vertical-align:top;">
+        <td colspan="2" style="vertical-align:top;">
           <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Содержит сведения из раздела Капитальный ремонт / Региональная программа / Субсидирование / Результаты корректировки</text></para>
         </td>
       </tr>
       <tr style="vertical-align:middle">
-        <td colspan="3" style="vertical-align:middle; height:23px;">
+        <td colspan="2" style="vertical-align:middle; height:23px;">
           <para styleclass=" " style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:bold; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Вкладка «Опубликованная программа»</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
-        <td colspan="3" style="vertical-align:top;">
+        <td colspan="2" style="vertical-align:top;">
           <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Содержит сведения из раздела Капитальный ремонт / Региональная программа / Опубликованные программы</text></para>
         </td>
       </tr>

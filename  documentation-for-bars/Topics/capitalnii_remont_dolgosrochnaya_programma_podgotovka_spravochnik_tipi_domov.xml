@@ -125,18 +125,15 @@
       </tr>
     </table></para>
     <para styleclass="Normal"></para>
-    <para styleclass="Normal"><table styleclass="Default" rowcount="4" colcount="3" style="cell-padding:5px;">
+    <para styleclass="Normal"><table styleclass="Default" rowcount="4" colcount="2" style="cell-padding:5px;">
       <thead style="vertical-align:middle">
-        <td colspan="3" style="height:23px;">
+        <td colspan="2" style="height:23px;">
           <para styleclass="Normal" style="text-align:center;"><text styleclass="Normal" translate="true">Состав полей раздела «Редактирование типа дома».</text></para>
         </td>
       </thead>
       <thead style="vertical-align:top">
         <td style="vertical-align:middle; width:25%; height:20px;">
           <para styleclass="Normal" style="text-align:center;"><text styleclass="Normal" style="font-weight:bold; color:#595959;" translate="true">Название поля</text></para>
-        </td>
-        <td style="vertical-align:middle; width:17%; height:20px;">
-          <para styleclass="Normal" style="text-align:center;"><text styleclass="Normal" style="font-weight:bold; color:#595959;" translate="true">Тип поля</text></para>
         </td>
         <td style="vertical-align:middle; height:20px;">
           <para styleclass="Normal" style="text-align:center;"><text styleclass="Normal" style="font-weight:bold; color:#595959;" translate="true">Комментарий</text></para>
@@ -147,18 +144,12 @@
           <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Наименование</text></para>
         </td>
         <td style="vertical-align:top;">
-          <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Поле ввода</text></para>
-        </td>
-        <td style="vertical-align:top;">
           <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Вводится название типа дома</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
         <td style="vertical-align:top;">
           <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Предельная стоимость ремонта на кв.м. общей площади, руб.</text></para>
-        </td>
-        <td style="vertical-align:top;">
-          <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Поле ввода</text></para>
         </td>
         <td style="vertical-align:top;">
           <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Вводится значение, соответствующее предельной стоимости ремонта из расчета на кв.м. общей площади.</text></para>
@@ -213,18 +204,15 @@
       </tr>
     </table></para>
     <para styleclass="Normal"></para>
-    <para styleclass="Normal"><table styleclass="Default" rowcount="5" colcount="3" style="cell-padding:5px;">
+    <para styleclass="Normal"><table styleclass="Default" rowcount="5" colcount="2" style="cell-padding:5px;">
       <thead style="vertical-align:middle">
-        <td colspan="3" style="height:23px;">
+        <td colspan="2" style="height:23px;">
           <para styleclass=" " style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Состав полей вкладки «Общие характеристики».</text></para>
         </td>
       </thead>
       <thead style="vertical-align:top">
         <td style="vertical-align:middle; width:20%; height:20px;">
           <para styleclass="Normal" style="text-align:center;"><text styleclass="Normal" style="font-weight:bold; color:#595959;" translate="true">Название поля</text></para>
-        </td>
-        <td style="vertical-align:middle; width:20%; height:20px;">
-          <para styleclass="Normal" style="text-align:center;"><text styleclass="Normal" style="font-weight:bold; color:#595959;" translate="true">Тип поля</text></para>
         </td>
         <td style="vertical-align:middle; height:20px;">
           <para styleclass="Normal" style="text-align:center;"><text styleclass="Normal" style="font-weight:bold; color:#595959;" translate="true">Комментарий</text></para>
@@ -233,9 +221,6 @@
       <tr style="vertical-align:top">
         <td style="vertical-align:top;">
           <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Наименование</text></para>
-        </td>
-        <td style="vertical-align:top;">
-          <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Выпадающий список</text></para>
         </td>
         <td style="vertical-align:top;">
           <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Содержит название характеристики. Перечень характеристик жестко определен. Значения задаются интервально, и сравниваются со значениями полей из паспорта жилого дома (раздел </text><link displaytype="text" defaultstyle="true" type="topiclink" href="pasport_gilogo_doma_obshie_svedeniya" styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:underline; text-transform:none; vertical-align:baseline; color:#57769e; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">«Общие сведения»<title translate="true">Раздел «Общие сведения».</title></link><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">).</text></para>
@@ -248,18 +233,12 @@
           <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Минимальное значение</text></para>
         </td>
         <td style="vertical-align:top;">
-          <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Поле выбора значения</text></para>
-        </td>
-        <td style="vertical-align:top;">
           <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Вводится начальное значение интервала характеристики</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
         <td style="vertical-align:top;">
           <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Максимальное значение</text></para>
-        </td>
-        <td style="vertical-align:top;">
-          <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Поле выбора значения</text></para>
         </td>
         <td style="vertical-align:top;">
           <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Вводится конечное значение интервала характеристики</text></para>
@@ -335,18 +314,15 @@
       </tr>
     </table></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><table styleclass="Default" rowcount="5" colcount="3" style="cell-padding:5px;">
+    <para styleclass="Normal"><table styleclass="Default" rowcount="5" colcount="2" style="cell-padding:5px;">
       <thead style="vertical-align:middle">
-        <td colspan="3" style="height:23px;">
+        <td colspan="2" style="height:23px;">
           <para styleclass=" " style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Состав полей окна «Добавление конструктивных элементов».</text></para>
         </td>
       </thead>
       <thead style="vertical-align:top">
-        <td style="vertical-align:middle; width:17%; height:20px;">
+        <td style="vertical-align:middle; width:25%; height:20px;">
           <para styleclass=" " style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:bold; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#595959; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Название поля</text></para>
-        </td>
-        <td style="vertical-align:middle; width:16%; height:20px;">
-          <para styleclass=" " style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:bold; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#595959; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Тип поля</text></para>
         </td>
         <td style="vertical-align:middle; height:20px;">
           <para styleclass=" " style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:bold; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#595959; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Комментарий</text></para>
@@ -357,9 +333,6 @@
           <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Группа конструктивного элемента</text></para>
         </td>
         <td style="vertical-align:top;">
-          <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Поле данных</text></para>
-        </td>
-        <td style="vertical-align:top;">
           <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Содержит название ООИ, к которому относится выбираемый КЭ в рамках одного типа дома. Заполняется автоматически на основании справочника «ООИ». Значения сравниваются со значениями из паспорта жилого дома (раздел </text><link displaytype="text" defaultstyle="true" type="topiclink" href="pasport_gilogo_doma_konstruktivnie_harakteristiki" styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:underline; text-transform:none; vertical-align:baseline; color:#57769e; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">«Конструктивные характеристики»<title translate="true">Раздел «Конструктивные характеристики».</title></link><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">).</text></para>
         </td>
       </tr>
@@ -368,18 +341,12 @@
           <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Структурный элемент</text></para>
         </td>
         <td style="vertical-align:top;">
-          <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Поле данных</text></para>
-        </td>
-        <td style="vertical-align:top;">
           <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Содержит название КЭ. Заполняется на основании справочника ООИ.</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
         <td style="vertical-align:top;">
           <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">КЭ присутствует/отсутствует в доме</text></para>
-        </td>
-        <td style="vertical-align:top;">
-          <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Поле данных</text></para>
         </td>
         <td style="vertical-align:top;">
           <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Значение данного параметра указывает на присутствие (есть галочка) / отсутствие (нет галочки) КЭ в </text><link displaytype="text" defaultstyle="true" type="topiclink" href="pasport_gilogo_doma" styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:underline; text-transform:none; vertical-align:baseline; color:#57769e; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">паспорте жилого дома<title translate="true">Раздел Паспорт жилого дома</title></link><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">.</text></para>

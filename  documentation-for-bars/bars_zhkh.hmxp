@@ -126,7 +126,6 @@
       <config-value name="lastedited">-1</config-value>
       <config-value name="make5include">PRINT</config-value>
       <config-value name="make5status">*</config-value>
-      <config-group name="bookmarks"/>
     </config-group>
     <config-group name="html">
       <config-value name="topiceditor">1</config-value>
@@ -584,7 +583,7 @@ document.write('</frameset>');
       <config-value name="title" translate="true">Комплексное решение «БАРС.ЖКХ»</config-value>
       <config-value name="embedfonts">0</config-value>
       <config-value name="cidfontmode">0</config-value>
-      <config-value name="newfontsubsetting">1</config-value>
+      <config-value name="newfontsubsetting">0</config-value>
       <config-value name="textasglyphs">0</config-value>
     </config-group>
     <config-group name="rtf">
