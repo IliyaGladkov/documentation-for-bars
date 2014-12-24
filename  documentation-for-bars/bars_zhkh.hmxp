@@ -552,7 +552,7 @@ document.write('</frameset>');
       <config-group name="ilya">
         <config-group name="gladkov">
           <config-group name="project">
-            <config-value name="lastexport">3</config-value>
+            <config-value name="lastexport">4</config-value>
           </config-group>
           <config-group name="report">
             <config-value name="type">0</config-value>
@@ -582,8 +582,8 @@ document.write('</frameset>');
       <config-value name="encrypt128bit">1</config-value>
       <config-value name="title" translate="true">Комплексное решение «БАРС.ЖКХ»</config-value>
       <config-value name="embedfonts">0</config-value>
-      <config-value name="cidfontmode">0</config-value>
-      <config-value name="newfontsubsetting">0</config-value>
+      <config-value name="cidfontmode">1</config-value>
+      <config-value name="newfontsubsetting">1</config-value>
       <config-value name="textasglyphs">0</config-value>
     </config-group>
     <config-group name="rtf">
