@@ -29,7 +29,7 @@
           </export-task>
           <export-task name="Публиковать как PDF" format="PDF">
             <task-config-group name="settings">
-              <task-config-value name="outputfile">..\..\..\Desktop\Projects\PDF\BARS.ZHKH.pdf</task-config-value>
+              <task-config-value name="outputfile">..\..\..\Desktop\Projects\PDF\BARS.ZHKH.PECHAT.pdf</task-config-value>
               <task-config-value name="template">..\..\..\Downloads\EC Software\EC Software\App\H&amp;M\Templates\PDF\UserGuide_Minimalist_BlackBlue.mnl</task-config-value>
               <task-config-value name="make4include">PDF</task-config-value>
               <task-config-value name="make4status">*</task-config-value>
@@ -57,38 +57,46 @@
     </helpwindows>
     <styleclasses>
       <styleclass name="Code Example" shortcut="0">
-        <style-set media="screen" type="para">white-space:nowrap; page-break-inside:avoid;</style-set>
-        <style-set media="screen" type="text">font-family:'Courier New'; font-size:8pt;</style-set>
+        <style-set media="screen" type="para">white-space:nowrap; page-break-inside:avoid; </style-set>
+        <style-set media="screen" type="text">font-family:'Courier New'; font-size:8pt; </style-set>
       </styleclass>
       <styleclass name="Normal" shortcut="0">
-        <style-set media="screen" type="para">text-align:left; line-height:1.35;</style-set>
-        <style-set media="screen" type="text">font-family:Tahoma; font-size:10pt; color:#565656;</style-set>
+        <style-set media="screen" type="para">text-align:left; line-height:1.45; </style-set>
+        <style-set media="screen" type="text">font-family:Tahoma; font-size:9pt; color:#565656; </style-set>
       </styleclass>
       <styleclass name="Comment" parentclass="Normal" shortcut="0"/>
       <styleclass name="Heading1" parentclass="Normal" shortcut="0">
-        <style-set media="screen" type="text">color:#333333;</style-set>
+        <style-set media="screen" type="text">color:#333333; </style-set>
       </styleclass>
       <styleclass name="Heading2" parentclass="Normal" nextclass="Heading1" shortcut="0">
-        <style-set media="screen" type="para">text-align:justify; line-height:1.20;</style-set>
-        <style-set media="screen" type="text">font-family:'Trebuchet MS'; font-size:11pt; font-weight:bold; color:#426288;</style-set>
+        <style-set media="screen" type="para">text-align:justify; line-height:1.20; </style-set>
+        <style-set media="screen" type="text">font-family:'Trebuchet MS'; font-size:11pt; font-weight:bold; color:#426288; </style-set>
       </styleclass>
       <styleclass name="Heading3" parentclass="Normal" nextclass="Heading1" shortcut="0">
-        <style-set media="screen" type="para">text-align:justify; line-height:1.20;</style-set>
-        <style-set media="screen" type="text">font-family:'Trebuchet MS'; font-size:14pt; font-weight:bold; color:#466891;</style-set>
+        <style-set media="screen" type="para">text-align:justify; line-height:1.20; </style-set>
+        <style-set media="screen" type="text">font-family:'Trebuchet MS'; font-size:14pt; font-weight:bold; color:#466891; </style-set>
       </styleclass>
       <styleclass name="Image Caption" parentclass="Normal" shortcut="0">
-        <style-set media="screen" type="para">line-height:1.0; border:none;</style-set>
-        <style-set media="screen" type="text">font-size:8pt; color:#808080; background-color:#ffffff;</style-set>
+        <style-set media="screen" type="para">line-height:1.50; border:none; </style-set>
+        <style-set media="screen" type="text">font-size:8pt; color:#808080; background-color:#ffffff; </style-set>
       </styleclass>
       <styleclass name="Notes" parentclass="Normal" shortcut="0"/>
+      <styleclass name="text_butons" parentclass="Normal" nextclass="Normal" shortcut="0">
+        <style-set media="screen" type="para">line-height:1.75; </style-set>
+        <style-set media="screen" type="text">font-size:8pt; </style-set>
+      </styleclass>
       <tablestyleclass name="Default">
-        <style-set media="screen">width:100%; cell-padding:1px; cell-spacing:0px; page-break-inside:auto; border-width:1px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#b1c2d6; border-style:solid; background-color:none; head-row-background-color:#dbe9f9; alt-row-background-color:none;</style-set>
+        <style-set media="screen">width:100%; cell-padding:1px; cell-spacing:0px; page-break-inside:auto; border-width:1px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#b1c2d6; border-style:solid; background-color:none; head-row-background-color:#dbe9f9; alt-row-background-color:none; </style-set>
       </tablestyleclass>
-      <tablestyleclass name="Put" parentclass="Default">
-        <style-set media="screen">width:100%; cell-padding:0px; cell-spacing:0px; page-break-inside:avoid; border-width:1px; border-spacing:0px; cell-border-width:0px; border-color:#c0c0c0; border-style:solid; background-color:#fbfbec; head-row-background-color:none; alt-row-background-color:none;</style-set>
+      <tablestyleclass name="put" parentclass="Default">
+        <style-set media="screen">width:100%; cell-padding:4px; cell-spacing:0px; page-break-inside:avoid; border-width:1px; border-spacing:0px; cell-border-width:0px; border-color:#dadada; border-style:solid; background-color:#fbfbec; head-row-background-color:none; alt-row-background-color:none; </style-set>
       </tablestyleclass>
-      <tablestyleclass name="Warning" parentclass="Default">
-        <style-set media="screen">width:100%; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:1px; border-spacing:0px; cell-border-width:0px; border-color:#c0c0c0; border-style:solid; background-color:#f0f0f0; head-row-background-color:#f0f0f0; alt-row-background-color:none;</style-set>
+      <tablestyleclass name="warning" parentclass="Default">
+        <style-set media="screen">width:100%; cell-padding:4px; cell-spacing:0px; page-break-inside:avoid; border-width:1px; border-spacing:0px; cell-border-width:0px; border-color:#dadada; border-style:solid; background-color:#f0f0f0; head-row-background-color:#f0f0f0; alt-row-background-color:none; </style-set>
+        <style-set media="print">width:100%; cell-padding:4px; cell-spacing:0px; page-break-inside:avoid; border-width:0px; border-spacing:0px; cell-border-width:0px; border-style:none; background-color:#f0f0f0; head-row-background-color:#f0f0f0; alt-row-background-color:none; </style-set>
+      </tablestyleclass>
+      <tablestyleclass name="butons" parentclass="warning">
+        <style-set media="screen">width:100%; cell-padding:6px; cell-spacing:0px; page-break-inside:avoid; border-width:1px; border-spacing:0px; cell-border-width:0px; border-color:#e0e0e0; border-style:solid; background-color:#fbfbec; head-row-background-color:#fbfbec; alt-row-background-color:none; </style-set>
       </tablestyleclass>
     </styleclasses>
     <config-group name="project">
@@ -142,7 +150,8 @@
         <config-value name="CAPTION" translate="true">Next</config-value>
       </config-group>
       <config-group name="TOPICTEMPLATES">
-        <config-value name="Default" translate="true"><![CDATA[<%DOCTYPE%>
+        <config-value name="Default" translate="true"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+
 <html>
 <head>
    <meta http-equiv="Content-Type" content="text/html; charset=<%DOCCHARSET%>" />
@@ -150,9 +159,9 @@
    <IF_HTML><meta http-equiv="X-UA-Compatible" content="IE=edge" /></IF_HTML>
    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
    <link type="text/css" href="<%STYLESHEET%>" rel="stylesheet" />
-   <style type="text/css">
+   <style type="text/css"> 
    a:link    {color: #4e74a1;}
-   a:visited {color: #4e74a1;} 
+   a:visited {color: #4e74a1;}
   </style>
 </head>
 
@@ -191,7 +200,7 @@
 <table width="100%" height="15" border="0" cellpadding="0" cellspacing="0" style="margin-top:0px; background-repeat: repeat-x;">
   <tr>
     <td>
-       <table width="100%" height="7" border="0" cellpadding="0" cellspacing="0" style="margin-top:0px; background-image: url('line_footer.png'); background-repeat: repeat-x;">
+       <table width="100%" height="5" border="0" cellpadding="0" cellspacing="0" style="margin-top:0px; background-image: url('line_footer.png'); background-repeat: repeat-x;">
     </td>
      <td valign="middle">
       <table style="margin-top:10px; margin-bottom:0px;" width="100%"  border="0" cellspacing="0" cellpadding="0">
@@ -417,8 +426,8 @@ document.write('</frameset>');
 </html>]]></config-value>
       <config-group name="SEARCHCONSTANTS">
         <config-value name="STR_FORM_SEARCHFOR" translate="true">Search for:</config-value>
-        <config-value name="STR_FORM_SUBMIT_BUTTON" translate="true">Submit</config-value>
-        <config-value name="STR_FORM_RESULTS_PER_PAGE" translate="true">Results per page:</config-value>
+        <config-value name="STR_FORM_SUBMIT_BUTTON" translate="true">Найти</config-value>
+        <config-value name="STR_FORM_RESULTS_PER_PAGE" translate="true">Показывать страниц</config-value>
         <config-value name="STR_FORM_MATCH" translate="true">Match:</config-value>
         <config-value name="STR_FORM_ANY_SEARCH_WORDS" translate="true">any search words</config-value>
         <config-value name="STR_FORM_ALL_SEARCH_WORDS" translate="true">all search words</config-value>
@@ -456,7 +465,7 @@ document.write('</frameset>');
       <config-value name="searchexactphrase">0</config-value>
       <config-value name="searchhighlight">1</config-value>
       <config-value name="searchallowdate">0</config-value>
-      <config-value name="searchaccentinsensitive">0</config-value>
+      <config-value name="searchaccentinsensitive">1</config-value>
       <config-value name="searchsinglecase">0</config-value>
       <config-value name="defaultext">.htm</config-value>
       <config-value name="cssfile">default.css</config-value>
@@ -552,7 +561,7 @@ document.write('</frameset>');
       <config-group name="ilya">
         <config-group name="gladkov">
           <config-group name="project">
-            <config-value name="lastexport">4</config-value>
+            <config-value name="lastexport">3</config-value>
           </config-group>
           <config-group name="report">
             <config-value name="type">0</config-value>
@@ -563,7 +572,7 @@ document.write('</frameset>');
       </config-group>
     </config-group>
     <config-group name="pdf">
-      <config-value name="outputfile">..\..\..\Desktop\Projects\PDF\BARS.ZHKH.pdf</config-value>
+      <config-value name="outputfile">..\..\..\Desktop\Projects\PDF\BARS.ZHKH.PECHAT.pdf</config-value>
       <config-value name="template">..\..\..\Downloads\EC Software\EC Software\App\H&amp;M\Templates\PDF\UserGuide_Minimalist_BlackBlue.mnl</config-value>
       <config-value name="style">0</config-value>
       <config-value name="createoutline">1</config-value>
@@ -575,7 +584,7 @@ document.write('</frameset>');
       <config-value name="compression">0</config-value>
       <config-value name="jpegquality">0</config-value>
       <config-value name="openmode">1</config-value>
-      <config-value name="zoommode">0</config-value>
+      <config-value name="zoommode">1</config-value>
       <config-value name="userprint">1</config-value>
       <config-value name="usercopy">0</config-value>
       <config-value name="userchange">0</config-value>
@@ -727,7 +736,7 @@ document.write('</frameset>');
       <file-mod href="capitalnii_remont_kratkosrochnaya_programma_rabota_s_reestrom_objectov_kr_monitoring_smr_documenti.xml" build="CHM,HTML,PDF"/>
       <file-mod href="regionalnii_operator_podgotovka_modulya_k_rabote.xml" build="CHM,HTML,PDF"/>
       <file-mod href="regionalnii_operator_podgotovka_modulya_k_rabote_nastroika_rolei.xml"/>
-      <file-mod href="regionalnii_operator_podgotovka_modulya_k_rabote_importi.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="regionalnii_operator_podgotovka_modulya_k_rabote_importi.xml"/>
       <file-mod href="regionalnii_operator_podgotovka_modulya_k_rabote_razmer_vznosov_na_kr.xml" build="CHM,HTML,PDF"/>
       <file-mod href="regionalnii_operator_podgotovka_modulya_k_rabote_vivod_informacii_dlya_fizicheskih_lic.xml" build="CHM,HTML,PDF"/>
       <file-mod href="regionalnii_operator_podgotovka_modulya_k_rabote_rabota_s_reestrom_bankovskih_vipisok.xml" build="CHM,HTML,PDF"/>
