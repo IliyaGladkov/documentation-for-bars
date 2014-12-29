@@ -10,7 +10,7 @@
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Операция установки и изменения сальдо служит для формирования и учета операций по счету:</text></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <list id="13" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:9pt; color:#565656;">
+    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#565656;">
       <li styleclass="Normal"><text styleclass="Normal" translate="true">Установка сальдо (необходимо для загрузки данных в систему регионального оператора при неисполнении обязанностей ТСЖ, ЖСК при формировании фонда капитального ремонта);</text></li>
       <li styleclass="Normal"><text styleclass="Normal" translate="true">Изменение сальдо (случаи корректировки сальдо, например, согласно решениям суда).</text></li>
     </list>
@@ -18,7 +18,7 @@
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Сальдо по счету отображает размер поступлений на лицевой счет и списание средств на оплаты по лицевому счету.</text></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Положительное значение сальдо свидетельствует о задолженности абонента, отрицательное – о переплате.</text></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><table styleclass="Warning" rowcount="1" colcount="1" style="width:100%; cell-padding:6px; cell-spacing:1px; page-break-inside:avoid;">
+    <para styleclass="Normal"><table styleclass="warning" rowcount="1" colcount="1" style="width:100%; cell-padding:4px; cell-spacing:1px; page-break-inside:avoid; border-width:1px; border-spacing:1px; cell-border-width:0px; border-color:#c9c9c9; border-style:solid;">
       <tr style="vertical-align:middle">
         <td style="height:23px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Внимание: операция установки и изменения сальдо может проводиться только для одного ЛС. При выборе нескольких ЛС, на экране появится сообщение об ошибке &quot;Необходимо выбрать один лицевой счет!&quot;.</text></para>
@@ -40,13 +40,13 @@
       <tr style="vertical-align:top">
         <td>
           <para styleclass="text_butons"><image src="buton_save_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Сохранить изменения</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Сохранить. </text><text styleclass="text_butons" translate="true">Нажать, если нужно сохранить все изменения</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Сохранить. Нажать, если нужно сохранить все изменения</text></para>
           <para styleclass="text_butons"><image src="baton_close_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Закрыть окно</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Закрыть. </text><text styleclass="text_butons" translate="true">Нажать, если нужно закрыть окно без изменений</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Закрыть. Нажать, если нужно закрыть окно без изменений</text></para>
           <para styleclass="text_butons"><image src="baton_search_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Выбрать элемент из таблицы</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Выбрать элемент. </text><text styleclass="text_butons" translate="true">Нажать, если нужно выбрать элемент из таблицы</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Выбрать элемент. Нажать, если нужно выбрать элемент из таблицы</text></para>
           <para styleclass="text_butons"><image src="baton_delete_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Очистить поле</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Очистить. </text><text styleclass="text_butons" translate="true">Нажать, если нужно очистить поле от данных</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Очистить. Нажать, если нужно очистить поле от данных</text></para>
         </td>
       </tr>
     </table></para>

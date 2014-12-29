@@ -63,7 +63,7 @@
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Для более комфортного поиска проверки в разделе реализованы следующие фильтры:</text></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <list id="2" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:9pt; color:#565656;">
+    <list id="2" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#565656;">
       <li styleclass="Normal"><text styleclass="Normal" translate="true">Показать закрытые проверки - В таблице останутся проверки, которые были закрыты в прошлом;</text></li>
       <li styleclass="Normal"><text styleclass="Normal" translate="true">План - Выбирается план по которому проходит или проходила проверка;</text></li>
       <li styleclass="Normal"><text styleclass="Normal" translate="true">Инспекторы - Выбираются инспекторы, которые осуществляют или осуществляли проверку;</text></li>
@@ -98,7 +98,7 @@
       </tr>
     </table></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><table styleclass="Warning" rowcount="1" colcount="1" style="width:100%; cell-padding:2px; cell-spacing:1px; page-break-inside:avoid;">
+    <para styleclass="Normal"><table styleclass="warning" rowcount="1" colcount="1" style="width:100%; cell-padding:4px; cell-spacing:1px; page-break-inside:avoid; border-width:1px; border-spacing:1px; cell-border-width:0px; border-color:#c9c9c9; border-style:solid;">
       <tr style="vertical-align:middle">
         <td style="height:23px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Внимание: поля выделенные красным цветом подлежат обязательному заполнению.</text></para>
@@ -193,7 +193,7 @@
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Для внесения общей информации по плановой проверке юридического лица необходимо в окне «Плановая проверка юридического лица» заполнить необходимые поля в закладках:</text></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <list id="3" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:9pt; color:#565656;">
+    <list id="3" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#565656;">
       <li styleclass="Normal"><text styleclass="Normal" translate="true">Основание проверки;</text></li>
       <li styleclass="Normal"><text styleclass="Normal" translate="true">Основная информация;</text></li>
       <li styleclass="Normal"><text styleclass="Normal" translate="true">Проверяемые дома.</text></li>

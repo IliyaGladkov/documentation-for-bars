@@ -33,9 +33,9 @@
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Некоторые поставщики заполнят информацию по паспортам на портале </text><link displaytype="text" defaultstyle="true" type="weblink" href="http://1468.рф" target="_blank" styleclass="Normal" style="font-weight:normal; text-decoration:underline; color:#57769e;" translate="true">http://1468.рф<title translate="true">http://1468.рф</title></link><text styleclass="Normal" translate="true">. Для того что бы собрать полные данные по паспортам региона и не создавать паспорта вручную дважды, в Системе предусмотрена возможность загрузки паспортов с портала. </text></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для импорта данных необходимо указать следующие параметры: </text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для импорта данных необходимо указать следующие параметры:</text></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <list id="2" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:9pt; color:#565656;">
+    <list id="2" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#565656;">
       <li styleclass="Normal"><text styleclass="Normal" translate="true">Муниципальное образование – наименование муниципального образования данные по паспортам которого должны быть загружены с портала. Для выбора доступны только те значения, которые указаны в карточке оператора текущего пользователя в поле «Муниципальные образования».</text></li>
       <li styleclass="Normal"><text styleclass="Normal" translate="true">Месяц, год – период загружаемых паспортов.</text></li>
     </list>
@@ -52,7 +52,7 @@
 ]]></html-code><conditional-text type="ELSE"/><image src="baton_dekstop_main.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Главное меню</title></image><conditional-text type="END"/></para>
         </td>
         <td style="vertical-align:middle; width:100%; height:23px;">
-          <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Главное меню ›› Администрирование ›› Логи загрузок ›› Тип импорта «Импорт паспортов для 1468</text></para>
+          <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Администрирование ›› Логи загрузок ›› Тип импорта «Импорт паспортов для 1468</text></para>
         </td>
       </tr>
     </table></para>
@@ -63,20 +63,20 @@
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Требования к формату загружаемого файла:</text></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <list id="3" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:9pt; color:#565656;">
+    <list id="3" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#565656;">
       <li styleclass="Normal"><text styleclass="Normal" translate="true">Файлы КЭЦП и зашифрованного документа с данными электронного паспорта (далее - ЭП) должны иметь одинаковое наименование;</text></li>
       <li styleclass="Normal"><text styleclass="Normal" translate="true">Файлы КЭЦП и зашифрованного документа с данными ЭП должны содержать в своем имени только латинские и цифровые символы;</text></li>
-      <li styleclass="Normal"><text styleclass="Normal" translate="true">Имена файлов обмена, имена файлов КЭЦП и имена файлов контейнера должны совпадать в рамках одного контейнера и иметь вид R_O_GGGGMMDD_N, где: </text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Имена файлов обмена, имена файлов КЭЦП и имена файлов контейнера должны совпадать в рамках одного контейнера и иметь вид R_O_GGGGMMDD_N, где:</text></li>
     </list>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">R - префикс, принимающий значение MKD; </text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">R - префикс, принимающий значение MKD;</text></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">O - идентификатор отправителя информации, имеет вид: для организаций идентификатор отправителя информации представляется в виде девятнадцатиразрядного кода (ИНН и КПП юридического лица), для физических лиц - двенадцатиразрядный код (ИНН физического лица, имеющего ИНН. При отсутствии ИНН - последовательность из двенадцати нулей); </text></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">GGGG - год формирования передаваемого файла; </text></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">MM - месяц; </text></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">DD - день; </text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">DD - день;</text></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">N - идентификационный номер файла (длина - от 1 до 36 знаков. Идентификационный номер файла должен обеспечивать уникальность файла).</text></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <list id="3" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:9pt; color:#565656;">
+    <list id="3" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#565656;">
       <li styleclass="Normal"><text styleclass="Normal" translate="true">Зашифрованный файл документа обмена с данными ЭП должен иметь расширение xml,</text></li>
       <li styleclass="Normal"><text styleclass="Normal" translate="true">Файл КЭЦП должен иметь расширение crt,</text></li>
       <li styleclass="Normal"><text styleclass="Normal" translate="true">Файлы не должны быть нулевой длины,</text></li>

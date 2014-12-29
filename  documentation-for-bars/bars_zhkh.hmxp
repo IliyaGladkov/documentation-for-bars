@@ -29,7 +29,7 @@
           </export-task>
           <export-task name="Публиковать как PDF" format="PDF">
             <task-config-group name="settings">
-              <task-config-value name="outputfile">..\..\..\Desktop\Projects\PDF\BARS.ZHKH.pdf</task-config-value>
+              <task-config-value name="outputfile">..\..\..\Desktop\Projects\PDF\BARS.ZHKH.PECHAT.pdf</task-config-value>
               <task-config-value name="template">..\..\..\Downloads\EC Software\EC Software\App\H&amp;M\Templates\PDF\UserGuide_Minimalist_BlackBlue.mnl</task-config-value>
               <task-config-value name="make4include">PDF</task-config-value>
               <task-config-value name="make4status">*</task-config-value>
@@ -92,7 +92,7 @@
         <style-set media="screen">width:100%; cell-padding:4px; cell-spacing:0px; page-break-inside:avoid; border-width:1px; border-spacing:0px; cell-border-width:0px; border-color:#dadada; border-style:solid; background-color:#fbfbec; head-row-background-color:none; alt-row-background-color:none; </style-set>
       </tablestyleclass>
       <tablestyleclass name="warning" parentclass="Default">
-        <style-set media="screen">width:100%; cell-padding:4px; cell-spacing:1px; page-break-inside:avoid; border-width:1px; border-spacing:1px; cell-border-width:0px; border-color:#c9c9c9; border-style:solid; background-color:#f0f0f0; head-row-background-color:#f0f0f0; alt-row-background-color:none; </style-set>
+        <style-set media="screen">width:100%; cell-padding:4px; cell-spacing:0px; page-break-inside:avoid; border-width:1px; border-spacing:0px; cell-border-width:0px; border-color:#c9c9c9; border-style:solid; background-color:#f0f0f0; head-row-background-color:#f0f0f0; alt-row-background-color:none; </style-set>
         <style-set media="print">width:100%; cell-padding:4px; cell-spacing:0px; page-break-inside:avoid; border-width:0px; border-spacing:0px; cell-border-width:0px; border-style:none; background-color:#f0f0f0; head-row-background-color:#f0f0f0; alt-row-background-color:none; </style-set>
       </tablestyleclass>
       <tablestyleclass name="butons" parentclass="warning">
@@ -561,7 +561,7 @@ document.write('</frameset>');
       <config-group name="ilya">
         <config-group name="gladkov">
           <config-group name="project">
-            <config-value name="lastexport">0</config-value>
+            <config-value name="lastexport">4</config-value>
           </config-group>
           <config-group name="report">
             <config-value name="type">0</config-value>
@@ -572,7 +572,7 @@ document.write('</frameset>');
       </config-group>
     </config-group>
     <config-group name="pdf">
-      <config-value name="outputfile">..\..\..\Desktop\Projects\PDF\BARS.ZHKH.pdf</config-value>
+      <config-value name="outputfile">..\..\..\Desktop\Projects\PDF\BARS.ZHKH.PECHAT.pdf</config-value>
       <config-value name="template">..\..\..\Downloads\EC Software\EC Software\App\H&amp;M\Templates\PDF\UserGuide_Minimalist_BlackBlue.mnl</config-value>
       <config-value name="style">0</config-value>
       <config-value name="createoutline">1</config-value>
@@ -588,7 +588,7 @@ document.write('</frameset>');
       <config-value name="userprint">1</config-value>
       <config-value name="usercopy">0</config-value>
       <config-value name="userchange">0</config-value>
-      <config-value name="encrypt128bit">1</config-value>
+      <config-value name="encrypt128bit">0</config-value>
       <config-value name="title" translate="true">Комплексное решение «БАРС.ЖКХ»</config-value>
       <config-value name="embedfonts">0</config-value>
       <config-value name="cidfontmode">1</config-value>

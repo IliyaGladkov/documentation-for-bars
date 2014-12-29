@@ -17,7 +17,7 @@
       <li styleclass="Normal"><text styleclass="Normal" translate="true">В иных случаях, предусмотренных бюджетным законодательством Российской Федерации.</text></li>
     </list>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><table styleclass="Warning" rowcount="1" colcount="1" style="width:100%; cell-padding:6px; cell-spacing:1px; page-break-inside:avoid;">
+    <para styleclass="Normal"><table styleclass="warning" rowcount="1" colcount="1" style="width:100%; cell-padding:4px; cell-spacing:1px; page-break-inside:avoid; border-width:1px; border-spacing:1px; cell-border-width:0px; border-color:#c9c9c9; border-style:solid;">
       <tr style="vertical-align:middle">
         <td style="height:23px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Внимание: операция закрытия лицевого счета может проводиться только для одного ЛС. При выборе нескольких ЛС, на экране появится сообщение об ошибке &quot;Необходимо выбрать один лицевой счет!&quot;.</text></para>
@@ -27,7 +27,7 @@
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">В результате закрытия лицевого счета, ЛС будет присвоен статус «Закрыт».</text></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><table styleclass="Warning" rowcount="1" colcount="1" style="width:100%; cell-padding:6px; cell-spacing:1px; page-break-inside:avoid;">
+    <para styleclass="Normal"><table styleclass="warning" rowcount="1" colcount="1" style="width:100%; cell-padding:4px; cell-spacing:1px; page-break-inside:avoid; border-width:1px; border-spacing:1px; cell-border-width:0px; border-color:#c9c9c9; border-style:solid;">
       <tr style="vertical-align:middle">
         <td style="height:23px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Внимание: при закрытии ЛС, необходимо наличие записи лицевого счета с нулевой долей собственности. Значение исходящего сальдо должно быть равно нулю.</text></para>

@@ -8,7 +8,7 @@
     </header>
     <para styleclass="Heading3"><text styleclass="Heading3" translate="true">Работа с версиями Программы</text></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><table styleclass="Warning" rowcount="1" colcount="1" style="width:100%; cell-padding:6px; cell-spacing:1px; page-break-inside:avoid;">
+    <para styleclass="Normal"><table styleclass="warning" rowcount="1" colcount="1" style="width:100%; cell-padding:4px; cell-spacing:1px; page-break-inside:avoid; border-width:1px; border-spacing:1px; cell-border-width:0px; border-color:#c9c9c9; border-style:solid;">
       <tr style="vertical-align:middle">
         <td style="height:23px;">
           <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Внимание: дальнейшее формирование и корректировка Программы с учетом объемов финансирования происходит с использованием основной версии Программы.</text></para>
@@ -40,15 +40,15 @@
       <tr style="vertical-align:top">
         <td>
           <para styleclass="text_butons"><image src="baton_update_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Обновить запись</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Обновить. </text><text styleclass="text_butons" translate="true">Нажать, если нужно обновить данные в таблице</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Обновить. Нажать, если нужно обновить данные в таблице</text></para>
           <para styleclass="text_butons"><image src="baton_strelka_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Выбрать из выпадающего списка</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Выпадающий список. </text><text styleclass="text_butons" translate="true">Нажать, если нужно выбрать запись из выпадающего списка</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Выпадающий список. Нажать, если нужно выбрать запись из выпадающего списка</text></para>
           <para styleclass="text_butons"><image src="baton_edit_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Редактировать запись</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Редактировать. </text><text styleclass="text_butons" translate="true">Нажать, если нужно отредактировать существующую запись</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Редактировать. Нажать, если нужно отредактировать существующую запись</text></para>
           <para styleclass="text_butons"><image src="baton_copy_setting_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Копировать версию</title></image></para>
           <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Копировать. Нажать, если нужно скопировать версию программы</text></para>
           <para styleclass="text_butons"><image src="baton_delete.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Удалить запись</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Удалить. </text><text styleclass="text_butons" translate="true">Нажать, если нужно удалить существующую запись</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Удалить. Нажать, если нужно удалить существующую запись</text></para>
         </td>
       </tr>
     </table></para>
@@ -63,17 +63,17 @@
       <tr style="vertical-align:top">
         <td>
           <para styleclass="text_butons"><image src="baton_search_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Выбрать элемент из таблицы</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Выбрать элемент. </text><text styleclass="text_butons" translate="true">Нажать, если нужно выбрать элемент из таблицы</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Выбрать элемент. Нажать, если нужно выбрать элемент из таблицы</text></para>
           <para styleclass="text_butons"><image src="baton_delete_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Очистить поле</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Очистить. </text><text styleclass="text_butons" translate="true">Нажать, если нужно очистить поле от данных</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Очистить. Нажать, если нужно очистить поле от данных</text></para>
           <para styleclass="text_butons"><image src="baton_update_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Обновить запись</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Обновить. </text><text styleclass="text_butons" translate="true">Нажать, если нужно обновить данные в таблице</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Обновить. Нажать, если нужно обновить данные в таблице</text></para>
           <para styleclass="text_butons"><image src="baton_import_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Применить</title></image></para>
           <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Выгрузка в Excel. Нажать, если нужно выгрузить данные в Excel</text></para>
           <para styleclass="text_butons"><image src="baton_strelka_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Выбрать из выпадающего списка</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Выпадающий список. </text><text styleclass="text_butons" translate="true">Нажать, если нужно выбрать запись из выпадающего списка</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Выпадающий список. Нажать, если нужно выбрать запись из выпадающего списка</text></para>
           <para styleclass="text_butons"><image src="baton_edit_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Редактировать запись</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Редактировать. </text><text styleclass="text_butons" translate="true">Нажать, если нужно отредактировать существующую запись</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Редактировать. Нажать, если нужно отредактировать существующую запись</text></para>
         </td>
       </tr>
     </table></para>
@@ -201,7 +201,7 @@
       </tr>
     </table></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><table styleclass="Warning" rowcount="1" colcount="1" style="width:100%; cell-padding:6px; cell-spacing:1px; page-break-inside:avoid;">
+    <para styleclass="Normal"><table styleclass="warning" rowcount="1" colcount="1" style="width:100%; cell-padding:4px; cell-spacing:1px; page-break-inside:avoid; border-width:1px; border-spacing:1px; cell-border-width:0px; border-color:#c9c9c9; border-style:solid;">
       <tr style="vertical-align:middle">
         <td style="height:23px;">
           <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Внимание: в случае если необходимо изменить основную версию программы, следует зайти в реестр версий Программы, открыть форму редактирования версии Программы и в поле выбора параметра «Основная» - установить «флажок».</text></para>
@@ -209,7 +209,7 @@
       </tr>
     </table></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><table styleclass="Warning" rowcount="1" colcount="1" style="width:100%; cell-padding:4px; cell-spacing:1px; page-break-inside:avoid;">
+    <para styleclass="Normal"><table styleclass="warning" rowcount="1" colcount="1" style="width:100%; cell-padding:4px; cell-spacing:1px; page-break-inside:avoid; border-width:1px; border-spacing:1px; cell-border-width:0px; border-color:#c9c9c9; border-style:solid;">
       <tr style="vertical-align:middle">
         <td style="height:23px;">
           <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Внимание: для одного муниципального образования возможно сохранить только одну основную версию Программы.</text></para>
@@ -219,15 +219,15 @@
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Работа с версией программы подразумевает возможность выполнения следующих действий:</text></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <list id="22" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Tahoma; font-size:9pt; color:#565656;">
+    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Tahoma; font-size:10pt; color:#565656;">
       <li styleclass="Normal"><text styleclass="Normal" translate="true">Смена планового года ремонта (Версия программы / Редактировать / Плановый год). При смене года запись, у который был изменен год сохраняет свой приоритет (порядковый номер);</text></li>
     </list>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <list id="22" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Tahoma; font-size:9pt; color:#565656;">
+    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Tahoma; font-size:10pt; color:#565656;">
       <li styleclass="Normal"><text styleclass="Normal" translate="true">Смена номера (приоритета) записи Версия программы / Редактировать / Новый номер). При смене приоритета номера записи произойдет смещение всей очереди на одну позицию вниз. При этом плановый год ремонта записи останется прежним;</text></li>
     </list>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <list id="22" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Tahoma; font-size:9pt; color:#565656;">
+    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Tahoma; font-size:10pt; color:#565656;">
       <li styleclass="Normal"><text styleclass="Normal" translate="true">Процесс актуализации ДПКР (данный механизм подробно описан в разделе </text><link displaytype="text" defaultstyle="true" type="topiclink" href="capitalnii_remont_dolgosrochnaya_programma_actualizaciya_dpkr" styleclass="Normal" style="font-weight:normal; text-decoration:underline; color:#57769e;" translate="true">«Актуализация ДПКР»<title translate="true">Раздел «Актуализация ДПКР»</title></link><text styleclass="Normal" translate="true">).</text></li>
     </list>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>

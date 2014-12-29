@@ -10,7 +10,7 @@
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Для распределения невыясненных сумм следует выбрать необходимое наименование записи расчетного счета в </text><link displaytype="text" defaultstyle="true" type="topiclink" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_schet_neviyasnennih_summ" styleclass="Normal" translate="true">реестре<title translate="true">Счет невыясненных сумм</title></link><text styleclass="Normal" translate="true">, выделив её левой кнопкой мыши.</text></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><table styleclass="warning" rowcount="1" colcount="1" style="width:100%; cell-padding:4px; cell-spacing:0px; page-break-inside:avoid;">
+    <para styleclass="Normal"><table styleclass="warning" rowcount="1" colcount="1" style="width:100%; cell-padding:4px; cell-spacing:1px; page-break-inside:avoid; border-width:1px; border-spacing:1px; cell-border-width:0px; border-color:#c9c9c9; border-style:solid;">
       <tr style="vertical-align:middle">
         <td style="height:23px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Внимание: распределению подлежат записи со статусом «Не распределен»</text></para>
@@ -28,14 +28,14 @@
       <tr style="vertical-align:top">
         <td>
           <para styleclass="text_butons"><image src="baton_close_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Закрыть окно</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Закрыть. </text><text styleclass="text_butons" translate="true">Нажать, если нужно закрыть окно без изменений</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Закрыть. Нажать, если нужно закрыть окно без изменений</text></para>
           <para styleclass="text_butons"><image src="baton_strelka_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Выбрать из выпадающего списка</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Тип распределение. </text><text styleclass="text_butons" translate="true">Нажать, если нужно выбрать запись из выпадающего списка</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Тип распределение. Нажать, если нужно выбрать запись из выпадающего списка</text></para>
         </td>
       </tr>
     </table></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><table styleclass="Warning" rowcount="1" colcount="1" style="width:100%; cell-padding:6px; cell-spacing:1px; page-break-inside:avoid;">
+    <para styleclass="Normal"><table styleclass="warning" rowcount="1" colcount="1" style="width:100%; cell-padding:4px; cell-spacing:1px; page-break-inside:avoid; border-width:1px; border-spacing:1px; cell-border-width:0px; border-color:#c9c9c9; border-style:solid;">
       <tr style="vertical-align:middle">
         <td style="height:23px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Внимание: в зависимости от типа (признака) операции по расчетному счету (Приход/расход), при настройке параметров распределения, тип будет различен.</text></para>
@@ -53,13 +53,13 @@
       <tr style="vertical-align:top">
         <td>
           <para styleclass="text_butons"><image src="buton_save_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Сохранить изменения</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Сохранить. </text><text styleclass="text_butons" translate="true">Нажать, если нужно сохранить все изменения</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Сохранить. Нажать, если нужно сохранить все изменения</text></para>
           <para styleclass="text_butons"><image src="baton_close_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Закрыть окно</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Закрыть. </text><text styleclass="text_butons" translate="true">Нажать, если нужно закрыть окно без изменений</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Закрыть. Нажать, если нужно закрыть окно без изменений</text></para>
           <para styleclass="text_butons"><image src="baton_search_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Выбрать элемент из таблицы</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Выбрать элемент. </text><text styleclass="text_butons" translate="true">Нажать, если нужно выбрать элемент из таблицы</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Выбрать элемент. Нажать, если нужно выбрать элемент из таблицы</text></para>
           <para styleclass="text_butons"><image src="baton_delete_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Очистить поле</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Очистить. </text><text styleclass="text_butons" translate="true">Нажать, если нужно очистить поле от данных</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Очистить. Нажать, если нужно очистить поле от данных</text></para>
         </td>
       </tr>
     </table></para>

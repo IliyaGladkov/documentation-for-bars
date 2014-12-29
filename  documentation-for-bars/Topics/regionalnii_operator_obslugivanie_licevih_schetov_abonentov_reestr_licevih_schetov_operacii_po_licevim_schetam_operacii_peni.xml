@@ -11,7 +11,7 @@
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Операция установки и изменения пени реализована для обеспечения возможности отсрочки пени, при возникновении таких ситуаций.</text></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Пени начисляться не будут, в случае досрочного погашения долга и прочих условиях. При наличии соответствующего документа основания, пени начисляться не должны. Таким образом, для пользователя обеспечена возможность уменьшения количества дней просрочки.</text></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><table styleclass="Warning" rowcount="1" colcount="1" style="width:100%; cell-padding:6px; cell-spacing:1px; page-break-inside:avoid;">
+    <para styleclass="Normal"><table styleclass="warning" rowcount="1" colcount="1" style="width:100%; cell-padding:4px; cell-spacing:1px; page-break-inside:avoid; border-width:1px; border-spacing:1px; cell-border-width:0px; border-color:#c9c9c9; border-style:solid;">
       <tr style="vertical-align:middle">
         <td style="height:23px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Внимание: операция установки и изменения пени может проводиться только для одного ЛС, со статусом «Открыт». При выборе нескольких ЛС, на экране появится сообщение об ошибке: &quot;Необходимо выбрать один лицевой счет!&quot;. При выборе ЛС с другим статусом на экране появится сообщение: &quot;Выбранный ЛС должен иметь статус «Открыт»!&quot;.</text></para>
@@ -21,7 +21,7 @@
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Для установки или изменения пени следует:</text></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <list id="26" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Tahoma; font-size:9pt; color:#565656;">
+    <list id="2" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Tahoma; font-size:10pt; color:#565656;">
       <li styleclass="Normal"><text styleclass="Normal" translate="true">В реестре лицевых счетов выбрать наименование записи, установив «флажок» в поле выбора параметра;</text></li>
       <li styleclass="Normal"><text styleclass="Normal" translate="true">Нажать кнопку «Другие операции» и в контекстном меню второго уровня выбрать тип операции «Установка и изменение пени».</text></li>
     </list>
@@ -38,13 +38,13 @@
       <tr style="vertical-align:top">
         <td>
           <para styleclass="text_butons"><image src="buton_save_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Сохранить изменения</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Сохранить. </text><text styleclass="text_butons" translate="true">Нажать, если нужно сохранить все изменения</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Сохранить. Нажать, если нужно сохранить все изменения</text></para>
           <para styleclass="text_butons"><image src="baton_close_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Закрыть окно</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Закрыть. </text><text styleclass="text_butons" translate="true">Нажать, если нужно закрыть окно без изменений</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Закрыть. Нажать, если нужно закрыть окно без изменений</text></para>
           <para styleclass="text_butons"><image src="baton_search_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Выбрать элемент из таблицы</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Выбрать элемент. </text><text styleclass="text_butons" translate="true">Нажать, если нужно выбрать элемент из таблицы</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Выбрать элемент. Нажать, если нужно выбрать элемент из таблицы</text></para>
           <para styleclass="text_butons"><image src="baton_delete_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Очистить поле</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Очистить. </text><text styleclass="text_butons" translate="true">Нажать, если нужно очистить поле от данных</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Очистить. Нажать, если нужно очистить поле от данных</text></para>
         </td>
       </tr>
     </table></para>
@@ -103,7 +103,7 @@
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Если все обязательные поля заполнены, то при нажатии кнопки «Сохранить» в результате выполнения операции:</text></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <list id="27" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:9pt; color:#565656;">
+    <list id="3" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#565656;">
       <li styleclass="Normal"><text styleclass="Normal" translate="true">Будет рассчитана разницу (Текущее значение - Новое значение);</text></li>
       <li styleclass="Normal"><text styleclass="Normal" translate="true">В текущем периоде в гриде «Операции» следует указывать Операцию - «Установка и изменение пени» и указывать там рассчитанное значение (отобразиться только после закрытия периода);</text></li>
       <li styleclass="Normal"><text styleclass="Normal" translate="true">Значение должно быть учтено при расчете показателя «Начислено пени всего».</text></li>

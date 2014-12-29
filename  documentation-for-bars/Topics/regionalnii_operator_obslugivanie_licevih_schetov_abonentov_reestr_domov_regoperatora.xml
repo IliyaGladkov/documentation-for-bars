@@ -34,18 +34,18 @@
       <tr style="vertical-align:top">
         <td>
           <para styleclass="text_butons"><image src="baton_update_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Обновить запись</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Обновить. </text><text styleclass="text_butons" translate="true">Нажать, если нужно обновить данные в таблице</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Обновить. Нажать, если нужно обновить данные в таблице</text></para>
           <para styleclass="text_butons"><image src="baton_vigruzka_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Выгрузить начисления</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Выгрузить начисление. </text><text styleclass="text_butons" translate="true">Нажать, если нужно выгрузить начисления в Excel</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Выгрузить начисление. Нажать, если нужно выгрузить начисления в Excel</text></para>
           <para styleclass="text_butons"><image src="baton_strelka_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Выбрать из выпадающего списка</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Выпадающий список. </text><text styleclass="text_butons" translate="true">Нажать, если нужно отсортировать данные по МО</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Выпадающий список. Нажать, если нужно отсортировать данные по МО</text></para>
           <para styleclass="text_butons"><image src="baton_edit_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Редактировать запись</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Редактировать. </text><text styleclass="text_butons" translate="true">Нажать, если нужно отредактировать существующую запись</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Редактировать. Нажать, если нужно отредактировать существующую запись</text></para>
         </td>
       </tr>
     </table></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><table styleclass="Warning" rowcount="1" colcount="1" style="width:100%; cell-padding:6px; cell-spacing:1px; page-break-inside:avoid;">
+    <para styleclass="Normal"><table styleclass="warning" rowcount="1" colcount="1" style="width:100%; cell-padding:4px; cell-spacing:1px; page-break-inside:avoid; border-width:1px; border-spacing:1px; cell-border-width:0px; border-color:#c9c9c9; border-style:solid;">
       <tr style="vertical-align:middle">
         <td style="height:23px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Внимание: поле «Номер счета» остается не заполненным, если дом не добавлен в раздел </text><link displaytype="text" defaultstyle="true" type="topiclink" href="regionalnii_operator_obslugivanie_licevih_schetov_abonentov_formirovanie_regionalnogo_fonda_reg_svedenii_o_regopah" styleclass="Normal" translate="true">«Обслуживаемые дома»<title translate="true">Раздел «Регистрация сведений о региональных операторах»</title></link><text styleclass="Normal" translate="true"> ни одного из счетов регионального оператора, и при выборе способа формирования фонда указано значение: «Счет регионального оператора».</text></para>
