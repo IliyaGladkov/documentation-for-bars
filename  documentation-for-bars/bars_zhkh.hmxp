@@ -29,7 +29,7 @@
           </export-task>
           <export-task name="Публиковать как PDF" format="PDF">
             <task-config-group name="settings">
-              <task-config-value name="outputfile">..\..\..\Desktop\Projects\PDF\BARS.ZHKH.PECHAT.pdf</task-config-value>
+              <task-config-value name="outputfile">..\..\..\Desktop\Projects\PDF\BARS.ZHKH.pdf</task-config-value>
               <task-config-value name="template">..\..\..\Downloads\EC Software\EC Software\App\H&amp;M\Templates\PDF\UserGuide_Minimalist_BlackBlue.mnl</task-config-value>
               <task-config-value name="make4include">PDF</task-config-value>
               <task-config-value name="make4status">*</task-config-value>
@@ -57,46 +57,46 @@
     </helpwindows>
     <styleclasses>
       <styleclass name="Code Example" shortcut="0">
-        <style-set media="screen" type="para">white-space:nowrap; page-break-inside:avoid; </style-set>
-        <style-set media="screen" type="text">font-family:'Courier New'; font-size:8pt; </style-set>
+        <style-set media="screen" type="para">white-space:nowrap; page-break-inside:avoid;</style-set>
+        <style-set media="screen" type="text">font-family:'Courier New'; font-size:8pt;</style-set>
       </styleclass>
       <styleclass name="Normal" shortcut="0">
-        <style-set media="screen" type="para">text-align:left; line-height:1.45; </style-set>
-        <style-set media="screen" type="text">font-family:Tahoma; font-size:10pt; color:#565656; </style-set>
+        <style-set media="screen" type="para">text-align:left; line-height:1.45;</style-set>
+        <style-set media="screen" type="text">font-family:Tahoma; font-size:10pt; color:#565656;</style-set>
       </styleclass>
       <styleclass name="Comment" parentclass="Normal" shortcut="0"/>
       <styleclass name="Heading1" parentclass="Normal" shortcut="0">
-        <style-set media="screen" type="text">color:#333333; </style-set>
+        <style-set media="screen" type="text">color:#333333;</style-set>
       </styleclass>
       <styleclass name="Heading2" parentclass="Normal" nextclass="Heading1" shortcut="0">
-        <style-set media="screen" type="para">text-align:justify; line-height:1.20; </style-set>
-        <style-set media="screen" type="text">font-family:'Trebuchet MS'; font-size:11pt; font-weight:bold; color:#426288; </style-set>
+        <style-set media="screen" type="para">text-align:justify; line-height:1.20;</style-set>
+        <style-set media="screen" type="text">font-family:'Trebuchet MS'; font-size:11pt; font-weight:bold; color:#426288;</style-set>
       </styleclass>
       <styleclass name="Heading3" parentclass="Normal" nextclass="Heading1" shortcut="0">
-        <style-set media="screen" type="para">text-align:justify; line-height:1.20; </style-set>
-        <style-set media="screen" type="text">font-family:'Trebuchet MS'; font-size:14pt; font-weight:bold; color:#466891; </style-set>
+        <style-set media="screen" type="para">text-align:justify; line-height:1.20;</style-set>
+        <style-set media="screen" type="text">font-family:'Trebuchet MS'; font-size:14pt; font-weight:bold; color:#466891;</style-set>
       </styleclass>
       <styleclass name="Image Caption" parentclass="Normal" shortcut="0">
-        <style-set media="screen" type="para">line-height:1.50; border:none; </style-set>
-        <style-set media="screen" type="text">font-size:8pt; color:#808080; background-color:#ffffff; </style-set>
+        <style-set media="screen" type="para">line-height:1.50; border:none;</style-set>
+        <style-set media="screen" type="text">font-size:8pt; color:#808080; background-color:#ffffff;</style-set>
       </styleclass>
       <styleclass name="Notes" parentclass="Normal" shortcut="0"/>
       <styleclass name="text_butons" parentclass="Normal" nextclass="Normal" shortcut="0">
-        <style-set media="screen" type="para">line-height:1.75; </style-set>
-        <style-set media="screen" type="text">font-size:8pt; </style-set>
+        <style-set media="screen" type="para">line-height:1.75;</style-set>
+        <style-set media="screen" type="text">font-size:8pt;</style-set>
       </styleclass>
       <tablestyleclass name="Default">
-        <style-set media="screen">width:100%; cell-padding:1px; cell-spacing:0px; page-break-inside:auto; border-width:1px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#b1c2d6; border-style:solid; background-color:none; head-row-background-color:#dbe9f9; alt-row-background-color:none; </style-set>
+        <style-set media="screen">width:100%; cell-padding:1px; cell-spacing:0px; page-break-inside:auto; border-width:1px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#b1c2d6; border-style:solid; background-color:none; head-row-background-color:#dbe9f9; alt-row-background-color:none;</style-set>
       </tablestyleclass>
       <tablestyleclass name="put" parentclass="Default">
-        <style-set media="screen">width:100%; cell-padding:4px; cell-spacing:0px; page-break-inside:avoid; border-width:1px; border-spacing:0px; cell-border-width:0px; border-color:#dadada; border-style:solid; background-color:#fbfbec; head-row-background-color:none; alt-row-background-color:none; </style-set>
+        <style-set media="screen">width:100%; cell-padding:4px; cell-spacing:0px; page-break-inside:avoid; border-width:1px; border-spacing:0px; cell-border-width:0px; border-color:#dadada; border-style:solid; background-color:#fbfbec; head-row-background-color:none; alt-row-background-color:none;</style-set>
       </tablestyleclass>
       <tablestyleclass name="warning" parentclass="Default">
-        <style-set media="screen">width:100%; cell-padding:4px; cell-spacing:0px; page-break-inside:avoid; border-width:1px; border-spacing:0px; cell-border-width:0px; border-color:#c9c9c9; border-style:solid; background-color:#f0f0f0; head-row-background-color:#f0f0f0; alt-row-background-color:none; </style-set>
-        <style-set media="print">width:100%; cell-padding:4px; cell-spacing:0px; page-break-inside:avoid; border-width:0px; border-spacing:0px; cell-border-width:0px; border-style:none; background-color:#f0f0f0; head-row-background-color:#f0f0f0; alt-row-background-color:none; </style-set>
+        <style-set media="screen">width:100%; cell-padding:4px; cell-spacing:0px; page-break-inside:avoid; border-width:1px; border-spacing:0px; cell-border-width:0px; border-color:#c9c9c9; border-style:solid; background-color:#f0f0f0; head-row-background-color:#f0f0f0; alt-row-background-color:none;</style-set>
+        <style-set media="print">width:100%; cell-padding:4px; cell-spacing:0px; page-break-inside:avoid; border-width:0px; border-spacing:0px; cell-border-width:0px; border-style:none; background-color:#f0f0f0; head-row-background-color:#f0f0f0; alt-row-background-color:none;</style-set>
       </tablestyleclass>
       <tablestyleclass name="butons" parentclass="warning">
-        <style-set media="screen">width:100%; cell-padding:6px; cell-spacing:0px; page-break-inside:avoid; border-width:1px; border-spacing:0px; cell-border-width:0px; border-color:#e0e0e0; border-style:solid; background-color:#fbfbec; head-row-background-color:#fbfbec; alt-row-background-color:none; </style-set>
+        <style-set media="screen">width:100%; cell-padding:6px; cell-spacing:0px; page-break-inside:avoid; border-width:1px; border-spacing:0px; cell-border-width:0px; border-color:#e0e0e0; border-style:solid; background-color:#fbfbec; head-row-background-color:#fbfbec; alt-row-background-color:none;</style-set>
       </tablestyleclass>
     </styleclasses>
     <config-group name="project">
@@ -206,7 +206,7 @@
       <table style="margin-top:10px; margin-bottom:0px;" width="100%"  border="0" cellspacing="0" cellpadding="0">
         <tr valign="middle">
            <td width="30%" align="left">
-             &nbsp;© 1992-2014, <a href="http://bars-open.ru/" title="Перейти на сайт">ЗАО «Барс Груп».</a>  
+             &nbsp;© 1992-2015, <a href="http://bars-open.ru/" title="Перейти на сайт">ЗАО «Барс Груп».</a>  
            </td>
               <td width="88%" align="right">
                 <a target="_blank" href="https://twitter.com/barsgroup"><img style="margin-top:0px;" src="footer_tweeter.png" alt="Tweeter" title="Tweeter" width="19" height="19" border=0></a>&nbsp;
@@ -561,7 +561,7 @@ document.write('</frameset>');
       <config-group name="ilya">
         <config-group name="gladkov">
           <config-group name="project">
-            <config-value name="lastexport">4</config-value>
+            <config-value name="lastexport">0</config-value>
           </config-group>
           <config-group name="report">
             <config-value name="type">0</config-value>
@@ -572,7 +572,7 @@ document.write('</frameset>');
       </config-group>
     </config-group>
     <config-group name="pdf">
-      <config-value name="outputfile">..\..\..\Desktop\Projects\PDF\BARS.ZHKH.PECHAT.pdf</config-value>
+      <config-value name="outputfile">..\..\..\Desktop\Projects\PDF\BARS.ZHKH.pdf</config-value>
       <config-value name="template">..\..\..\Downloads\EC Software\EC Software\App\H&amp;M\Templates\PDF\UserGuide_Minimalist_BlackBlue.mnl</config-value>
       <config-value name="style">0</config-value>
       <config-value name="createoutline">1</config-value>
