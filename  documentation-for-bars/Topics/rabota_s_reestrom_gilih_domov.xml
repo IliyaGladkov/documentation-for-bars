@@ -12,7 +12,7 @@
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Работа с реестром жилых домов включает в себя следующие этапы:</text></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <list id="2" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Tahoma; font-size:9pt; color:#565656;">
+    <list id="38" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Tahoma; font-size:10pt; color:#565656;">
       <li styleclass="Normal"><text styleclass="Normal" translate="true">Заполнение формы жилого дома</text></li>
       <li styleclass="Normal"><text styleclass="Normal" translate="true">Заполнение общих сведений о жилом доме</text></li>
       <li styleclass="Normal"><text styleclass="Normal" translate="true">Выбор конструктивных характеристик жилого дома</text></li>
@@ -33,21 +33,21 @@
       </tr>
     </table></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">В результате выполнения операции на экране появится раздел «Реестр жилых домов».</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">В результате выполнения операции на экране появится раздел «Реестр жилых домов» со списком домов.</text></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal" style="text-align:center;"><image src="forma_reestr_gilih_domov.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Раздел Реестр жилых домов</title></image></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для более комфортного поиска конкретного дома или группы домов в разделе реализованы следующие фильтры: </text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для комфортного поиска конкретного дома или группы домов в разделе реализованы следующие фильтры:</text></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <list id="3" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:9pt; color:#565656;">
-      <li styleclass="Normal"><text styleclass="Normal" translate="true">Показать снесенные дома - В таблице останутся дома, которые были снесены</text></li>
-      <li styleclass="Normal"><text styleclass="Normal" translate="true">Показать индивидуальные дома - В таблице останутся дома индивидуального типа</text></li>
-      <li styleclass="Normal"><text styleclass="Normal" translate="true">Показать дома блокированной застройки - В таблице останутся дома блокированного типа</text></li>
-      <li styleclass="Normal"><text styleclass="Normal" translate="true">Показать дома без агентов доставки - В таблице останутся дома, которые не имеют агента доставки</text></li>
-      <li styleclass="Normal"><text styleclass="Normal" translate="true">Агент доставки - В таблице останутся дома, которые привязаны к данному агенту</text></li>
+    <list id="39" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#565656;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Показать снесенные дома - В таблице останутся дома, которые были снесены;</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Показать индивидуальные дома - В таблице останутся дома индивидуального типа;</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Показать дома блокированной застройки - В таблице останутся дома блокированного типа;</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Показать дома без агентов доставки - В таблице останутся дома, которые не имеют агента доставки;</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Агент доставки - В таблице останутся дома, которые привязаны к данному агенту.</text></li>
     </list>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Или отсортируйте данные по алфавиту или по значению выбранного показателя.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Возможна сортировка данных по алфавиту или по значению выбранного показателя.</text></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Кнопки используемые в разделе «Реестр жилых домов»:</text></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
@@ -73,6 +73,8 @@
     </table></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.40; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Помимо стандартных кнопок управления, в разделе имеется кнопка выгрузки данных в Excel. Данная опция упрощает групповую работу с большим объемом данных.</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Далее рассматривается процесс добавления дома в реестр жилых домов.</text></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
   </body>
 </topic>

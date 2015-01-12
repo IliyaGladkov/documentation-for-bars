@@ -8,17 +8,17 @@
     </header>
     <para styleclass="Heading3"><text styleclass="Heading3" translate="true">Общие сведения</text></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Раздел «Общие сведения» содержит сведения и характеристики о жилом доме, занесённом в реестр жилых домов. </text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Раздел «Общие сведения» содержит сведения и характеристики о жилом доме, занесённом в реестр жилых домов.</text></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для удобства восприятия пользователем (оператором), функционально закладка разбита на три зоны:</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для удобства восприятия пользователем (оператором), функционально вкладка разбита на три зоны:</text></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <list id="26" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:9pt; color:#565656;">
+    <list id="2" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#565656;">
       <li styleclass="Normal"><text styleclass="Normal" translate="true">Паспортные данные жилого дома;</text></li>
       <li styleclass="Normal"><text styleclass="Normal" translate="true">Общие сведения;</text></li>
       <li styleclass="Normal"><text styleclass="Normal" translate="true">Общие характеристики.</text></li>
     </list>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для заполнения паспорта жилого дома следует последовательно заполнить поля данных формы. Список полей подлежащих заполнению приведен в таблице ниже.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для заполнения паспорта жилого дома следует последовательно заполнить поля. Расшифровка полей подлежащих заполнению приведена в таблице ниже.</text></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal"><table rowcount="55" colcount="2" style="width:100%; cell-padding:5px; cell-spacing:0px; page-break-inside:auto; border-width:1px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#b1c2d6; border-style:solid; background-color:none; head-row-background-color:#dbe9f9; alt-row-background-color:none;">
       <thead style="vertical-align:middle">
@@ -454,37 +454,43 @@
       </tr>
     </table></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Кнопки используемые в разделе «Жилой дом: общие сведения»:</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Кнопки используемые в разделе «Жилой дом: Общие сведения»:</text></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><table styleclass="butons" rowcount="1" colcount="1">
       <tr style="vertical-align:top">
         <td>
           <para styleclass="text_butons"><image src="buton_save_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Сохранить изменения</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Сохранить. </text><text styleclass="text_butons" translate="true">Нажать, если нужно сохранить все изменения</text></para>
-          <para styleclass="text_butons"><image src="baton_add_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Добавить запись</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; </text><text styleclass="text_butons" translate="true">Добавить. Нажать, если нужно добавить запись</text></para>
-          <para styleclass="text_butons"><image src="baton_pechat.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Печать данных</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; </text><text styleclass="text_butons" translate="true">Печать. Нажать, если нужно выгрузить данные в Excel</text></para>
-          <para styleclass="text_butons"><image src="baton_map.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Показать данные на карте</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; </text><text styleclass="text_butons" translate="true">Карта. Нажать, если нужно показать дом на карте</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Сохранить. Нажать, если нужно сохранить все изменения</text></para>
+          <para styleclass="text_butons"><image src="baton_add_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Добавить фотографию обьекта</title></image></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Добавить. Нажать, если нужно добавить фотографию обьекта</text></para>
+          <para styleclass="text_butons"><image src="baton_pechat.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Экспорт ТехПаспорта</title></image></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Экспорт ТехПаспорта. Нажать, если нужно выгрузить данные паспорта в Excel</text></para>
+          <para styleclass="text_butons"><image src="baton_map.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Показать обьект на карте</title></image></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Карта. Нажать, если нужно показать обьект на карте</text></para>
           <para styleclass="text_butons"><image src="baton_strelka_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Выбрать запись из списка</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Выпадающий список. </text><text styleclass="text_butons" translate="true">Нажать, если нужно выбрать запись из списка</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Выпадающий список. Нажать, если нужно выбрать запись из списка</text></para>
           <para styleclass="text_butons"><image src="baton_search_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Выбрать элемент из таблицы</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Выбрать элемент. </text><text styleclass="text_butons" translate="true">Нажать, если нужно выбрать элемент из таблицы</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Выбрать элемент. Нажать, если нужно выбрать элемент из таблицы</text></para>
           <para styleclass="text_butons"><image src="baton_delete_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Очистить поле</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Очистить. </text><text styleclass="text_butons" translate="true">Нажать, если нужно очистить поле от данных</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Очистить. Нажать, если нужно очистить поле от данных</text></para>
           <para styleclass="text_butons"><image src="baton_data_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Указать дату</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; </text><text styleclass="text_butons" translate="true">Дата. Нажать, если нужно выбрать дату</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Дата. Нажать, если нужно выбрать дату</text></para>
+          <para styleclass="text_butons"><image src="buton_save_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Статус</title></image></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Статус. Нажать, если нужно изменить статус у паспорта</text></para>
+          <para styleclass="text_butons"><image src="baton_strelka_left.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Перейти к предыдущему паспорту</title></image></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Предыдущий паспорт. Нажать, если нужно перейти к предыдущему паспорту</text></para>
+          <para styleclass="text_butons"><image src="baton_strelka_right.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Перейти к следующему паспорту</title></image></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Следующий паспорт. Нажать, если нужно перейти к следующему паспорту</text></para>
         </td>
       </tr>
     </table></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Помимо стандартных кнопок управления в разделе реализована кнопка перевода статуса информации по дому из «Не актуализировано» в «Актуализировано». Данный статус показывает, что информация введенная по конкретному дому является актуальной и сможет использоваться Системой.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Помимо стандартных кнопок управления в разделе реализована кнопка перевода статуса информации по дому из «В процессе редактирования/В процессе заполнения» в «Заполнено». Данный статус показывает, что информация введенная по конкретному дому является актуальной и может использоваться Системой.</text></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">В Системе предусмотрена возможность экспорта технического паспорта жилого дома, для этого следует:</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">В системе предусмотрена возможность экспорта технического паспорта жилого дома, для этого следует:</text></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <list id="27" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:9pt; color:#565656;">
-      <li styleclass="Normal"><text styleclass="Normal" translate="true">Изменить статус паспорта, для этого нажать кнопку «Не актуализировано», и в выпадающем меню второго уровня выбрать пункт «Актуализировано»;</text></li>
+    <list id="3" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#565656;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Если статус у паспорта «В процессе редактирования/В процессе заполнения», то в выпадающем меню второго уровня выбрать «Заполнено»;</text></li>
       <li styleclass="Normal"><text styleclass="Normal" translate="true">Нажать кнопку «Экспорт технического паспорта», и сохранить файл </text><text styleclass="Normal" style="font-weight:bold;" translate="true">Passport.xlsx</text><text styleclass="Normal" translate="true"> на своем компьютере;</text></li>
       <li styleclass="Normal"><text styleclass="Normal" translate="true">Выбрать директорию на компьютере в которую был сохранен файл;</text></li>
       <li styleclass="Normal"><text styleclass="Normal" translate="true">Открыть сохраненный файл, убедиться в наличии соответствующей информации о жилом доме.</text></li>

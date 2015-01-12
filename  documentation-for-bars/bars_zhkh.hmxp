@@ -40,7 +40,7 @@
     </export-task-groups>
     <helpwindows>
       <helpwindow name="Main" left="0" top="0" width="-1" height="-1">
-        <caption translate="true">Комплексное решение «БАРС.ЖКХ» - &lt;%DATE%&gt;</caption>
+        <caption translate="true">Комплексное решение «БАРС.ЖКХ» - Версия от&lt;%DATE%&gt;</caption>
         <window-options-hlp autosize="true" maximize="false" posabsolute="false" keepontop="false" buttons="0" headercolor="#F0F0F0" textcolor="#FFFFFF"/>
         <window-options-chm navigation="true" navigationwidth="200" search="true" favorite="true" saveregistry="true" buttons="14414">
           <user-button name="jump1">
