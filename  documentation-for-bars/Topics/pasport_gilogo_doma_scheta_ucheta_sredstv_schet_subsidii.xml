@@ -18,9 +18,9 @@
       <tr style="vertical-align:top">
         <td>
           <para styleclass="text_butons"><image src="baton_update_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Обновить запись</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Обновить. </text><text styleclass="text_butons" translate="true">Нажать, если нужно обновить данные в таблице</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Обновить. Нажать, если нужно обновить данные в таблице</text></para>
           <para styleclass="text_butons"><image src="baton_data_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Указать дату</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Дата. </text><text styleclass="text_butons" translate="true">Нажать, если нужно указать дату</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Дата. Нажать, если нужно отсортировать данные в таблице по дате</text></para>
         </td>
       </tr>
     </table></para>

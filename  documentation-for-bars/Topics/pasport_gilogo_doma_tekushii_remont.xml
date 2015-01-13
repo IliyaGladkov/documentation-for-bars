@@ -8,7 +8,7 @@
     </header>
     <para styleclass="Heading3"><text styleclass="Heading3" translate="true">Текущий ремонт</text></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Данный раздел служит для учета сведений о видах плановых работ текущего ремонта жилого дома и их детализацию. </text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Данный раздел служит для учета сведений о видах плановых работ текущего ремонта жилого дома и их детализацию.</text></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal"><table styleclass="warning" rowcount="1" colcount="1" style="width:100%; cell-padding:4px; cell-spacing:1px; page-break-inside:avoid; border-width:1px; border-spacing:1px; cell-border-width:0px; border-color:#c0c0c0; border-style:solid;">
       <tr style="vertical-align:middle">
@@ -38,7 +38,7 @@
     </table></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Для добавления данных, следует в разделе «Текущий ремонт» нажать кнопку «Добавить», после чего в открывшемся окне «Выбор видов работ» выбрать соответствующие наименования работ из списка, установив «флажок» в поле выбора параметра (Данные по видам работ подгружаются из справочника </text><link displaytype="text" defaultstyle="true" type="topiclink" href="reference_gkh_vidi_rabot_tekushego_remonta" styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:underline; text-transform:none; vertical-align:baseline; color:#57769e; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">«Виды работ текущего ремонта»<title translate="true">Справочник «Виды работ текущего ремонта»</title></link><text styleclass="Normal" translate="true">).</text></para>
-    <para styleclass="Normal"></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.45; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal" style="text-align:center;"><image src="gilishnii_fond_reestr_gilih_domov_tekushii_remont_add.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Выбор видов работ</title></image></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Кнопки используемые в форме «Выбор видов работ»:</text></para>
@@ -58,12 +58,12 @@
       </tr>
     </table></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для подтверждения операции следует нажать кнопку «Применить», а затем последовательно заполнить поля данных таблицы, указав соответствующие реквизиты. Список полей подлежащих заполнению приведен в таблице ниже.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для подтверждения операции следует нажать кнопку «Применить», а затем последовательно заполнить поля данных таблицы, указав соответствующие реквизиты. Список таблиц подлежащих заполнению приведен ниже.</text></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal"><table styleclass="Default" rowcount="10" colcount="2" style="width:100%; cell-padding:5px;">
       <thead style="vertical-align:middle">
         <td colspan="2" style="height:23px;">
-          <para styleclass=" " style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Состав полей формы «Текущий ремонт».</text></para>
+          <para styleclass=" " style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Состав таблиц в разделе «Текущий ремонт».</text></para>
         </td>
       </thead>
       <thead style="vertical-align:top">

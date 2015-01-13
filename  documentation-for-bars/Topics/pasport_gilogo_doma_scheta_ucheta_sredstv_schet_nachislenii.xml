@@ -17,10 +17,10 @@
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><table styleclass="butons" rowcount="1" colcount="1">
       <tr style="vertical-align:top">
         <td>
-          <para styleclass="text_butons"><image src="baton_update_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Обновить запись</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Обновить. </text><text styleclass="text_butons" translate="true">Нажать, если нужно обновить данные в таблице</text></para>
+          <para styleclass="text_butons"><image src="baton_update_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Обновить баланс</title></image></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Обновить баланс. Нажать, если нужно обновить баланс в таблице</text></para>
           <para styleclass="text_butons"><image src="baton_edit_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Редактировать запись</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Редактировать. </text><text styleclass="text_butons" translate="true">Нажать, если нужно отредактировать существующую запись</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Редактировать. Нажать, если нужно отредактировать существующую запись</text></para>
         </td>
       </tr>
     </table></para>
@@ -89,7 +89,7 @@
       </tr>
     </table></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Помимо этого в подразделе предусмотрена возможность просмотра детализации по лицевому счету жилого дома и мониторинга поступления субсидий. Для этого во вкладке «Счет начислений» следует выбрать необходимое наименование лицевого счета дома из списка и нажать кнопку «Редактировать». В результате выполнения операции на экране откроется окно формы «Детализация по счету».</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Помимо этого в подразделе предусмотрена возможность просмотра детализации по лицевому счету жилого дома и мониторинга поступления субсидий. Для этого во вкладке «Счет начислений» следует выбрать необходимое наименование лицевого счета дома из списка и нажать кнопку «Редактировать». В результате выполнения операции на экране откроется окно «Детализация по счету».</text></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Text" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><image src="gilishnii_fond_reestr_gilih_domov_scheta_ucheta_sredstv_shet_nachislenii_detalizaciya.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Детализация по счету</title></image></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
@@ -99,9 +99,9 @@
       <tr style="vertical-align:top">
         <td>
           <para styleclass="text_butons"><image src="baton_update_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Обновить запись</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Обновить. </text><text styleclass="text_butons" translate="true">Нажать, если нужно обновить данные в таблице</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Обновить. Нажать, если нужно обновить данные в таблице</text></para>
           <para styleclass="text_butons"><image src="baton_close_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Закрыть окно</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Закрыть. </text><text styleclass="text_butons" translate="true">Нажать, если нужно закрыть окно без изменений</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Закрыть. Нажать, если нужно закрыть окно без изменений</text></para>
         </td>
       </tr>
     </table></para>

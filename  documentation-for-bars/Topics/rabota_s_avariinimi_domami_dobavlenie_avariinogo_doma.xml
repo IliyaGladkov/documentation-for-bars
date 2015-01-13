@@ -114,7 +114,7 @@
           <para styleclass="text_butons"><image src="buton_save_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Сохранить изменения</title></image></para>
           <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Сохранить. Нажать, если нужно сохранить все изменения</text></para>
           <para styleclass="text_butons"><image src="buton_save_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Изменить статус</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Статус. Нажать, если нужно изменить статус смет</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Статус. Нажать, если нужно изменить статус дома</text></para>
           <para styleclass="text_butons"><image src="baton_close_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Закрыть окно</title></image></para>
           <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Закрыть. Нажать, если нужно закрыть окно без изменений</text></para>
           <para styleclass="text_butons"><image src="baton_search_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Выбрать элемент из таблицы</title></image></para>
@@ -128,6 +128,8 @@
         </td>
       </tr>
     </table></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Далее рассматривается работа с карточкой аварийного дома.</text></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
   </body>
 </topic>

@@ -10,9 +10,9 @@
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Отображает общий список аварийных домов, которые расположены на территории муниципальных образований и субъектов Российской федерации с подробной спецификацией по каждому объекту жилищного фонда.</text></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">В разделе можно добавлять и редактировать аварийные дома, искать с помощью фильтров конкретный аварийный дом или группы домов, выгружать их в Excel, а также загружать и выгружать документы и многое другое.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">В разделе можно добавлять и редактировать аварийные дома, искать с помощью фильтров конкретный аварийный дом или группы домов, выгружать их в Excel и многое другое.</text></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для вызова реестра жилых домов необходимо пройти по ссылке:</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для вызова реестра аварийных домов необходимо пройти по ссылке:</text></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal"><table styleclass="put" rowcount="1" colcount="2" style="width:100%; cell-padding:4px; cell-spacing:0px;">
       <tr style="vertical-align:middle">
@@ -26,7 +26,7 @@
       </tr>
     </table></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">В результате выполнения операции на экране появится раздел «Реестр аварийных домов».</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">В результате выполнения операции на экране появится раздел «Реестр аварийных домов» со списком детальной информации по каждому дому.</text></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal" style="text-align:center;"><image src="gilishnii_fond_reestr_avariinih_domov_main.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Реестр аварийных домов</title></image></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
@@ -56,6 +56,8 @@
     </table></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Помимо стандартных кнопок управления, в разделе имеется кнопка выгрузки данных в Excel. Как правило это упрощает групповую работу с большим объемом данных.</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Далее рассматривается процесс добавления дома в реестр аварийных домов.</text></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
   </body>
 </topic>

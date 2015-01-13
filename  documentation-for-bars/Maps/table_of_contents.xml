@@ -147,6 +147,9 @@
       </topicref>
       <topicref type="topic" id="419078247496959" build="CHM,HTML,PDF" modified="2014-11-28T17:00:00.124Z" icon="0" href="rabota_s_avariinimi_domami">
         <caption translate="true">Работа с аварийными домами</caption>
+        <topicref type="topic" id="419084486867791" build="CHM,HTML,PDF" modified="2014-12-04T15:15:53.459Z" icon="0" href="rabota_s_avariinimi_domami_dobavlenie_avariinogo_doma">
+          <caption translate="true">Добавление аварийного дома в реестр</caption>
+        </topicref>
         <topicref type="topic" id="419085957545710" build="CHM,HTML,PDF" modified="2014-12-04T15:14:52.832Z" icon="0" href="rabota_s_avariinimi_domami_kartochka_avariinogo_doma">
           <caption translate="true">Карточка аварийного дома</caption>
           <topicref type="topic" id="419083587872705" build="CHM,HTML,PDF" modified="2014-12-04T15:15:06.324Z" icon="0" href="rabota_s_avariinimi_domami_kartochka_avariinogo_doma_svedeniya_o_dome">
@@ -156,12 +159,6 @@
             <caption translate="true">Разрезы финансирования</caption>
           </topicref>
         </topicref>
-        <topicref type="topic" id="419084486867791" build="CHM,HTML,PDF" modified="2014-12-04T15:15:53.459Z" icon="0" href="rabota_s_avariinimi_domami_dobavlenie_avariinogo_doma">
-          <caption translate="true">Добавление аварийного дома в реестр</caption>
-        </topicref>
-      </topicref>
-      <topicref type="topic" id="419085116922017" modified="2014-11-21T14:25:53.448Z" icon="0" href="rabota_s_programmoi_pereseleniya">
-        <caption translate="true">Работа с программой переселения</caption>
       </topicref>
       <topicref type="topic" id="419087799427732" build="CHM,HTML,PDF" modified="2014-11-28T17:00:00.137Z" icon="0" href="strahovanie_deyatelnosti_uo">
         <caption translate="true">Страхование деятельности УО</caption>

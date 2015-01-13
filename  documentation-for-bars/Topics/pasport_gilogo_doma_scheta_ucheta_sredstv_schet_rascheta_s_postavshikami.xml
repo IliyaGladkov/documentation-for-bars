@@ -18,9 +18,9 @@
       <tr style="vertical-align:top">
         <td>
           <para styleclass="text_butons"><image src="baton_update_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Обновить запись</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Обновить. </text><text styleclass="text_butons" translate="true">Нажать, если нужно обновить данные в таблице</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Обновить. Нажать, если нужно обновить данные в таблице</text></para>
           <para styleclass="text_butons"><image src="baton_data_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Указать дату</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Дата. </text><text styleclass="text_butons" translate="true">Нажать, если нужно указать дату</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Дата. Нажать, если нужно отсортировать данные в таблице по дате</text></para>
         </td>
       </tr>
     </table></para>
@@ -124,7 +124,7 @@
           <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Обороты по кредиту</text></para>
         </td>
         <td style="vertical-align:top;">
-          <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Отображается размер оборотов по дебету. Значение отображает факт, когда оплата услуг подрядной организации зафиксирована &#160;в банке.</text></para>
+          <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Отображается размер оборотов по дебету. Значение отображает факт, когда оплата услуг подрядной организации зафиксирована в банке.</text></para>
         </td>
       </tr>
     </table></para>

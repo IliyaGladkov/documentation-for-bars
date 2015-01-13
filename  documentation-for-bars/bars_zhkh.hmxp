@@ -29,7 +29,7 @@
           </export-task>
           <export-task name="Публиковать как PDF" format="PDF">
             <task-config-group name="settings">
-              <task-config-value name="outputfile">..\..\..\Desktop\Projects\PDF\BARS.ZHKH.PECHAT.pdf</task-config-value>
+              <task-config-value name="outputfile">..\..\..\Desktop\Projects\PDF\BARS.ZHKH.pdf</task-config-value>
               <task-config-value name="template">..\..\..\Downloads\EC Software\EC Software\App\H&amp;M\Templates\PDF\UserGuide_Minimalist_BlackBlue.mnl</task-config-value>
               <task-config-value name="make4include">PDF</task-config-value>
               <task-config-value name="make4status">*</task-config-value>
@@ -40,7 +40,7 @@
     </export-task-groups>
     <helpwindows>
       <helpwindow name="Main" left="0" top="0" width="-1" height="-1">
-        <caption translate="true">Комплексное решение «БАРС.ЖКХ» - Версия от&lt;%DATE%&gt;</caption>
+        <caption translate="true">Комплексное решение «БАРС.ЖКХ» - &lt;%DATE%&gt;</caption>
         <window-options-hlp autosize="true" maximize="false" posabsolute="false" keepontop="false" buttons="0" headercolor="#F0F0F0" textcolor="#FFFFFF"/>
         <window-options-chm navigation="true" navigationwidth="200" search="true" favorite="true" saveregistry="true" buttons="14414">
           <user-button name="jump1">
@@ -134,6 +134,7 @@
       <config-value name="lastedited">-1</config-value>
       <config-value name="make5include">PRINT</config-value>
       <config-value name="make5status">*</config-value>
+      <config-group name="bookmarks"/>
     </config-group>
     <config-group name="html">
       <config-value name="topiceditor">1</config-value>
@@ -572,7 +573,7 @@ document.write('</frameset>');
       </config-group>
     </config-group>
     <config-group name="pdf">
-      <config-value name="outputfile">..\..\..\Desktop\Projects\PDF\BARS.ZHKH.PECHAT.pdf</config-value>
+      <config-value name="outputfile">..\..\..\Desktop\Projects\PDF\BARS.ZHKH.pdf</config-value>
       <config-value name="template">..\..\..\Downloads\EC Software\EC Software\App\H&amp;M\Templates\PDF\UserGuide_Minimalist_BlackBlue.mnl</config-value>
       <config-value name="style">0</config-value>
       <config-value name="createoutline">1</config-value>
@@ -634,7 +635,6 @@ document.write('</frameset>');
   <xi:include parse="xml" href="Maps/table_of_contents.xml"/>
   <project-files>
     <file href="Topics/*.xml" build="ALL" filetype="topic">
-      <file-mod href="rabota_s_programmoi_pereseleniya.xml"/>
       <file-mod href="reference_programmi_osnovaniya_necelesoobraznosti.xml"/>
       <file-mod href="index.xml" build="CHM,HTML,PDF"/>
       <file-mod href="housing.xml" build="CHM,HTML,PDF"/>

@@ -10,7 +10,7 @@
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Долгосрочная программа капитального ремонта может быть сформирована в разрезе следующих уровней адреса:</text></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <list id="12" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:9pt; color:#565656;">
+    <list id="19" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#565656;">
       <li styleclass="Normal"><text styleclass="Normal" translate="true">На уровне муниципальных районов;</text></li>
       <li styleclass="Normal"><text styleclass="Normal" translate="true">На уровне муниципальных образований.</text></li>
     </list>
@@ -33,7 +33,7 @@
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal" style="text-align:center;"><image src="capitalnii_remont_nastroika_prilogeniya_warning.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Окно с сообщением о изменении.</title></image></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для продолжения операции следует нажать кнопку «ОК», после этого Система разблокирует окно формы «Параметры приложения».</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для продолжения операции следует нажать кнопку «ОК», после этого система разблокирует окно «Параметры приложения».</text></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal" style="text-align:center;"><image src="capitalnii_remont_parametri_prilogeniya_main.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Окно настройки параметров приложения</title></image></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
@@ -43,9 +43,9 @@
       <tr style="vertical-align:top">
         <td>
           <para styleclass="text_butons"><image src="buton_save_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Сохранить изменения</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Сохранить. </text><text styleclass="text_butons" translate="true">Нажать, если нужно сохранить все изменения</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Сохранить. Нажать, если нужно сохранить все изменения</text></para>
           <para styleclass="text_butons"><image src="baton_strelka_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Выбрать из выпадающего списка</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Выпадающий список. </text><text styleclass="text_butons" translate="true">Нажать, если нужно выбрать запись из выпадающего списка</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Выпадающий список. Нажать, если нужно выбрать запись из выпадающего списка</text></para>
         </td>
       </tr>
     </table></para>
@@ -59,7 +59,7 @@
         </td>
       </thead>
       <thead style="vertical-align:top">
-        <td style="vertical-align:middle; width:20%; height:20px;">
+        <td style="vertical-align:middle; width:25%; height:20px;">
           <para styleclass=" " style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:bold; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#595959; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Название поля</text></para>
         </td>
         <td style="vertical-align:middle; height:20px;">
@@ -107,6 +107,8 @@
         </td>
       </tr>
     </table></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Далее рассматривается настройка параметров формирования ДПКР.</text></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
   </body>
 </topic>
