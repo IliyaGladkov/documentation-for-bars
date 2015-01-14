@@ -134,7 +134,6 @@
       <config-value name="lastedited">-1</config-value>
       <config-value name="make5include">PRINT</config-value>
       <config-value name="make5status">*</config-value>
-      <config-group name="bookmarks"/>
     </config-group>
     <config-group name="html">
       <config-value name="topiceditor">1</config-value>
@@ -207,12 +206,12 @@
       <table style="margin-top:10px; margin-bottom:0px;" width="100%"  border="0" cellspacing="0" cellpadding="0">
         <tr valign="middle">
            <td width="30%" align="left">
-             &nbsp;© 1992-2015, <a href="http://bars-open.ru/" title="Перейти на сайт">ЗАО «Барс Груп».</a>  
+             &nbsp;© 1992-2015, <a target="_blank" href="http://bars-open.ru/" title="Перейти на сайт">ЗАО «Барс Груп».</a>  
            </td>
-              <td width="88%" align="right">
-                <a target="_blank" href="https://twitter.com/barsgroup"><img style="margin-top:0px;" src="footer_tweeter.png" alt="Tweeter" title="Tweeter" width="19" height="19" border=0></a>&nbsp;
+                <td width="88%" align="right">
+                <a target="_blank" href="https://twitter.com/barsgroup"><img style="margin-top:0px;" src="footer_tweeter.png" alt="Tweeter" title="Tweeter" width="19" height="19" border="0"></a>&nbsp;
                 <a target="_blank" href="https://www.facebook.com/barsgroup"><img style="margin-top:0px;" src="footer_facebook.png" alt="Facebook" title="Facebook" width="19" height="19" border="0"></a>&nbsp;
-                <a target="_blank" href="http://vk.com/barsgroup_public"><img style="margin-top:0px;" src="footer_vk.png" alt="Vkontakte" title="Vkontakte" width="19" height="19" border="0"></a>&nbsp;
+                <a target="_blank" href="http://vk.com/barsgroup_public"><img style="margin-top:0px;" src="footer_vk.png" alt="Vkontakte" title="VKontakte" width="19" height="19" border="0"></a>&nbsp;
                 <a target="_blank" href="http://www.linkedin.com/company/-bars-group-ltd"><img style="margin-top:0px;" src="footer_linkedin.png" alt="Linkedin" title="Linkedin" width="19" height="19" border="0"></a>&nbsp;
                 <a target="_blank" href="http://www.youtube.com/user/barsgroup"><img style="margin-top:0px;" src="footer_youtube.png" alt="Youtube" title="Youtube" width="19" height="19" border="0"></a>&nbsp; 
              </td>
@@ -562,7 +561,7 @@ document.write('</frameset>');
       <config-group name="ilya">
         <config-group name="gladkov">
           <config-group name="project">
-            <config-value name="lastexport">4</config-value>
+            <config-value name="lastexport">0</config-value>
           </config-group>
           <config-group name="report">
             <config-value name="type">0</config-value>
