@@ -8,7 +8,7 @@
     </header>
     <para styleclass="Heading3"><text styleclass="Heading3" translate="true">Реестр должностных лиц</text></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.45; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">В законе также указано, что должностные лица управляющих компаний должны пройти специальные квалификационные экзамены, проводимые лицензионной комиссией, и получить квалификационные аттестаты. Хранить такие сведение отведена роль «Реестру должностных лиц».</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">В законе указано, что должностные лица управляющих компаний должны пройти специальные квалификационные экзамены, проводимые лицензионной комиссией, и после получить квалификационные аттестаты. Управлять такими сведениями отведено «Реестру должностных лиц».</text></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.45; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Для перехода в реестр необходимо пройти по ссылке:</text></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.45; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
@@ -24,7 +24,7 @@
       </tr>
     </table></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">В результате выполнения операции на экране откроется новая вкладка с разделом «Реестр должностных лиц».</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">В результате выполнения операции на экране откроется вкладка с разделом «Реестр должностных лиц».</text></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal" style="text-align:center;"><image src="gilinspekciya_licenzirobanie_reestr_dolgnostnih_lic_main.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Реестр должностных лиц</title></image></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.45; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
@@ -48,7 +48,7 @@
     </table></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.45; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Для добавления нового должностного лица в реестр необходимо нажать кнопку «Добавить», на экране появится окно «Должностное лицо», где заполнить необходимые поля. Список полей подлежащих заполнению приведен в таблице ниже.</text></para>
-    <para styleclass="Normal"></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.45; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal" style="text-align:center;"><image src="gilinspekciya_licenzirobanie_reestr_dolgnostnih_lic_add.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Должностное лицо</title></image></para>
     <para styleclass="Normal"></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Кнопки используемые в окне «Должностное лицо»:</text></para>
@@ -113,7 +113,7 @@
           <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">ИНН</text></para>
         </td>
         <td style="vertical-align:top;">
-          <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Вводится ИНН должностного лица</text></para>
+          <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Вводится ИНН должностного лица. Запись должна быть уникальной, при повторном ввода система выводит сообщение «Должностное лицо с таким ИНН уже существует».</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
@@ -163,7 +163,7 @@
       </tr>
     </table></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Обратите внимание, что должностное лицо можно добавить и с помощью кнопки «Выбрать из контактов контрагентов» (контакты берутся с ролью «Управляющая организация» из следующего источника: Участники процесса / Контрагенты / Контакты). После нажатия кнопки откроется окно «Выбор контактной информации», где выбрать нужный контакт и нажать «Применить». После данной операции откроется новая вкладка с разделом «Должностное лицо». </text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Обратите внимание, что должностное лицо можно добавить и с помощью кнопки «Выбрать из контактов контрагентов» (контакты берутся из роли «Управляющая организация», и из следующего источника: Участники процесса / Контрагенты / Контакты). После нажатия кнопки откроется окно «Выбор контактной информации», где выбрать нужный контакт и нажать «Применить». После данной операции откроется новая вкладка с разделом «Должностное лицо».</text></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.45; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal" style="text-align:center;"><image src="gilinspekciya_licenzirobanie_reestr_dolgnostnih_lic_dolgnostnoe_lico_mainpng.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Должностное лицо</title></image></para>
     <para styleclass="Normal"></para>
@@ -192,14 +192,12 @@
       </tr>
     </table></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Визуально раздел «Должностное лицо» разбит на две области. В левой части находится список подразделов. В правой, список полей подлежащих заполнению.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Раздел «Должностное лицо» имеет следующие подразделы:</text></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Раздел имеет следующие подразделы:</text></para>
-    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <list id="4" type="ul" listtype="bullet" formatstring="&#167;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="line-height:2.0; font-family:Wingdings; font-size:10pt; color:#565656;">
-      <li styleclass="Normal" style="line-height:2.0;"><text styleclass="Normal" translate="true">Общие сведения</text></li>
-      <li styleclass="Normal" style="line-height:2.0;"><text styleclass="Normal" translate="true">Сведения о дисквалификации</text></li>
-      <li styleclass="Normal" style="line-height:2.0;"><text styleclass="Normal" translate="true">Место работы</text></li>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#167;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="line-height:2.0; font-family:Wingdings; font-size:10pt; color:#565656;">
+      <li styleclass="Normal" style="line-height:2.0;"><link displaytype="text" defaultstyle="true" type="topiclink" href="gilisnaya_inspekciya_licenzirovanie_reestr_dolgnostnih_lic_obshie_svedeniya" styleclass="Normal" translate="true">Общие сведения<title translate="true">Общие сведения</title></link></li>
+      <li styleclass="Normal" style="line-height:2.0;"><link displaytype="text" defaultstyle="true" type="topiclink" href="gilisnaya_inspekciya_licenzirovanie_reestr_dolgnostnih_lic_diskvalifikaciya" styleclass="Normal" translate="true">Сведения о дисквалификации<title translate="true">Сведения о дисквалификации</title></link></li>
+      <li styleclass="Normal" style="line-height:2.0;"><link displaytype="text" defaultstyle="true" type="topiclink" href="gilisnaya_inspekciya_licenzirovanie_reestr_dolgnostnih_lic_mesto_raboti" styleclass="Normal" translate="true">Место работы<title translate="true">Место работы</title></link></li>
     </list>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
   </body>

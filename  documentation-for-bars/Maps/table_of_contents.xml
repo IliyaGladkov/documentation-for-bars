@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <map xmlns:xsi="http://www.w3.org/2001/XInclude">
-  <topicref type="topic" id="419334265329424" build="CHM,HTML,PDF" modified="2014-12-12T17:30:07.328Z" icon="0" href="index">
+  <topicref type="topic" id="419334265329424" build="CHM,HTML,PDF" modified="2015-01-16T16:52:09.870Z" icon="0" href="index">
     <caption translate="true">Комплексное решение «БАРС.ЖКХ»</caption>
     <topicref type="topic" id="419826928694203" build="CHM,HTML,PDF" modified="2014-12-12T17:30:13.296Z" icon="0" href="nachalo_raboti">
       <caption translate="true">Начало работы</caption>
@@ -547,24 +547,27 @@
       <topicref type="topic" id="419564451328675" build="CHM,HTML,PDF" modified="2014-12-01T14:57:01.555Z" icon="0" href="gilisnaya_inspekciya_podgotovka_modulya">
         <caption translate="true">Подготовка модуля к работе</caption>
       </topicref>
-      <topicref type="topic" id="420197031305466" build="ALL" modified="2015-01-15T14:42:55.759Z" icon="0" href="gilisnaya_inspekciya_licenzirovanie">
+      <topicref type="topic" id="420197031305466" build="CHM,HTML,PDF,USER1" modified="2015-01-16T16:40:54.051Z" icon="0" href="gilisnaya_inspekciya_licenzirovanie">
         <caption translate="true">Лицензирование</caption>
-        <topicref type="topic" id="420196637235282" build="ALL" modified="2015-01-15T14:55:35.639Z" icon="0" href="gilisnaya_inspekciya_licenzirovanie_reestr_dolgnostnih_lic">
+        <topicref type="topic" id="420196637235282" build="CHM,HTML,PDF,USER1" modified="2015-01-16T16:40:54.066Z" icon="0" href="gilisnaya_inspekciya_licenzirovanie_reestr_dolgnostnih_lic">
           <caption translate="true">Реестр должностных лиц</caption>
-          <topicref type="topic" id="420197901925109" build="ALL" modified="2015-01-15T16:43:09.181Z" icon="0" href="gilisnaya_inspekciya_licenzirovanie_reestr_dolgnostnih_lic_obshie_svedeniya">
+          <topicref type="topic" id="420197901925109" build="CHM,HTML,PDF,USER1" modified="2015-01-16T16:40:54.081Z" icon="0" href="gilisnaya_inspekciya_licenzirovanie_reestr_dolgnostnih_lic_obshie_svedeniya">
             <caption translate="true">Общие сведения</caption>
           </topicref>
-          <topicref type="topic" id="420195665527139" build="ALL" modified="2015-01-15T16:43:15.297Z" icon="0" href="gilisnaya_inspekciya_licenzirovanie_reestr_dolgnostnih_lic_diskvalifikaciya">
+          <topicref type="topic" id="420195665527139" build="CHM,HTML,PDF,USER1" modified="2015-01-16T16:40:54.090Z" icon="0" href="gilisnaya_inspekciya_licenzirovanie_reestr_dolgnostnih_lic_diskvalifikaciya">
             <caption translate="true">Сведения о дисквалификации</caption>
           </topicref>
-          <topicref type="topic" id="420196336091815" build="ALL" modified="2015-01-15T16:43:20.831Z" icon="0" href="gilisnaya_inspekciya_licenzirovanie_reestr_dolgnostnih_lic_mesto_raboti">
+          <topicref type="topic" id="420196336091815" build="CHM,HTML,PDF,USER1" modified="2015-01-16T16:40:54.097Z" icon="0" href="gilisnaya_inspekciya_licenzirovanie_reestr_dolgnostnih_lic_mesto_raboti">
             <caption translate="true">Место работы</caption>
           </topicref>
         </topicref>
-        <topicref type="topic" id="420196183715199" build="ALL" modified="2015-01-15T14:55:42.543Z" icon="0" href="gilisnaya_inspekciya_licenzirovanie_obrasheniya_za_licenziei">
+        <topicref type="topic" id="420207502865625" build="CHM,HTML,PDF,USER1" modified="2015-01-16T16:40:54.104Z" icon="0" href="gilisnaya_inspekciya_licenzirovanie_reestr_zayavok">
+          <caption translate="true">Заявки на допуск к экзамену</caption>
+        </topicref>
+        <topicref type="topic" id="420196183715199" build="CHM,HTML,PDF,USER1" modified="2015-01-16T16:40:54.111Z" icon="0" href="gilisnaya_inspekciya_licenzirovanie_obrasheniya_za_licenziei">
           <caption translate="true">Обращения за выдачей лицензии</caption>
         </topicref>
-        <topicref type="topic" id="418695353678" build="ALL" modified="2015-01-15T14:55:47.988Z" icon="0" href="gilisnaya_inspekciya_licenzirovanie_reestr_licenzii">
+        <topicref type="topic" id="418695353678" build="CHM,HTML,PDF,USER1" modified="2015-01-16T16:40:54.118Z" icon="0" href="gilisnaya_inspekciya_licenzirovanie_reestr_licenzii">
           <caption translate="true">Реестр лицензий</caption>
         </topicref>
       </topicref>

@@ -561,7 +561,7 @@ document.write('</frameset>');
       <config-group name="ilya">
         <config-group name="gladkov">
           <config-group name="project">
-            <config-value name="lastexport">0</config-value>
+            <config-value name="lastexport">3</config-value>
           </config-group>
           <config-group name="report">
             <config-value name="type">0</config-value>
@@ -1090,6 +1090,14 @@ document.write('</frameset>');
       <file-mod href="uchastniki_processa_roli_kontragenta_postavshiki_resursov_gilie_doma.xml" build="CHM,HTML,PDF"/>
       <file-mod href="uchastniki_processa_roli_kontragenta_postavshiki_resursov_dogovora_s_gilimi_domami.xml" build="CHM,HTML,PDF"/>
       <file-mod href="podgotovka_modulya_k_rabote.xml" build="CHM,HTML,PDF"/>
+      <file-mod href="gilisnaya_inspekciya_licenzirovanie.xml" build="CHM,HTML,PDF,USER1"/>
+      <file-mod href="gilisnaya_inspekciya_licenzirovanie_reestr_dolgnostnih_lic.xml" build="CHM,HTML,PDF,USER1"/>
+      <file-mod href="gilisnaya_inspekciya_licenzirovanie_reestr_dolgnostnih_lic_obshie_svedeniya.xml" build="CHM,HTML,PDF,USER1"/>
+      <file-mod href="gilisnaya_inspekciya_licenzirovanie_reestr_dolgnostnih_lic_diskvalifikaciya.xml" build="CHM,HTML,PDF,USER1"/>
+      <file-mod href="gilisnaya_inspekciya_licenzirovanie_reestr_dolgnostnih_lic_mesto_raboti.xml" build="CHM,HTML,PDF,USER1"/>
+      <file-mod href="gilisnaya_inspekciya_licenzirovanie_obrasheniya_za_licenziei.xml" build="CHM,HTML,PDF,USER1"/>
+      <file-mod href="gilisnaya_inspekciya_licenzirovanie_reestr_licenzii.xml" build="CHM,HTML,PDF,USER1"/>
+      <file-mod href="gilisnaya_inspekciya_licenzirovanie_reestr_zayavok.xml" build="CHM,HTML,PDF,USER1"/>
     </file>
     <file href="Baggage/*.*" build="ALL" filetype="baggage"/>
   </project-files>

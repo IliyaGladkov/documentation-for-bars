@@ -1,24 +1,26 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
 <topic template="Default" lasteditedby="ilya.gladkov" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
-  <title translate="true">Реестр лицензий</title>
+  <title translate="true">Заявки на допуск к экзамену</title>
   <body>
     <header>
-      <para styleclass="Heading1"><link displaytype="text" defaultstyle="false" type="topiclink" href="gilisnaya_inspekciya" styleclass="Heading1" translate="true">Жилищная инспекция<title translate="true">Жилищная инспекция</title></link><text styleclass="Heading1" translate="true"> / </text><link displaytype="text" defaultstyle="false" type="topiclink" href="gilisnaya_inspekciya_licenzirovanie" styleclass="Heading1" translate="true">Лицензирование<title translate="true">Лицензирование</title></link><text styleclass="Heading1" translate="true"> / Реестр лицензий</text></para>
+      <para styleclass="Heading1"><link displaytype="text" defaultstyle="false" type="topiclink" href="gilisnaya_inspekciya" styleclass="Heading1" translate="true">Жилищная инспекция<title translate="true">Жилищная инспекция</title></link><text styleclass="Heading1" translate="true"> / </text><link displaytype="text" defaultstyle="false" type="topiclink" href="gilisnaya_inspekciya_licenzirovanie" styleclass="Heading1" translate="true">Лицензирование<title translate="true">Лицензирование</title></link><text styleclass="Heading1" translate="true"> / Заявки на допуск к экзамену</text></para>
     </header>
-    <para styleclass="Heading3"><text styleclass="Heading3" translate="true">Реестр лицензий</text></para>
+    <para styleclass="Heading3"><text styleclass="Heading3" translate="true">Заявки на допуск к экзамену</text></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.45; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Реестр предназначен для вывода всех предоставленных лицензий управляющим компаниям.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Раздел выводит все поступившие заявки на допуск экзамену.</text></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.45; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal" style="text-align:center;"><image src="gilinspekciya_licenzirobanie_reestr_licenzii_main.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Реестр лицензий</title></image></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="gilinspekciya_licenzirobanie_all_zayavki_main.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Заявки на допуск к зкзамену</title></image></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.45; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Кнопки используемые в разделе «Реестр лицензий»:</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Кнопки используемые в разделе «Заявки на допуск к экзамену»:</text></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.45; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><table styleclass="butons" rowcount="1" colcount="1">
       <tr style="vertical-align:top">
         <td>
           <para styleclass="text_butons"><image src="baton_update_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Обновить запись</title></image></para>
           <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Обновить. Нажать, если нужно обновить данные в таблице</text></para>
+          <para styleclass="text_butons"><image src="baton_import_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Выгрузить данные</title></image></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Выгрузить. Нажать, если нужно выгрузить данные в Excel</text></para>
           <para styleclass="text_butons"><image src="baton_strelka_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Выбрать из выпадающего списка</title></image></para>
           <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Выпадающий список. Нажать, если нужно отсортировать значение по параметру</text></para>
           <para styleclass="text_butons"><image src="baton_data_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Указать дату</title></image></para>
@@ -26,14 +28,10 @@
           <para styleclass="text_butons"><image src="baton_edit_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Редактировать запись</title></image></para>
           <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Редактировать. Нажать, если нужно отредактировать существующую запись</text></para>
           <para styleclass="text_butons"><image src="baton_edit_status_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Изменить статус</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Статус. Нажать, ели нужно перевести статус лицензии</text></para>
-          <para styleclass="text_butons"><image src="baton_delete.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Удалить запись</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Удалить. Нажать, если нужно удалить существующую запись</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Статус. Нажать, ели нужно перевести статус заявки</text></para>
         </td>
       </tr>
     </table></para>
-    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">При желании данные по лицензиям можно выгрузить с помощью раздела «Панель отчетов» модуля </text><link displaytype="text" defaultstyle="true" type="topiclink" href="otcheti" styleclass="Normal" translate="true">«Отчеты»<title translate="true">Модуль «Отчеты»</title></link><text styleclass="Normal" translate="true">.</text></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
   </body>
 </topic>
