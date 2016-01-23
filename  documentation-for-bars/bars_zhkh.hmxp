@@ -14,7 +14,7 @@
           </export-task>
           <export-task name="Публиковать как CHM" format="CHM">
             <task-config-group name="settings">
-              <task-config-value name="outputfile">..\..\..\Desktop\Projects\CHM\BARS_ZHKH.chm</task-config-value>
+              <task-config-value name="outputfile">..\..\..\CHM Archimed\ArchiMed.chm</task-config-value>
               <task-config-value name="deletetemp">1</task-config-value>
               <task-config-value name="make0include">CHM</task-config-value>
               <task-config-value name="make0status">*</task-config-value>
@@ -39,8 +39,8 @@
       </export-task-group>
     </export-task-groups>
     <helpwindows>
-      <helpwindow name="Main" left="0" top="0" width="-1" height="-1">
-        <caption translate="true">Комплексное решение «БАРС.ЖКХ» - &lt;%DATE%&gt;</caption>
+      <helpwindow name="Main" left="274" top="122" width="1024" height="768">
+        <caption translate="true">Автоматизация мед.учреждений - &lt;%DATE%&gt;</caption>
         <window-options-hlp autosize="true" maximize="false" posabsolute="false" keepontop="false" buttons="0" headercolor="#F0F0F0" textcolor="#FFFFFF"/>
         <window-options-chm navigation="true" navigationwidth="200" search="true" favorite="true" saveregistry="true" buttons="14414">
           <user-button name="jump1">
@@ -104,7 +104,7 @@
       <config-value name="copyright" translate="true">© &lt;%YEAR%&gt; &lt;%AUTHOR%&gt;</config-value>
       <config-value name="versionmajor">1</config-value>
       <config-value name="versionminor">0</config-value>
-      <config-value name="versionbuild">4</config-value>
+      <config-value name="versionbuild">1</config-value>
       <config-value name="lcid" translate="true">ru</config-value>
       <config-value name="charset" translate="true">RUSSIAN_CHARSET</config-value>
       <config-value name="deffont">font-family:'Trebuchet MS'; font-size:9pt; color:#000000; </config-value>
@@ -122,7 +122,7 @@
       <config-value name="bidimode">1</config-value>
       <config-value name="make0include">CHM</config-value>
       <config-value name="make0status">*</config-value>
-      <config-value name="title" translate="true">Комплексное решение «БАРС.ЖКХ»</config-value>
+      <config-value name="title" translate="true">Автоматизация медицинских учреждений ArchiMed+</config-value>
       <config-value name="make3include">HTML</config-value>
       <config-value name="make3status">*</config-value>
       <config-value name="make4include">PDF</config-value>
@@ -168,7 +168,7 @@
 <body style="background-color:#FFFFFF; font-family:'Trebuchet MS',Tahoma,Arial,Helvetica,sans-serif; margin:0px;">
 
 <!-- Header. -->
-<table width="100%" height="49"  border="0" cellpadding="0" cellspacing="0" style="margin-top:0px; background-image: url('pattern.png'); background-repeat: repeat-x;">
+<table width="100%" height="49"  border="0" cellpadding="0" cellspacing="0" style="margin-top:0px; background-image: url('pattern_arch.png'); background-repeat: repeat-x;">
   <tr>
     <td></td>
     <td valign="middle">
@@ -200,20 +200,23 @@
 <table width="100%" height="15" border="0" cellpadding="0" cellspacing="0" style="margin-top:0px; background-repeat: repeat-x;">
   <tr>
     <td>
-       <table width="100%" height="5" border="0" cellpadding="0" cellspacing="0" style="margin-top:0px; background-image: url('line_footer.png'); background-repeat: repeat-x;">
+       <table width="100%" height="5" border="0" cellpadding="0" cellspacing="0" style="margin-top:0px; background-image: url('line_footer_arch.png'); background-repeat: repeat-x;">
     </td>
      <td valign="middle">
       <table style="margin-top:10px; margin-bottom:0px;" width="100%"  border="0" cellspacing="0" cellpadding="0">
         <tr valign="middle">
            <td width="30%" align="left">
-             &nbsp;© 1992-2015, <a target="_blank" href="http://bars-open.ru/" title="Перейти на сайт">ЗАО «Барс Груп».</a>  
+             &nbsp;© 2015, <a target="_blank" href="http://www.mlsit.ru/home" title="Перейти на сайт">MLS IT Systems.</a>  
            </td>
-                <td width="88%" align="right">
+                <td width="55%" align="right">
+                <img style="margin-top:0px;" src="hot_line.png" alt="Горячая линия" title="Горячая линия" width="297" height="16" border="0"></a>&nbsp;
+                <!--
                 <a target="_blank" href="https://twitter.com/barsgroup"><img style="margin-top:0px;" src="footer_tweeter.png" alt="Tweeter" title="Tweeter" width="19" height="19" border="0"></a>&nbsp;
                 <a target="_blank" href="https://www.facebook.com/barsgroup"><img style="margin-top:0px;" src="footer_facebook.png" alt="Facebook" title="Facebook" width="19" height="19" border="0"></a>&nbsp;
                 <a target="_blank" href="http://vk.com/barsgroup_public"><img style="margin-top:0px;" src="footer_vk.png" alt="Vkontakte" title="VKontakte" width="19" height="19" border="0"></a>&nbsp;
                 <a target="_blank" href="http://www.linkedin.com/company/-bars-group-ltd"><img style="margin-top:0px;" src="footer_linkedin.png" alt="Linkedin" title="Linkedin" width="19" height="19" border="0"></a>&nbsp;
                 <a target="_blank" href="http://www.youtube.com/user/barsgroup"><img style="margin-top:0px;" src="footer_youtube.png" alt="Youtube" title="Youtube" width="19" height="19" border="0"></a>&nbsp; 
+                -->
              </td>
           </tr>
        </table>
@@ -551,7 +554,7 @@ document.write('</frameset>');
 </html>]]></config-value>
     </config-group>
     <config-group name="chm">
-      <config-value name="outputfile">..\..\..\Desktop\Projects\CHM\BARS_ZHKH.chm</config-value>
+      <config-value name="outputfile">..\..\..\CHM Archimed\ArchiMed.chm</config-value>
       <config-value name="deletetemp">1</config-value>
       <config-value name="usesecondarywindows">0</config-value>
       <config-value name="htmlpopuptextfile">CSHelp.txt</config-value>
@@ -568,6 +571,11 @@ document.write('</frameset>');
             <config-value name="sort">0</config-value>
             <config-value name="include">CHM,HTML,PDF</config-value>
           </config-group>
+        </config-group>
+      </config-group>
+      <config-group name="iliya">
+        <config-group name="project">
+          <config-value name="lastexport">0</config-value>
         </config-group>
       </config-group>
     </config-group>
