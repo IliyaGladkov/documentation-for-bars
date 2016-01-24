@@ -39,8 +39,8 @@
       </export-task-group>
     </export-task-groups>
     <helpwindows>
-      <helpwindow name="Main" left="274" top="122" width="1024" height="768">
-        <caption translate="true">Автоматизация мед.учреждений - &lt;%DATE%&gt;</caption>
+      <helpwindow name="Main" left="410" top="106" width="1024" height="768">
+        <caption translate="true">Система управления ArchiMed+ / Версия от &lt;%DATE%&gt;</caption>
         <window-options-hlp autosize="true" maximize="false" posabsolute="false" keepontop="false" buttons="0" headercolor="#F0F0F0" textcolor="#FFFFFF"/>
         <window-options-chm navigation="true" navigationwidth="200" search="true" favorite="true" saveregistry="true" buttons="14414">
           <user-button name="jump1">
@@ -178,8 +178,8 @@
           <%TOPIC_HEADER%>
           </td>
           <td width="70" align="right">
-          <IF_PREVIOUS_PAGE><a href="<%HREF_PREVIOUS_PAGE%>"><img style="vertical-align:middle;" src="previous.gif" alt="Назад" title="Назад" width="18" height="18" border=0></a>&nbsp;</IF_PREVIOUS_PAGE>
-           <IF_NEXT_PAGE><a href="<%HREF_NEXT_PAGE%>"><img style="vertical-align:middle;" src="next.gif" alt="Вперед" title="Вперед" width="18" height="18" border="0"></a></IF_NEXT_PAGE>
+          <IF_PREVIOUS_PAGE><a href="<%HREF_PREVIOUS_PAGE%>"><img style="vertical-align:middle;" src="previous_arch.gif" alt="Назад" title="Назад" width="18" height="18" border=0></a>&nbsp;</IF_PREVIOUS_PAGE>
+           <IF_NEXT_PAGE><a href="<%HREF_NEXT_PAGE%>"><img style="vertical-align:middle;" src="next_arch.gif" alt="Вперед" title="Вперед" width="18" height="18" border="0"></a></IF_NEXT_PAGE>
           </td>
         </tr>
       </table>

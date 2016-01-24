@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
 <topic template="Default" lasteditedby="Iliya" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
-  <title translate="true">Автоматизация мед. учреждений ArchiMed+</title>
+  <title translate="true">Система управления ArchiMed+</title>
   <body>
     <header>
-      <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:10pt; font-weight:bold; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#ffffff; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Автоматизация мед. учреждений ArchiMed+</text></para>
+      <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:10pt; font-weight:bold; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#ffffff; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Система управления клиникой ArchiMed+</text></para>
     </header>
-    <para styleclass="Heading3"><text styleclass="Heading3" translate="true">Автоматизация медицинских учреждений ArchiMed+</text></para>
+    <para styleclass="Heading3"><text styleclass="Heading3" translate="true">Система управления клиникой ArchiMed+</text></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">ArchiMed – профессиональная система автоматизации медицинских учреждений любого профиля. Работа над программным комплексом ведётся с 2005 года, его основой является платформа “Archi”, которая так же является разработкой нашей компании. Первые внедрения программного комплекса доказали его способность к масштабированию и лёгкому развёртыванию на объекте.</text></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.45; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
