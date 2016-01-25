@@ -4,7 +4,7 @@
   <title translate="true">Работа с аварийными домами</title>
   <body>
     <header>
-      <para styleclass="Heading1"><link displaytype="text" defaultstyle="false" type="topiclink" href="housing" styleclass="Heading1" translate="true">Жилищный фонд</link><text styleclass="Heading1" translate="true"> / Работа с аварийными домами</text></para>
+      <para styleclass="Heading1"><link displaytype="text" defaultstyle="false" type="topiclink" href="registratura" styleclass="Heading1" translate="true">Жилищный фонд</link><text styleclass="Heading1" translate="true"> / Работа с аварийными домами</text></para>
     </header>
     <para styleclass="Heading3"><text styleclass="Heading3" translate="true">Работа с аварийными домами</text></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
@@ -38,19 +38,19 @@
       <tr style="vertical-align:top">
         <td>
           <para styleclass="text_butons"><image src="baton_add_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Добавить запись</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Добавить. Нажать, если нужно добавить запись</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true">   Добавить. Нажать, если нужно добавить запись</text></para>
           <para styleclass="text_butons"><image src="baton_update_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Обновить запись</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Обновить. Нажать, если нужно обновить данные в таблице</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true">   Обновить. Нажать, если нужно обновить данные в таблице</text></para>
           <para styleclass="text_butons"><image src="baton_import_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Выгрузить данные</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Выгрузка. Нажать, если нужно выгрузить данные в Excel</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true">   Выгрузка. Нажать, если нужно выгрузить данные в Excel</text></para>
           <para styleclass="text_butons"><image src="baton_edit_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Редактировать запись</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Редактировать. Нажать, если нужно отредактировать существующую запись</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true">   Редактировать. Нажать, если нужно отредактировать существующую запись</text></para>
           <para styleclass="text_butons"><image src="baton_edit_status_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Смена статуса</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Сменить статус. Нажать, если нужно перевести статус</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true">   Сменить статус. Нажать, если нужно перевести статус</text></para>
           <para styleclass="text_butons"><image src="baton_strelka_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Выбрать из выпадающего списка</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Выпадающий список. Нажать, если нужно выбрать запись из выпадающего списка</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true">   Выпадающий список. Нажать, если нужно выбрать запись из выпадающего списка</text></para>
           <para styleclass="text_butons"><image src="baton_delete.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Удалить запись</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Удалить. Нажать, если нужно удалить существующую запись</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true">   Удалить. Нажать, если нужно удалить существующую запись</text></para>
         </td>
       </tr>
     </table></para>

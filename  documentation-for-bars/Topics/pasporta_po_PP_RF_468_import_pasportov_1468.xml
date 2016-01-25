@@ -4,7 +4,7 @@
   <title translate="true">Импорт паспортов 1468</title>
   <body>
     <header>
-      <para styleclass="Heading1"><link displaytype="text" defaultstyle="false" type="topiclink" href="housing" styleclass="Heading1" translate="true">Жилищный фонд</link><text styleclass="Heading1" translate="true"> / </text><link displaytype="text" defaultstyle="false" type="topiclink" href="pasporta_po_PP_RF_468" styleclass="Heading1" translate="true">Паспорта по ПП РФ 1468 <title translate="true">Паспорта по ПП РФ 1468 </title></link><text styleclass="Heading1" translate="true">/ Импорт паспортов 1468</text></para>
+      <para styleclass="Heading1"><link displaytype="text" defaultstyle="false" type="topiclink" href="registratura" styleclass="Heading1" translate="true">Жилищный фонд</link><text styleclass="Heading1" translate="true"> / </text><link displaytype="text" defaultstyle="false" type="topiclink" href="pasporta_po_PP_RF_468" styleclass="Heading1" translate="true">Паспорта по ПП РФ 1468 <title translate="true">Паспорта по ПП РФ 1468 </title></link><text styleclass="Heading1" translate="true">/ Импорт паспортов 1468</text></para>
     </header>
     <para styleclass="Heading3"><text styleclass="Heading3" translate="true">Импорт паспортов 1468</text></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
@@ -18,11 +18,11 @@
       <tr style="vertical-align:top">
         <td>
           <para styleclass="text_butons"><image src="baton_search_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Выбрать элемент из таблицы</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Выбрать элемент. Нажать, если нужно выбрать элемент из таблицы</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true">   Выбрать элемент. Нажать, если нужно выбрать элемент из таблицы</text></para>
           <para styleclass="text_butons"><image src="baton_strelka_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Выбрать из выпадающего списка</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Выпадающий список. Нажать, если нужно выбрать запись из выпадающего списка</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true">   Выпадающий список. Нажать, если нужно выбрать запись из выпадающего списка</text></para>
           <para styleclass="text_butons"><image src="baton_delete_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Очистить поле</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Очистить. Нажать, если нужно очистить поле от данных</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true">   Очистить. Нажать, если нужно очистить поле от данных</text></para>
         </td>
       </tr>
     </table></para>
@@ -35,7 +35,7 @@
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Для импорта данных необходимо указать следующие параметры:</text></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <list id="2" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#565656;">
+    <list id="2" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#565656;">
       <li styleclass="Normal"><text styleclass="Normal" translate="true">Муниципальное образование – наименование муниципального образования данные по паспортам которого должны быть загружены с портала. Для выбора доступны только те значения, которые указаны в карточке оператора текущего пользователя в поле «Муниципальные образования».</text></li>
       <li styleclass="Normal"><text styleclass="Normal" translate="true">Месяц, год – период загружаемых паспортов.</text></li>
     </list>
@@ -63,7 +63,7 @@
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Требования к формату загружаемого файла:</text></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <list id="3" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#565656;">
+    <list id="3" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#565656;">
       <li styleclass="Normal"><text styleclass="Normal" translate="true">Файлы КЭЦП и зашифрованного документа с данными электронного паспорта (далее - ЭП) должны иметь одинаковое наименование;</text></li>
       <li styleclass="Normal"><text styleclass="Normal" translate="true">Файлы КЭЦП и зашифрованного документа с данными ЭП должны содержать в своем имени только латинские и цифровые символы;</text></li>
       <li styleclass="Normal"><text styleclass="Normal" translate="true">Имена файлов обмена, имена файлов КЭЦП и имена файлов контейнера должны совпадать в рамках одного контейнера и иметь вид R_O_GGGGMMDD_N, где:</text></li>
@@ -76,7 +76,7 @@
     <para styleclass="Normal"><text styleclass="Normal" translate="true">DD - день;</text></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">N - идентификационный номер файла (длина - от 1 до 36 знаков. Идентификационный номер файла должен обеспечивать уникальность файла).</text></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <list id="3" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#565656;">
+    <list id="3" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#565656;">
       <li styleclass="Normal"><text styleclass="Normal" translate="true">Зашифрованный файл документа обмена с данными ЭП должен иметь расширение xml,</text></li>
       <li styleclass="Normal"><text styleclass="Normal" translate="true">Файл КЭЦП должен иметь расширение crt,</text></li>
       <li styleclass="Normal"><text styleclass="Normal" translate="true">Файлы не должны быть нулевой длины,</text></li>

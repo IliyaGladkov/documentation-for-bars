@@ -4,7 +4,7 @@
   <title translate="true">Карточка аварийного дома</title>
   <body>
     <header>
-      <para styleclass="Heading1"><link displaytype="text" defaultstyle="false" type="topiclink" href="housing" styleclass="Heading1" translate="true">Жилищный фонд</link><text styleclass="Heading1" translate="true"> / </text><link displaytype="text" defaultstyle="false" type="topiclink" href="rabota_s_avariinimi_domami" styleclass="Heading1" translate="true">Работа с аварийными домами</link><text styleclass="Heading1" translate="true"> / </text><link displaytype="text" defaultstyle="false" type="topiclink" href="rabota_s_avariinimi_domami_kartochka_avariinogo_doma_razrezi_finansirovaniya" styleclass="Heading1" translate="true">Добавление аварийного дома в реестр<title translate="true">dobavlenie_avariinogo_doma</title></link><text styleclass="Heading1" translate="true"> / Карточка аварийного дома</text></para>
+      <para styleclass="Heading1"><link displaytype="text" defaultstyle="false" type="topiclink" href="registratura" styleclass="Heading1" translate="true">Жилищный фонд</link><text styleclass="Heading1" translate="true"> / </text><link displaytype="text" defaultstyle="false" type="topiclink" href="rabota_s_avariinimi_domami" styleclass="Heading1" translate="true">Работа с аварийными домами</link><text styleclass="Heading1" translate="true"> / </text><link displaytype="text" defaultstyle="false" type="topiclink" href="rabota_s_avariinimi_domami_kartochka_avariinogo_doma_razrezi_finansirovaniya" styleclass="Heading1" translate="true">Добавление аварийного дома в реестр<title translate="true">dobavlenie_avariinogo_doma</title></link><text styleclass="Heading1" translate="true"> / Карточка аварийного дома</text></para>
     </header>
     <para styleclass="Heading3"><text styleclass="Heading3" translate="true">Карточка аварийного дома</text></para>
     <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
@@ -18,17 +18,17 @@
       <tr style="vertical-align:top">
         <td>
           <para styleclass="text_butons"><image src="buton_save_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Сохранить изменения</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Сохранить. Нажать, если нужно сохранить все изменения</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true">   Сохранить. Нажать, если нужно сохранить все изменения</text></para>
           <para styleclass="text_butons"><image src="buton_save_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Сохранить изменения</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Статус. Нажать, если нужно изменить статус карточки аварийного дома</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true">   Статус. Нажать, если нужно изменить статус карточки аварийного дома</text></para>
           <para styleclass="text_butons"><image src="baton_search_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Выбрать элемент из таблицы</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Выбрать элемент. Нажать, если нужно выбрать элемент из таблицы</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true">   Выбрать элемент. Нажать, если нужно выбрать элемент из таблицы</text></para>
           <para styleclass="text_butons"><image src="baton_strelka_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Выбрать из выпадающего списка</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Выпадающий список. Нажать, если нужно выбрать запись из выпадающего списка</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true">   Выпадающий список. Нажать, если нужно выбрать запись из выпадающего списка</text></para>
           <para styleclass="text_butons"><image src="baton_delete_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Очистить поле</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Очистить. Нажать, если нужно очистить поле от данных</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true">   Очистить. Нажать, если нужно очистить поле от данных</text></para>
           <para styleclass="text_butons"><image src="baton_data_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Указать дату</title></image></para>
-          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Дата. Нажать, если нужно указать дату</text></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true">   Дата. Нажать, если нужно указать дату</text></para>
         </td>
       </tr>
     </table></para>

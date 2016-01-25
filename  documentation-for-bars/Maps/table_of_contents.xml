@@ -4,35 +4,26 @@
     <caption translate="true">Система управления ArchiMed+</caption>
     <topicref type="topic" id="419826928694203" build="CHM,HTML,PDF" modified="2014-12-12T17:30:13.296Z" icon="0" href="nachalo_raboti">
       <caption translate="true">Начало работы</caption>
-      <topicref type="topic" id="419824679473595" build="CHM,HTML,PDF" modified="2014-12-09T16:20:49.076Z" icon="0" href="nachalo_raboti_dekstop">
-        <caption translate="true">Рабочий стол</caption>
+      <topicref type="topic" id="419824679473595" build="CHM,HTML,PDF" modified="2016-01-25T20:28:40.399Z" icon="0" href="nachalo_raboti_main_menu">
+        <caption translate="true">Основное меню</caption>
       </topicref>
-      <topicref type="topic" id="419824845290669" build="CHM,HTML,PDF" modified="2014-12-09T16:20:54.396Z" icon="0" href="nachalo_raboti_glavnoe_menu">
-        <caption translate="true">Главное меню</caption>
-      </topicref>
-      <topicref type="topic" id="419825117296500" build="CHM,HTML,PDF" modified="2014-12-09T16:55:56.117Z" icon="0" href="nachalo_raboti_navigaciya">
-        <caption translate="true">Навигация</caption>
-      </topicref>
-      <topicref type="topic" id="419834627940753" build="CHM,HTML,PDF" modified="2014-12-10T11:36:48.831Z" icon="0" href="nachalo_raboti_windows">
+      <topicref type="topic" id="419834627940753" build="CHM,HTML,PDF" modified="2016-01-25T20:31:52.689Z" icon="0" href="nachalo_raboti_window">
         <caption translate="true">Окна</caption>
       </topicref>
       <topicref type="topic" id="419844371477834" build="CHM,HTML,PDF" modified="2014-12-17T10:56:01.725Z" icon="0" href="nachalo_raboti_tablici">
         <caption translate="true">Таблицы</caption>
       </topicref>
-      <topicref type="topic" id="419833067325764" build="CHM,HTML,PDF" modified="2014-12-10T11:36:54.094Z" icon="0" href="nachalo_raboti_search">
-        <caption translate="true">Поиск</caption>
-      </topicref>
       <topicref type="topic" id="419834452642047" build="CHM,HTML,PDF" modified="2014-12-17T10:58:52.341Z" icon="0" href="nachalo_raboti_exit">
         <caption translate="true">Выход</caption>
       </topicref>
     </topicref>
-    <topicref type="topic" id="418844927505181" build="CHM,HTML,PDF" modified="2014-12-01T14:54:32.852Z" icon="0" href="housing">
-      <caption translate="true">Жилищный фонд</caption>
-      <topicref type="topic" id="418846840776402" build="CHM,HTML,PDF" modified="2014-12-22T14:46:14.876Z" icon="0" href="podgotovka_modulya_k_rabote">
-        <caption translate="true">Подготовка модуля к работе</caption>
+    <topicref type="topic" id="418844927505181" build="CHM,HTML,PDF" modified="2016-01-25T20:32:41.122Z" icon="0" href="registratura">
+      <caption translate="true">Регистратура</caption>
+      <topicref type="topic" id="418846840776402" build="CHM,HTML,PDF" modified="2016-01-25T20:33:27.470Z" icon="0" href="registratura_archiv_kart">
+        <caption translate="true">Архив карт</caption>
       </topicref>
-      <topicref type="topic" id="418846207226588" build="CHM,HTML,PDF" modified="2014-11-28T16:59:24.859Z" icon="0" href="rabota_s_reestrom_gilih_domov">
-        <caption translate="true">Работа с реестром жилых домов</caption>
+      <topicref type="topic" id="418846207226588" build="CHM,HTML,PDF" modified="2016-01-25T20:34:57.638Z" icon="0" href="registratura_raspisanie_raboti_vrachei">
+        <caption translate="true">Расписание работы врачей</caption>
         <topicref type="topic" id="418855952175232" build="CHM,HTML,PDF" modified="2014-11-28T16:59:24.863Z" icon="0" href="dobavlenie_doma_v_reestr">
           <caption translate="true">Добавление дома в реестр</caption>
         </topicref>
@@ -182,8 +173,8 @@
         </topicref>
       </topicref>
     </topicref>
-    <topicref type="topic" id="419206471805813" build="CHM,HTML,PDF" modified="2014-12-01T14:53:03.804Z" icon="0" href="capitalnii_remont">
-      <caption translate="true">Капитальный ремонт</caption>
+    <topicref type="topic" id="419206471805813" build="CHM,HTML,PDF" modified="2016-01-25T20:38:08.088Z" icon="0" href="capitalnii_remont">
+      <caption translate="true">Платные услуги</caption>
       <topicref type="topic" id="41928875467482" build="CHM,HTML,PDF" modified="2014-12-01T14:53:03.813Z" icon="0" href="capitalnii_remont_dolgosrochnaya_programma">
         <caption translate="true">Долгосрочная программа</caption>
         <topicref type="topic" id="419204942339651" build="CHM,HTML,PDF" modified="2014-12-01T14:53:03.822Z" icon="0" href="capitalnii_remont_dolgosrochnaya_programma_podgotovka_sistemi_k_raschetu_programmi">
@@ -323,8 +314,8 @@
         </topicref>
       </topicref>
     </topicref>
-    <topicref type="topic" id="419334787433029" build="CHM,HTML,PDF" modified="2014-12-01T14:54:56.670Z" icon="0" href="regionalnii_operator">
-      <caption translate="true">Региональный оператор</caption>
+    <topicref type="topic" id="419334787433029" build="CHM,HTML,PDF" modified="2016-01-25T20:38:19.584Z" icon="0" href="regionalnii_operator">
+      <caption translate="true">Врач</caption>
       <topicref type="topic" id="419336705668748" build="CHM,HTML,PDF" modified="2014-12-01T14:54:56.679Z" icon="0" href="regionalnii_operator_podgotovka_modulya_k_rabote">
         <caption translate="true">Подготовка модуля к работе</caption>
         <topicref type="topic" id="419336232087390" modified="2014-12-08T09:55:47.648Z" icon="0" href="regionalnii_operator_podgotovka_modulya_k_rabote_nastroika_rolei">
@@ -542,8 +533,8 @@
         </topicref>
       </topicref>
     </topicref>
-    <topicref type="topic" id="419546688487919" build="CHM,HTML,PDF" modified="2014-12-01T14:59:12.835Z" icon="0" href="gilisnaya_inspekciya">
-      <caption translate="true">Жилищная инспекция</caption>
+    <topicref type="topic" id="419546688487919" build="CHM,HTML,PDF" modified="2016-01-25T20:39:05.911Z" icon="0" href="gilisnaya_inspekciya">
+      <caption translate="true">Профосмотр</caption>
       <topicref type="topic" id="419564451328675" build="CHM,HTML,PDF" modified="2014-12-01T14:57:01.555Z" icon="0" href="gilisnaya_inspekciya_podgotovka_modulya">
         <caption translate="true">Подготовка модуля к работе</caption>
       </topicref>
@@ -686,8 +677,8 @@
         </topicref>
       </topicref>
     </topicref>
-    <topicref type="topic" id="41952921051235" build="CHM,HTML,PDF" modified="2014-12-01T14:58:01.743Z" icon="0" href="raskritie_informacii">
-      <caption translate="true">Раскрытие информации</caption>
+    <topicref type="topic" id="41952921051235" build="CHM,HTML,PDF" modified="2016-01-25T20:39:27.373Z" icon="0" href="raskritie_informacii">
+      <caption translate="true">Лаборатория</caption>
       <topicref type="topic" id="419646785818642" build="CHM,HTML,PDF" modified="2014-12-01T14:58:01.753Z" icon="0" href="podgotovka_modulya">
         <caption translate="true">Подготовка модуля к работе</caption>
       </topicref>
@@ -707,8 +698,8 @@
         <caption translate="true">Массовая генерация отчета по 731 пост.</caption>
       </topicref>
     </topicref>
-    <topicref type="topic" id="419544639986953" build="CHM,HTML,PDF" modified="2014-12-01T14:58:37.642Z" icon="0" href="otcheti">
-      <caption translate="true">Отчеты</caption>
+    <topicref type="topic" id="419544639986953" build="CHM,HTML,PDF" modified="2016-01-25T20:41:20.709Z" icon="0" href="otcheti">
+      <caption translate="true">Менеджер</caption>
       <topicref type="topic" id="419545693154093" build="CHM,HTML,PDF" modified="2014-12-01T14:58:37.653Z" icon="0" href="otcheti_otcheti">
         <caption translate="true">Отчеты</caption>
       </topicref>
@@ -727,15 +718,9 @@
       <topicref type="topic" id="419547801485261" build="CHM,HTML,PDF" modified="2014-12-01T14:58:37.686Z" icon="0" href="otcheti_spravochnik_otchetov">
         <caption translate="true">Справочник отчетов</caption>
       </topicref>
-      <topicref type="topic" id="419544823312217" modified="2014-12-01T15:39:33.481Z" icon="0" href="otcheti_panel_otchetov">
-        <caption translate="true">Панель отчетов</caption>
-      </topicref>
-      <topicref type="topic" id="419559026803651" modified="2014-11-28T10:50:31.068Z" icon="0" href="otcheti_OLAP_analitika">
-        <caption translate="true">OLAP аналитика</caption>
-      </topicref>
     </topicref>
-    <topicref type="topic" id="419546437059016" build="CHM,HTML,PDF" modified="2014-12-01T14:59:24.820Z" icon="0" href="obrasheniya">
-      <caption translate="true">Обращения</caption>
+    <topicref type="topic" id="419546437059016" build="CHM,HTML,PDF" modified="2016-01-25T20:41:50.886Z" icon="0" href="obrasheniya">
+      <caption translate="true">IP-телефония</caption>
       <topicref type="topic" id="419546267837890" build="CHM,HTML,PDF" modified="2014-12-01T14:59:24.833Z" icon="0" href="obrasheniya_obrasheniya_gragdan">
         <caption translate="true">Обращения граждан</caption>
       </topicref>
@@ -746,14 +731,14 @@
         <caption translate="true">Места проблемы</caption>
       </topicref>
     </topicref>
-    <topicref type="topic" id="41952606464338" build="CHM,HTML,PDF" modified="2014-12-01T14:59:36.843Z" icon="0" href="processi">
-      <caption translate="true">Процессы</caption>
+    <topicref type="topic" id="41952606464338" build="CHM,HTML,PDF" modified="2016-01-25T20:42:05.652Z" icon="0" href="processi">
+      <caption translate="true">Склад</caption>
       <topicref type="topic" id="419554996894844" build="CHM,HTML,PDF" modified="2014-12-01T14:59:36.854Z" icon="0" href="processi_spisok_zadach">
         <caption translate="true">Список задач</caption>
       </topicref>
     </topicref>
-    <topicref type="topic" id="419544570310652" build="CHM,HTML,PDF" modified="2014-12-01T14:59:55.544Z" icon="0" href="uchastniki_processa">
-      <caption translate="true">Участники процесса</caption>
+    <topicref type="topic" id="419544570310652" build="CHM,HTML,PDF" modified="2016-01-25T20:42:22.164Z" icon="0" href="uchastniki_processa">
+      <caption translate="true">Инфо-плазма</caption>
       <topicref type="topic" id="419556115883991" build="CHM,HTML,PDF" modified="2014-12-01T14:59:55.556Z" icon="0" href="uchastniki_processa_kontragenti">
         <caption translate="true">Контрагенты</caption>
         <topicref type="topic" id="419556120215044" build="CHM,HTML,PDF" modified="2014-12-01T14:59:55.569Z" icon="0" href="uchastniki_processa_kontragenti_kontragenti">

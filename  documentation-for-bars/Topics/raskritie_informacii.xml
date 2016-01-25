@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" lasteditedby="ilya.gladkov" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
-  <title translate="true">Раскрытие информации</title>
+<topic template="Default" lasteditedby="Iliya" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Лаборатория</title>
   <body>
     <header>
-      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Раскрытие информации</text></para>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Лаборатория</text></para>
     </header>
     <para styleclass="Heading3"><text styleclass="Heading3" translate="true">Раскрытие информации</text></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
@@ -14,19 +14,19 @@
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Основной функционал системы включает:</text></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <list id="9" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Tahoma; font-size:10pt; color:#565656;">
+    <list id="3" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Tahoma; font-size:10pt; color:#565656;">
       <li styleclass="Normal"><text styleclass="Normal" translate="true">Личный кабинет управляющей организации, включающий формы для раскрытия информации в рамках Постановления Правительства РФ №731 от 23.09.2010.</text></li>
       <li styleclass="Normal"><text styleclass="Normal" translate="true">Личный кабинет органа государственной (муниципальной) власти, который позволяет производить:</text></li>
     </list>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <list id="10" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#565656;">
+    <list id="4" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#565656;">
       <li styleclass="Normal"><text styleclass="Normal" translate="true">Контроль раскрытия информации управляющими организациями;</text></li>
       <li styleclass="Normal"><text styleclass="Normal" translate="true">Аналитические отчеты для оценки качества исполнения законодательства, итоговую отчетность и сбор статистических данных.</text></li>
     </list>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">В единую базу данных управляющие организации в электронном виде вносят следующие сведения:</text></para>
     <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-    <list id="11" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#565656;">
+    <list id="5" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#565656;">
       <li styleclass="Normal"><text styleclass="Normal" translate="true">Общая информация об организации;</text></li>
       <li styleclass="Normal"><text styleclass="Normal" translate="true">Основные показатели финансово-хозяйственной деятельности;</text></li>
       <li styleclass="Normal"><text styleclass="Normal" translate="true">Сведения о выполняемых работах (оказываемых услугах) по содержанию и ремонту общего имущества в многоквартирном доме;</text></li>

@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="Iliya" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Расписание работы врачей</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><link displaytype="text" defaultstyle="false" type="topiclink" href="registratura" styleclass="Heading1" translate="true">Жилищный фонд<title translate="true">Жилищный фонд</title></link><text styleclass="Heading1" translate="true"> / Работа с реестром жилых домов</text></para>
+    </header>
+    <para styleclass="Heading3"><text styleclass="Heading3" translate="true">Работа с реестром жилых домов</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Реестр жилых домов необходим для хранения основной, технической, энергетической и эксплуатационной информации по многоквартирным и индивидуальным домам. В разделе можно добавлять и редактировать дома, искать с помощью фильтров конкретный дом или группы домов, выгружать их в Excel, а также просматривать местоположение дома на карте и многое другое.</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Работа с реестром жилых домов включает в себя следующие этапы:</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <list id="2" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Tahoma; font-size:10pt; color:#565656;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Заполнение формы жилого дома</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Заполнение общих сведений о жилом доме</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Выбор конструктивных характеристик жилого дома</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Заполнение сведений о конструктивных элементах жилого дома</text></li>
+    </list>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для вызова реестра жилых домов необходимо пройти по ссылке:</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><table styleclass="put" rowcount="1" colcount="2" style="width:100%; cell-padding:4px; cell-spacing:0px;">
+      <tr style="vertical-align:middle">
+        <td style="vertical-align:middle; width:1%; height:25px;">
+          <para styleclass="Normal" style="text-align:center;"><conditional-text type="IF" value="CHM,HTML"/><html-code width="200" height="20" translate="true"><![CDATA[<img src="baton_dekstop_main.png" width="26" height="20" alt="Главное меню" title="Главное меню" style="border:none;padding-bottom: 0px;padding-top: 3px;padding-left: 3px;padding-right: 5px;">
+]]></html-code><conditional-text type="ELSE"/><image src="baton_dekstop_main.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Главное меню</title></image><conditional-text type="END"/></para>
+        </td>
+        <td style="vertical-align:middle; width:100%; height:23px;">
+          <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Tahoma; font-size:9pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#565656; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Главное Меню ›› Жилищный Фонд ›› Реестр Жилых Домов</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">В результате выполнения операции на экране появится раздел «Реестр жилых домов» со списком домов.</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="forma_reestr_gilih_domov.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Раздел Реестр жилых домов</title></image></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Для комфортного поиска конкретного дома или группы домов в разделе реализованы следующие фильтры:</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <list id="3" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#565656;">
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Показать снесенные дома - В таблице останутся дома, которые были снесены;</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Показать индивидуальные дома - В таблице останутся дома индивидуального типа;</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Показать дома блокированной застройки - В таблице останутся дома блокированного типа;</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Показать дома без агентов доставки - В таблице останутся дома, которые не имеют агента доставки;</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" translate="true">Агент доставки - В таблице останутся дома, которые привязаны к данному агенту.</text></li>
+    </list>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Возможна сортировка данных по алфавиту или по значению выбранного показателя.</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Кнопки используемые в разделе «Реестр жилых домов»:</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.35; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><table styleclass="Warning" rowcount="1" colcount="1" style="width:100%; cell-padding:6px; cell-spacing:0px; page-break-inside:avoid; border-width:1px; border-spacing:0px; cell-border-width:0px; border-color:#e0e0e0; border-style:solid; background-color:#fbfbec; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:bottom">
+        <td>
+          <para styleclass="text_butons"><image src="baton_edit_status_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Смена статуса</title></image></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Сменить статус. Нажать, если нужно перевести статус</text></para>
+          <para styleclass="text_butons"><image src="baton_edit_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Редактировать запись</title></image></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Редактировать. Нажать, если нужно отредактировать существующую запись</text></para>
+          <para styleclass="text_butons"><image src="baton_add_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Добавить запись</title></image></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Добавить. Нажать, если нужно добавить запись</text></para>
+          <para styleclass="text_butons"><image src="baton_update_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Обновить запись</title></image></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Обновить. Нажать, если нужно обновить данные в таблице</text></para>
+          <para styleclass="text_butons"><image src="baton_delete.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Удалить запись</title></image></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Удалить. Нажать, если нужно удалить существующую запись</text></para>
+          <para styleclass="text_butons"><image src="baton_map.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Открыть карту</title></image></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Карта. Нажать, если нужно показать сведения на карте</text></para>
+          <para styleclass="text_butons"><image src="baton_import_small.png" align="left" scale="100.00%" styleclass="text_butons"><title translate="true">Выгрузить данные</title></image></para>
+          <para styleclass="text_butons"><text styleclass="text_butons" translate="true"> &#160; Выгрузить. Нажать, если нужно выгрузить данные в Excel</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.40; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Помимо стандартных кнопок управления, в разделе имеется кнопка выгрузки данных в Excel. Данная опция упрощает групповую работу с большим объемом данных.</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Далее рассматривается процесс добавления дома в реестр жилых домов.</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+  </body>
+</topic>

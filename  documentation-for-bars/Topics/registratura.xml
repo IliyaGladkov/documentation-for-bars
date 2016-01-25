@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="Iliya" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Регистратура</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Регистратура</text></para>
+    </header>
+    <para styleclass="Heading3"><text styleclass="Heading3" translate="true">Жилищный фонд</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Программный продукт «БАРС.ЖКХ - Жилищный Фонд» решает задачи формирования единой базы и электронной паспортизации жилых объектов с полными характеристиками.</text></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="gilfond_shema.png" scale="100.00%" styleclass="Image Caption"><title translate="true">Жилищный фонд</title></image></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Каждый объект получает электронный паспорт. В паспорте содержится исчерпывающий перечень характеристик объекта, в том числе технические показатели, согласно методическим рекомендациям ГК «Фонд содействия реформированию ЖКХ», энергетические характеристики и сведения о состоянии дома: включая адрес, площадь и этажность дома, количество жильцов, сведения о земельном участке, данные об управляющей компании, времени последнего капитального ремонта, материалах стен, кровли, сведения о квартирах и численности проживающих и многие другие показатели.</text></para>
+    <para styleclass=" " style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.20; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+  </body>
+</topic>
